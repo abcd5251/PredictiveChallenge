@@ -178,6 +178,5 @@ catboost_info/
 audio
 *.wav
 results
-*.txt
 *.mp3
 *.jpg
