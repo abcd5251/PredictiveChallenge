@@ -38,5 +38,15 @@ df_repo_metrics['github_url'] = df_repo_metrics.apply(
 )
 df_repo_metrics.to_csv('./repo_metrics.csv')
 
+test_df = pd.read_csv('test.csv')
+repo_df = pd.read_csv('repo_metrics.csv')
 
+repo_sorted = pd.merge(test_df[['project_b']], repo_df.rename(columns={'github_url': 'project_b'}), on='project_b',how='left')
 
+repo_sorted.to_csv('repo_sorted.csv', index=False)
+print("success")
+combined = pd.concat([test_df, repo_sorted.drop(columns=['project_b'])], axis=1)
+combined.to_csv("data1.csv", index= False)
+df = pd.read_csv("data1.csv")
+df = df.drop(columns=["Unnamed: 0"])
+df.to_csv("data1.csv", index=False)

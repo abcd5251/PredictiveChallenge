@@ -7,7 +7,6 @@ __pycache__/
 *.onnx
 # C extensions
 *.so
-*.csv
 *.json
 *.jsonl
 *.joblib
