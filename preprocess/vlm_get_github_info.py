@@ -20,8 +20,9 @@ if __name__ == '__main__':
     
     
         output_text, input_token, output_token = openai_model_instance.process_image(image_paths)
-       
-        item["description"] = output_text
+        print(output_text)
+        output_text = output_text.replace("```","").replace("json","")
+        item["description"] = json.loads(output_text)
         print("itm", item)   
-        with open("new_data.json", "w") as file:
+        with open("new_new_data.json", "w") as file:
             json.dump(data, file)

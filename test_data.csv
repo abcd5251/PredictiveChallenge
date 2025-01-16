@@ -1,0 +1,1024 @@
+id,project_a,project_b,project_a_star_count,project_a_fork_count,project_a_watcher_count,project_a_contributors_count,project_a_Readme_score,project_a_technical_innovation,project_a_community_engagement,project_a_accessibility,project_b_star_count,project_b_fork_count,project_b_watcher_count,project_b_contributors_count,project_b_Readme_score,project_b_technical_innovation,project_b_community_engagement,project_b_accessibility
+1,https://github.com/prettier-solidity/prettier-plugin-solidity,https://github.com/ethers-io/ethers.js,731,75,12,21,4.5,4.0,3.5,4.0,8.1k,1.9k,104,Not explicitly provided in the information.,4.5,4.8,4.2,4.0
+8,https://github.com/prettier-solidity/prettier-plugin-solidity,https://github.com/bluealloy/revm,731,75,12,21,4.5,4.0,3.5,4.0,1.7k,602,30,154,4.5,4.8,4.2,4.0
+13,https://github.com/prettier-solidity/prettier-plugin-solidity,https://github.com/paradigmxyz/reth,731,75,12,21,4.5,4.0,3.5,4.0,4.3k,1.3k,60,446,4.5,4.8,4.2,4.0
+15,https://github.com/prettier-solidity/prettier-plugin-solidity,https://github.com/ipfs/js-ipfs,731,75,12,21,4.5,4.0,3.5,4.0,7.4k,1.3k,223,221,4.0,4.5,3.5,3.0
+18,https://github.com/prysmaticlabs/prysm,https://github.com/consensys/teku,3.5k,1.1k,129,257,4.5,4.8,4.2,4.0,692,304,34,109,4.5,4.0,4.0,3.5
+23,https://github.com/prysmaticlabs/prysm,https://github.com/chainsafe/lodestar,3.5k,1.1k,129,257,4.5,4.8,4.2,4.0,1.2k,317,35,111,4.5,4.8,4.2,4.0
+26,https://github.com/sigp/lighthouse,https://github.com/prysmaticlabs/prysm,3k,784,70,192,4.5,4.8,4.2,4.0,3.5k,1.1k,129,257,4.5,4.8,4.2,4.0
+27,https://github.com/sigp/lighthouse,https://github.com/ethers-io/ethers.js,3k,784,70,192,4.5,4.8,4.2,4.0,8.1k,1.9k,104,Not explicitly provided in the information.,4.5,4.8,4.2,4.0
+30,https://github.com/sigp/lighthouse,https://github.com/prettier-solidity/prettier-plugin-solidity,3k,784,70,192,4.5,4.8,4.2,4.0,731,75,12,21,4.5,4.0,3.5,4.0
+31,https://github.com/sigp/lighthouse,https://github.com/ethereum/solidity,3k,784,70,192,4.5,4.8,4.2,4.0,23.7k,5.9k,732,636,4.5,4.8,4.7,4.2
+32,https://github.com/sigp/lighthouse,https://github.com/ethereum/remix-project,3k,784,70,192,4.5,4.8,4.2,4.0,2.5k,1k,68,181,4.5,4.8,4.2,4.0
+33,https://github.com/sigp/lighthouse,https://github.com/ethereum/go-ethereum,3k,784,70,192,4.5,4.8,4.2,4.0,48.1k,20.4k,2.2k,"1,111",4.5,4.8,4.7,4.2
+34,https://github.com/sigp/lighthouse,https://github.com/chainsafe/lodestar,3k,784,70,192,4.5,4.8,4.2,4.0,1.2k,317,35,111,4.5,4.8,4.2,4.0
+44,https://github.com/sigp/lighthouse,https://github.com/alloy-rs/core,3k,784,70,192,4.5,4.8,4.2,4.0,818,167,22,66,4.5,4.8,4.2,4.0
+45,https://github.com/sigp/lighthouse,https://github.com/ethereumjs/ethereumjs-monorepo,3k,784,70,192,4.5,4.8,4.2,4.0,2.6k,775,64,206,4.5,4.8,4.2,4.0
+46,https://github.com/sigp/lighthouse,https://github.com/quic-go/quic-go,3k,784,70,192,4.5,4.8,4.2,4.0,10.3k,1.3k,218,113,4.5,4.8,4.2,4.0
+49,https://github.com/sigp/lighthouse,https://github.com/ethereum/solc-js,3k,784,70,192,4.5,4.8,4.2,4.0,1.5k,479,46,42,4.5,4.0,3.5,4.0
+52,https://github.com/walletconnect/walletconnect-monorepo,https://github.com/sigp/lighthouse,1.5k,727,73,144,4.0,4.5,4.0,3.5,3k,784,70,192,4.5,4.8,4.2,4.0
+53,https://github.com/walletconnect/walletconnect-monorepo,https://github.com/nomicfoundation/hardhat,1.5k,727,73,144,4.0,4.5,4.0,3.5,7.4k,1.5k,77,373,4.5,4.8,4.7,4.3
+57,https://github.com/walletconnect/walletconnect-monorepo,https://github.com/ethereum/solidity,1.5k,727,73,144,4.0,4.5,4.0,3.5,23.7k,5.9k,732,636,4.5,4.8,4.7,4.2
+59,https://github.com/walletconnect/walletconnect-monorepo,https://github.com/ethereum/go-ethereum,1.5k,727,73,144,4.0,4.5,4.0,3.5,48.1k,20.4k,2.2k,"1,111",4.5,4.8,4.7,4.2
+60,https://github.com/walletconnect/walletconnect-monorepo,https://github.com/chainsafe/lodestar,1.5k,727,73,144,4.0,4.5,4.0,3.5,1.2k,317,35,111,4.5,4.8,4.2,4.0
+64,https://github.com/walletconnect/walletconnect-monorepo,https://github.com/mikemcl/bignumber.js,1.5k,727,73,144,4.0,4.5,4.0,3.5,6.7k,744,83,35,4.5,4.8,4.0,4.2
+68,https://github.com/walletconnect/walletconnect-monorepo,https://github.com/redux-saga/redux-saga,1.5k,727,73,144,4.0,4.5,4.0,3.5,22.5k,2k,249,322,4.5,4.8,4.2,4.0
+70,https://github.com/walletconnect/walletconnect-monorepo,https://github.com/vercel/swr,1.5k,727,73,144,4.0,4.5,4.0,3.5,30.9k,1.2k,209,183,4.5,4.8,4.2,4.0
+71,https://github.com/walletconnect/walletconnect-monorepo,https://github.com/pytest-dev/pytest,1.5k,727,73,144,4.0,4.5,4.0,3.5,12.3k,2.7k,196,875,4.5,4.8,4.7,4.6
+74,https://github.com/walletconnect/walletconnect-monorepo,https://github.com/emotion-js/emotion,1.5k,727,73,144,4.0,4.5,4.0,3.5,17.6k,1.1k,96,319,4.5,4.8,4.2,4.0
+77,https://github.com/walletconnect/walletconnect-monorepo,https://github.com/clap-rs/clap,1.5k,727,73,144,4.0,4.5,4.0,3.5,14.6k,1.1k,69,517,4.5,4.8,4.2,4.0
+81,https://github.com/walletconnect/walletconnect-monorepo,https://github.com/swc-project/swc,1.5k,727,73,144,4.0,4.5,4.0,3.5,31.5k,1.2k,153,304,4.5,4.8,4.2,4.0
+88,https://github.com/walletconnect/walletconnect-monorepo,https://github.com/gulpjs/gulp,1.5k,727,73,144,4.0,4.5,4.0,3.5,33.1k,4.2k,1k,246,4.5,4.0,4.5,4.0
+89,https://github.com/walletconnect/walletconnect-monorepo,https://github.com/typescript-eslint/typescript-eslint,1.5k,727,73,144,4.0,4.5,4.0,3.5,15.4k,2.8k,90,701,4.5,4.8,4.7,4.3
+94,https://github.com/walletconnect/walletconnect-monorepo,https://github.com/rollup/rollup,1.5k,727,73,144,4.0,4.5,4.0,3.5,25.5k,1.5k,257,395,4.5,4.8,4.2,4.0
+97,https://github.com/walletconnect/walletconnect-monorepo,https://github.com/heim-rs/darwin-libproc,1.5k,727,73,144,4.0,4.5,4.0,3.5,8,22,2,Not explicitly provided in the information.,3.5,3.0,2.5,3.0
+103,https://github.com/walletconnect/walletconnect-monorepo,https://github.com/humanwhocodes/object-schema,1.5k,727,73,144,4.0,4.5,4.0,3.5,32,7,2,3,4.0,3.5,2.5,3.0
+105,https://github.com/nomicfoundation/hardhat,https://github.com/consensys/teku,7.4k,1.5k,77,373,4.5,4.8,4.7,4.3,692,304,34,109,4.5,4.0,4.0,3.5
+109,https://github.com/nomicfoundation/hardhat,https://github.com/chainsafe/lodestar,7.4k,1.5k,77,373,4.5,4.8,4.7,4.3,1.2k,317,35,111,4.5,4.8,4.2,4.0
+110,https://github.com/nomicfoundation/hardhat,https://github.com/bluealloy/revm,7.4k,1.5k,77,373,4.5,4.8,4.7,4.3,1.7k,602,30,154,4.5,4.8,4.2,4.0
+112,https://github.com/nomicfoundation/hardhat,https://github.com/alloy-rs/core,7.4k,1.5k,77,373,4.5,4.8,4.7,4.3,818,167,22,66,4.5,4.8,4.2,4.0
+121,https://github.com/vyperlang/vyper,https://github.com/prettier-solidity/prettier-plugin-solidity,5k,819,161,223,4.5,4.8,4.2,4.0,731,75,12,21,4.5,4.0,3.5,4.0
+125,https://github.com/vyperlang/vyper,https://github.com/chainsafe/lodestar,5k,819,161,223,4.5,4.8,4.2,4.0,1.2k,317,35,111,4.5,4.8,4.2,4.0
+135,https://github.com/vyperlang/vyper,https://github.com/paradigmxyz/reth,5k,819,161,223,4.5,4.8,4.2,4.0,4.3k,1.3k,60,446,4.5,4.8,4.2,4.0
+136,https://github.com/vyperlang/vyper,https://github.com/alloy-rs/core,5k,819,161,223,4.5,4.8,4.2,4.0,818,167,22,66,4.5,4.8,4.2,4.0
+140,https://github.com/vyperlang/vyper,https://github.com/erigontech/erigon,5k,819,161,223,4.5,4.8,4.2,4.0,3.2k,1.2k,65,833,4.5,4.8,4.2,3.8
+142,https://github.com/vyperlang/vyper,https://github.com/ethereum/solc-js,5k,819,161,223,4.5,4.8,4.2,4.0,1.5k,479,46,42,4.5,4.0,3.5,4.0
+145,https://github.com/wighawag/hardhat-deploy,https://github.com/walletconnect/walletconnect-monorepo,1.2k,298,15,88,4.5,4.8,4.2,4.0,1.5k,727,73,144,4.0,4.5,4.0,3.5
+150,https://github.com/wighawag/hardhat-deploy,https://github.com/prettier-solidity/prettier-plugin-solidity,1.2k,298,15,88,4.5,4.8,4.2,4.0,731,75,12,21,4.5,4.0,3.5,4.0
+153,https://github.com/wighawag/hardhat-deploy,https://github.com/ethereum/go-ethereum,1.2k,298,15,88,4.5,4.8,4.2,4.0,48.1k,20.4k,2.2k,"1,111",4.5,4.8,4.7,4.2
+158,https://github.com/wighawag/hardhat-deploy,https://github.com/protofire/solhint,1.2k,298,15,88,4.5,4.8,4.2,4.0,1.1k,169,21,52,4.5,4.0,3.5,4.0
+163,https://github.com/wighawag/hardhat-deploy,https://github.com/eth-infinitism/account-abstraction,1.2k,298,15,88,4.5,4.8,4.2,4.0,1.6k,675,39,25,3.5,4.0,3.0,3.5
+167,https://github.com/wighawag/hardhat-deploy,https://github.com/paradigmxyz/reth,1.2k,298,15,88,4.5,4.8,4.2,4.0,4.3k,1.3k,60,446,4.5,4.8,4.2,4.0
+169,https://github.com/ethers-io/ethers.js,https://github.com/consensys/teku,8.1k,1.9k,104,Not explicitly provided in the information.,4.5,4.8,4.2,4.0,692,304,34,109,4.5,4.0,4.0,3.5
+171,https://github.com/ethers-io/ethers.js,https://github.com/ethereum/remix-project,8.1k,1.9k,104,Not explicitly provided in the information.,4.5,4.8,4.2,4.0,2.5k,1k,68,181,4.5,4.8,4.2,4.0
+174,https://github.com/ethers-io/ethers.js,https://github.com/bluealloy/revm,8.1k,1.9k,104,Not explicitly provided in the information.,4.5,4.8,4.2,4.0,1.7k,602,30,154,4.5,4.8,4.2,4.0
+175,https://github.com/ethers-io/ethers.js,https://github.com/axios/axios,8.1k,1.9k,104,Not explicitly provided in the information.,4.5,4.8,4.2,4.0,106k,11k,1.2k,454,4.5,4.8,4.7,4.3
+176,https://github.com/ethers-io/ethers.js,https://github.com/browserslist/browserslist,8.1k,1.9k,104,Not explicitly provided in the information.,4.5,4.8,4.2,4.0,13.1k,721,140,179,4.5,4.0,4.0,3.5
+177,https://github.com/ethers-io/ethers.js,https://github.com/epoberezkin/fast-deep-equal,8.1k,1.9k,104,Not explicitly provided in the information.,4.5,4.8,4.2,4.0,1.9k,106,14,13,4.5,4.0,3.5,4.0
+178,https://github.com/ethers-io/ethers.js,https://github.com/cssnano/cssnano,8.1k,1.9k,104,Not explicitly provided in the information.,4.5,4.8,4.2,4.0,4.8k,319,49,109,4.5,4.0,4.0,4.0
+179,https://github.com/ethers-io/ethers.js,https://github.com/emotion-js/emotion,8.1k,1.9k,104,Not explicitly provided in the information.,4.5,4.8,4.2,4.0,17.6k,1.1k,96,319,4.5,4.8,4.2,4.0
+180,https://github.com/ethers-io/ethers.js,https://github.com/eslint/eslint,8.1k,1.9k,104,Not explicitly provided in the information.,4.5,4.8,4.2,4.0,25.4k,4.6k,315,"1,035",4.5,4.8,4.7,4.3
+184,https://github.com/ethers-io/ethers.js,https://github.com/chzyer/readline,8.1k,1.9k,104,Not explicitly provided in the information.,4.5,4.8,4.2,4.0,2.1k,280,41,38,4.0,4.5,3.5,3.0
+185,https://github.com/ethers-io/ethers.js,https://github.com/electron/electron,8.1k,1.9k,104,Not explicitly provided in the information.,4.5,4.8,4.2,4.0,115k,15.7k,2.8k,"1,291",4.5,4.8,4.7,4.6
+188,https://github.com/ethers-io/ethers.js,https://github.com/dcodeio/long.js,8.1k,1.9k,104,Not explicitly provided in the information.,4.5,4.8,4.2,4.0,892,206,23,17,4.5,4.0,3.5,3.0
+189,https://github.com/ethers-io/ethers.js,https://github.com/eth-infinitism/account-abstraction,8.1k,1.9k,104,Not explicitly provided in the information.,4.5,4.8,4.2,4.0,1.6k,675,39,25,3.5,4.0,3.0,3.5
+193,https://github.com/ethereum/solidity,https://github.com/ethereum/go-ethereum,23.7k,5.9k,732,636,4.5,4.8,4.7,4.2,48.1k,20.4k,2.2k,"1,111",4.5,4.8,4.7,4.2
+195,https://github.com/ethereum/solidity,https://github.com/chainsafe/lodestar,23.7k,5.9k,732,636,4.5,4.8,4.7,4.2,1.2k,317,35,111,4.5,4.8,4.2,4.0
+196,https://github.com/ethereum/solidity,https://github.com/eth-infinitism/account-abstraction,23.7k,5.9k,732,636,4.5,4.8,4.7,4.2,1.6k,675,39,25,3.5,4.0,3.0,3.5
+197,https://github.com/ethereum/solidity,https://github.com/crate-crypto/go-ipa,23.7k,5.9k,732,636,4.5,4.8,4.7,4.2,33,14,3,3,4.0,4.5,3.0,3.5
+200,https://github.com/ethereum/solidity,https://github.com/erigontech/erigon,23.7k,5.9k,732,636,4.5,4.8,4.7,4.2,3.2k,1.2k,65,833,4.5,4.8,4.2,3.8
+204,https://github.com/ethereum/remix-project,https://github.com/chainsafe/lodestar,2.5k,1k,68,181,4.5,4.8,4.2,4.0,1.2k,317,35,111,4.5,4.8,4.2,4.0
+209,https://github.com/ethereum/go-ethereum,https://github.com/consensys/teku,48.1k,20.4k,2.2k,"1,111",4.5,4.8,4.7,4.2,692,304,34,109,4.5,4.0,4.0,3.5
+211,https://github.com/ethereum/go-ethereum,https://github.com/bluealloy/revm,48.1k,20.4k,2.2k,"1,111",4.5,4.8,4.7,4.2,1.7k,602,30,154,4.5,4.8,4.2,4.0
+212,https://github.com/ethereum/go-ethereum,https://github.com/eth-infinitism/account-abstraction,48.1k,20.4k,2.2k,"1,111",4.5,4.8,4.7,4.2,1.6k,675,39,25,3.5,4.0,3.0,3.5
+215,https://github.com/ethereum/go-ethereum,https://github.com/erigontech/erigon,48.1k,20.4k,2.2k,"1,111",4.5,4.8,4.7,4.2,3.2k,1.2k,65,833,4.5,4.8,4.2,3.8
+219,https://github.com/wevm/viem,https://github.com/prysmaticlabs/prysm,2.7k,946,30,498,4.5,4.8,4.2,4.0,3.5k,1.1k,129,257,4.5,4.8,4.2,4.0
+220,https://github.com/wevm/viem,https://github.com/walletconnect/walletconnect-monorepo,2.7k,946,30,498,4.5,4.8,4.2,4.0,1.5k,727,73,144,4.0,4.5,4.0,3.5
+221,https://github.com/wevm/viem,https://github.com/prettier-solidity/prettier-plugin-solidity,2.7k,946,30,498,4.5,4.8,4.2,4.0,731,75,12,21,4.5,4.0,3.5,4.0
+222,https://github.com/wevm/viem,https://github.com/vyperlang/vyper,2.7k,946,30,498,4.5,4.8,4.2,4.0,5k,819,161,223,4.5,4.8,4.2,4.0
+227,https://github.com/wevm/viem,https://github.com/bluealloy/revm,2.7k,946,30,498,4.5,4.8,4.2,4.0,1.7k,602,30,154,4.5,4.8,4.2,4.0
+228,https://github.com/wevm/viem,https://github.com/consensys/teku,2.7k,946,30,498,4.5,4.8,4.2,4.0,692,304,34,109,4.5,4.0,4.0,3.5
+230,https://github.com/wevm/viem,https://github.com/protofire/solhint,2.7k,946,30,498,4.5,4.8,4.2,4.0,1.1k,169,21,52,4.5,4.0,3.5,4.0
+232,https://github.com/wevm/viem,https://github.com/web3/web3.js,2.7k,946,30,498,4.5,4.8,4.2,4.0,19.5k,5k,463,298,4.5,4.8,4.2,4.0
+234,https://github.com/wevm/viem,https://github.com/ipfs/js-ipfs,2.7k,946,30,498,4.5,4.8,4.2,4.0,7.4k,1.3k,223,221,4.0,4.5,3.5,3.0
+239,https://github.com/wevm/viem,https://github.com/crate-crypto/go-ipa,2.7k,946,30,498,4.5,4.8,4.2,4.0,33,14,3,3,4.0,4.5,3.0,3.5
+240,https://github.com/wevm/viem,https://github.com/libp2p/go-libp2p,2.7k,946,30,498,4.5,4.8,4.2,4.0,6.2k,1.1k,181,214,4.5,4.8,4.2,4.0
+241,https://github.com/wevm/viem,https://github.com/paradigmxyz/reth,2.7k,946,30,498,4.5,4.8,4.2,4.0,4.3k,1.3k,60,446,4.5,4.8,4.2,4.0
+247,https://github.com/openzeppelin/openzeppelin-contracts,https://github.com/bluealloy/revm,25.2k,11.9k,640,464,4.5,4.8,4.7,4.3,1.7k,602,30,154,4.5,4.8,4.2,4.0
+248,https://github.com/openzeppelin/openzeppelin-contracts,https://github.com/nomicfoundation/hardhat,25.2k,11.9k,640,464,4.5,4.8,4.7,4.3,7.4k,1.5k,77,373,4.5,4.8,4.7,4.3
+252,https://github.com/openzeppelin/openzeppelin-contracts,https://github.com/ethereum/remix-project,25.2k,11.9k,640,464,4.5,4.8,4.7,4.3,2.5k,1k,68,181,4.5,4.8,4.2,4.0
+255,https://github.com/openzeppelin/openzeppelin-contracts,https://github.com/crate-crypto/go-ipa,25.2k,11.9k,640,464,4.5,4.8,4.7,4.3,33,14,3,3,4.0,4.5,3.0,3.5
+257,https://github.com/openzeppelin/openzeppelin-contracts,https://github.com/alloy-rs/core,25.2k,11.9k,640,464,4.5,4.8,4.7,4.3,818,167,22,66,4.5,4.8,4.2,4.0
+258,https://github.com/protofire/solhint,https://github.com/ethers-io/ethers.js,1.1k,169,21,52,4.5,4.0,3.5,4.0,8.1k,1.9k,104,Not explicitly provided in the information.,4.5,4.8,4.2,4.0
+260,https://github.com/protofire/solhint,https://github.com/openzeppelin/openzeppelin-contracts,1.1k,169,21,52,4.5,4.0,3.5,4.0,25.2k,11.9k,640,464,4.5,4.8,4.7,4.3
+264,https://github.com/protofire/solhint,https://github.com/prettier-solidity/prettier-plugin-solidity,1.1k,169,21,52,4.5,4.0,3.5,4.0,731,75,12,21,4.5,4.0,3.5,4.0
+267,https://github.com/protofire/solhint,https://github.com/ethereum/go-ethereum,1.1k,169,21,52,4.5,4.0,3.5,4.0,48.1k,20.4k,2.2k,"1,111",4.5,4.8,4.7,4.2
+271,https://github.com/protofire/solhint,https://github.com/alloy-rs/core,1.1k,169,21,52,4.5,4.0,3.5,4.0,818,167,22,66,4.5,4.8,4.2,4.0
+273,https://github.com/protofire/solhint,https://github.com/ipfs/js-ipfs,1.1k,169,21,52,4.5,4.0,3.5,4.0,7.4k,1.3k,223,221,4.0,4.5,3.5,3.0
+275,https://github.com/web3/web3.js,https://github.com/openzeppelin/openzeppelin-contracts,19.5k,5k,463,298,4.5,4.8,4.2,4.0,25.2k,11.9k,640,464,4.5,4.8,4.7,4.3
+277,https://github.com/web3/web3.js,https://github.com/ethereum/solidity,19.5k,5k,463,298,4.5,4.8,4.2,4.0,23.7k,5.9k,732,636,4.5,4.8,4.7,4.2
+279,https://github.com/web3/web3.js,https://github.com/sigp/lighthouse,19.5k,5k,463,298,4.5,4.8,4.2,4.0,3k,784,70,192,4.5,4.8,4.2,4.0
+280,https://github.com/web3/web3.js,https://github.com/ethereum/remix-project,19.5k,5k,463,298,4.5,4.8,4.2,4.0,2.5k,1k,68,181,4.5,4.8,4.2,4.0
+283,https://github.com/web3/web3.js,https://github.com/nomicfoundation/hardhat,19.5k,5k,463,298,4.5,4.8,4.2,4.0,7.4k,1.5k,77,373,4.5,4.8,4.7,4.3
+284,https://github.com/web3/web3.js,https://github.com/supranational/blst,19.5k,5k,463,298,4.5,4.8,4.2,4.0,485,182,18,22,4.5,4.8,3.5,3.8
+289,https://github.com/web3/web3.js,https://github.com/vyperlang/vyper,19.5k,5k,463,298,4.5,4.8,4.2,4.0,5k,819,161,223,4.5,4.8,4.2,4.0
+290,https://github.com/web3/web3.js,https://github.com/status-im/nimbus-eth2,19.5k,5k,463,298,4.5,4.8,4.2,4.0,558,251,37,93,4.5,4.0,3.5,3.0
+292,https://github.com/web3/web3.js,https://github.com/bluealloy/revm,19.5k,5k,463,298,4.5,4.8,4.2,4.0,1.7k,602,30,154,4.5,4.8,4.2,4.0
+296,https://github.com/ipfs/js-ipfs,https://github.com/chainsafe/lodestar,7.4k,1.3k,223,221,4.0,4.5,3.5,3.0,1.2k,317,35,111,4.5,4.8,4.2,4.0
+297,https://github.com/ipfs/js-ipfs,https://github.com/ethereum/solidity,7.4k,1.3k,223,221,4.0,4.5,3.5,3.0,23.7k,5.9k,732,636,4.5,4.8,4.7,4.2
+299,https://github.com/ipfs/js-ipfs,https://github.com/ethereum/remix-project,7.4k,1.3k,223,221,4.0,4.5,3.5,3.0,2.5k,1k,68,181,4.5,4.8,4.2,4.0
+300,https://github.com/ipfs/js-ipfs,https://github.com/alloy-rs/core,7.4k,1.3k,223,221,4.0,4.5,3.5,3.0,818,167,22,66,4.5,4.8,4.2,4.0
+310,https://github.com/mochajs/mocha,https://github.com/mikemcl/bignumber.js,22.7k,3k,398,503,4.5,4.0,4.5,4.0,6.7k,744,83,35,4.5,4.8,4.0,4.2
+314,https://github.com/mochajs/mocha,https://github.com/emotion-js/emotion,22.7k,3k,398,503,4.5,4.0,4.5,4.0,17.6k,1.1k,96,319,4.5,4.8,4.2,4.0
+315,https://github.com/mochajs/mocha,https://github.com/coinbase/coinbase-wallet-sdk,22.7k,3k,398,503,4.5,4.0,4.5,4.0,1.5k,601,171,52,4.5,4.0,3.5,4.0
+316,https://github.com/mochajs/mocha,https://github.com/bradfitz/iter,22.7k,3k,398,503,4.5,4.0,4.5,4.0,298,12,5,Not provided,2.0,1.5,1.0,1.5
+319,https://github.com/mochajs/mocha,https://github.com/mafintosh/pump,22.7k,3k,398,503,4.5,4.0,4.5,4.0,910,59,7,7,4.0,3.5,3.0,3.5
+322,https://github.com/mochajs/mocha,https://github.com/heim-rs/darwin-libproc,22.7k,3k,398,503,4.5,4.0,4.5,4.0,8,22,2,Not explicitly provided in the information.,3.5,3.0,2.5,3.0
+323,https://github.com/mochajs/mocha,https://github.com/immerjs/immer,22.7k,3k,398,503,4.5,4.0,4.5,4.0,28k,852,155,188,4.5,4.8,4.2,4.0
+325,https://github.com/mochajs/mocha,https://github.com/lukeed/polka,22.7k,3k,398,503,4.5,4.0,4.5,4.0,5.4k,173,69,13,4.5,4.0,3.5,4.0
+326,https://github.com/mochajs/mocha,https://github.com/ajv-validator/ajv,22.7k,3k,398,503,4.5,4.0,4.5,4.0,14k,886,112,207,4.5,4.8,4.2,4.0
+332,https://github.com/mochajs/mocha,https://github.com/ljharb/qs,22.7k,3k,398,503,4.5,4.0,4.5,4.0,8.6k,735,67,64,4.5,4.0,3.5,4.0
+333,https://github.com/mochajs/mocha,https://github.com/epoberezkin/fast-deep-equal,22.7k,3k,398,503,4.5,4.0,4.5,4.0,1.9k,106,14,13,4.5,4.0,3.5,4.0
+344,https://github.com/mochajs/mocha,https://github.com/mmcloughlin/addchain,22.7k,3k,398,503,4.5,4.0,4.5,4.0,188,14,7,2,4.5,4.8,3.5,3.8
+347,https://github.com/mochajs/mocha,https://github.com/biomejs/biome,22.7k,3k,398,503,4.5,4.0,4.5,4.0,16.5k,512,52,478,4.5,4.8,4.2,4.0
+351,https://github.com/gulpjs/gulp,https://github.com/debug-js/debug,33.1k,4.2k,1k,246,4.5,4.0,4.5,4.0,11.2k,945,139,116,4.5,4.0,4.0,4.0
+352,https://github.com/gulpjs/gulp,https://github.com/babel/babel,33.1k,4.2k,1k,246,4.5,4.0,4.5,4.0,43.4k,5.7k,804,"1,091",4.5,4.8,4.7,4.3
+355,https://github.com/gulpjs/gulp,https://github.com/gregberge/svgr,33.1k,4.2k,1k,246,4.5,4.0,4.5,4.0,10.6k,425,35,132,4.5,4.8,4.2,4.0
+359,https://github.com/gulpjs/gulp,https://github.com/eslint/eslint,33.1k,4.2k,1k,246,4.5,4.0,4.5,4.0,25.4k,4.6k,315,"1,035",4.5,4.8,4.7,4.3
+362,https://github.com/gulpjs/gulp,https://github.com/cssnano/cssnano,33.1k,4.2k,1k,246,4.5,4.0,4.5,4.0,4.8k,319,49,109,4.5,4.0,4.0,4.0
+366,https://github.com/gulpjs/gulp,https://github.com/clap-rs/clap,33.1k,4.2k,1k,246,4.5,4.0,4.5,4.0,14.6k,1.1k,69,517,4.5,4.8,4.2,4.0
+367,https://github.com/gulpjs/gulp,https://github.com/fb55/entities,33.1k,4.2k,1k,246,4.5,4.0,4.5,4.0,331,64,5,23,4.5,4.0,3.5,4.0
+368,https://github.com/gulpjs/gulp,https://github.com/epoberezkin/fast-deep-equal,33.1k,4.2k,1k,246,4.5,4.0,4.5,4.0,1.9k,106,14,13,4.5,4.0,3.5,4.0
+369,https://github.com/gulpjs/gulp,https://github.com/axios/axios,33.1k,4.2k,1k,246,4.5,4.0,4.5,4.0,106k,11k,1.2k,454,4.5,4.8,4.7,4.3
+371,https://github.com/gulpjs/gulp,https://github.com/brooooooklyn/snappy,33.1k,4.2k,1k,246,4.5,4.0,4.5,4.0,168,10,4,6,4.0,4.5,3.5,3.0
+372,https://github.com/gulpjs/gulp,https://github.com/getsentry/sentry-javascript,33.1k,4.2k,1k,246,4.5,4.0,4.5,4.0,8.1k,1.6k,125,540,4.5,4.8,4.2,4.0
+388,https://github.com/webpack/webpack,https://github.com/reactivex/rxjs,64.9k,8.9k,1.5k,810,4.5,5,4.8,4.2,30.9k,3k,449,538,4.5,4.8,4.7,4.3
+394,https://github.com/webpack/webpack,https://github.com/gregberge/svgr,64.9k,8.9k,1.5k,810,4.5,5,4.8,4.2,10.6k,425,35,132,4.5,4.8,4.2,4.0
+403,https://github.com/webpack/webpack,https://github.com/dcodeio/long.js,64.9k,8.9k,1.5k,810,4.5,5,4.8,4.2,892,206,23,17,4.5,4.0,3.5,3.0
+408,https://github.com/webpack/webpack,https://github.com/facebook/react,64.9k,8.9k,1.5k,810,4.5,5,4.8,4.2,231k,47.4k,6.6k,"1,681",4.5,5,4.8,4.7
+409,https://github.com/webpack/webpack,https://github.com/cssnano/cssnano,64.9k,8.9k,1.5k,810,4.5,5,4.8,4.2,4.8k,319,49,109,4.5,4.0,4.0,4.0
+411,https://github.com/webpack/webpack,https://github.com/heim-rs/darwin-libproc,64.9k,8.9k,1.5k,810,4.5,5,4.8,4.2,8,22,2,Not explicitly provided in the information.,3.5,3.0,2.5,3.0
+412,https://github.com/webpack/webpack,https://github.com/immerjs/immer,64.9k,8.9k,1.5k,810,4.5,5,4.8,4.2,28k,852,155,188,4.5,4.8,4.2,4.0
+415,https://github.com/webpack/webpack,https://github.com/pytest-dev/pytest,64.9k,8.9k,1.5k,810,4.5,5,4.8,4.2,12.3k,2.7k,196,875,4.5,4.8,4.7,4.6
+416,https://github.com/webpack/webpack,https://github.com/motdotla/dotenv,64.9k,8.9k,1.5k,810,4.5,5,4.8,4.2,19.4k,861,109,87,4.5,4.0,4.0,4.5
+417,https://github.com/webpack/webpack,https://github.com/pion/webrtc,64.9k,8.9k,1.5k,810,4.5,5,4.8,4.2,14.1k,1.7k,261,203,4.5,4.8,4.7,4.3
+421,https://github.com/webpack/webpack,https://github.com/browserslist/browserslist,64.9k,8.9k,1.5k,810,4.5,5,4.8,4.2,13.1k,721,140,179,4.5,4.0,4.0,3.5
+423,https://github.com/webpack/webpack,https://github.com/node-fetch/node-fetch,64.9k,8.9k,1.5k,810,4.5,5,4.8,4.2,8.8k,1k,89,119,4.5,4.0,4.0,4.0
+424,https://github.com/webpack/webpack,https://github.com/mattn/go-isatty,64.9k,8.9k,1.5k,810,4.5,5,4.8,4.2,845,108,12,29,4.0,3.5,3.0,3.5
+431,https://github.com/webpack/webpack,https://github.com/axios/axios,64.9k,8.9k,1.5k,810,4.5,5,4.8,4.2,106k,11k,1.2k,454,4.5,4.8,4.7,4.3
+433,https://github.com/webpack/webpack,https://github.com/numpy/numpy,64.9k,8.9k,1.5k,810,4.5,5,4.8,4.2,28.6k,10.3k,599,"1,718",4.5,4.8,4.7,4.3
+434,https://github.com/webpack/webpack,https://github.com/vweevers/module-error,64.9k,8.9k,1.5k,810,4.5,5,4.8,4.2,6,1,1,2,4.0,3.5,2.5,3.0
+436,https://github.com/webpack/webpack,https://github.com/brooooooklyn/snappy,64.9k,8.9k,1.5k,810,4.5,5,4.8,4.2,168,10,4,6,4.0,4.5,3.5,3.0
+437,https://github.com/webpack/webpack,https://github.com/import-js/eslint-plugin-import,64.9k,8.9k,1.5k,810,4.5,5,4.8,4.2,5.6k,1.6k,37,363,4.5,4.0,4.2,4.0
+439,https://github.com/webpack/webpack,https://github.com/mysticatea/abort-controller,64.9k,8.9k,1.5k,810,4.5,5,4.8,4.2,305,36,8,5,4.0,3.5,3.0,3.5
+440,https://github.com/webpack/webpack,https://github.com/getsentry/sentry-javascript,64.9k,8.9k,1.5k,810,4.5,5,4.8,4.2,8.1k,1.6k,125,540,4.5,4.8,4.2,4.0
+443,https://github.com/webpack/webpack,https://github.com/streetsidesoftware/cspell,64.9k,8.9k,1.5k,810,4.5,5,4.8,4.2,1.3k,103,13,69,4.5,4.0,4.0,4.0
+444,https://github.com/webpack/webpack,https://github.com/boa-dev/boa,64.9k,8.9k,1.5k,810,4.5,5,4.8,4.2,5.4k,411,47,177,4.5,4.8,4.2,4.0
+450,https://github.com/webpack/webpack,https://github.com/mmcloughlin/addchain,64.9k,8.9k,1.5k,810,4.5,5,4.8,4.2,188,14,7,2,4.5,4.8,3.5,3.8
+451,https://github.com/webpack/webpack,https://github.com/kaelzhang/node-ignore,64.9k,8.9k,1.5k,810,4.5,5,4.8,4.2,454,47,10,20,4.5,4.0,3.5,3.0
+458,https://github.com/webpack/webpack,https://github.com/alexeyraspopov/picocolors,64.9k,8.9k,1.5k,810,4.5,5,4.8,4.2,1.4k,45,10,13,4.5,4.0,3.5,4.0
+461,https://github.com/redux-saga/redux-saga,https://github.com/chzyer/readline,22.5k,2k,249,322,4.5,4.8,4.2,4.0,2.1k,280,41,38,4.0,4.5,3.5,3.0
+462,https://github.com/redux-saga/redux-saga,https://github.com/debug-js/debug,22.5k,2k,249,322,4.5,4.8,4.2,4.0,11.2k,945,139,116,4.5,4.0,4.0,4.0
+463,https://github.com/redux-saga/redux-saga,https://github.com/babel/babel,22.5k,2k,249,322,4.5,4.8,4.2,4.0,43.4k,5.7k,804,"1,091",4.5,4.8,4.7,4.3
+464,https://github.com/redux-saga/redux-saga,https://github.com/marak/colors.js,22.5k,2k,249,322,4.5,4.8,4.2,4.0,5.2k,449,53,44,4.5,3.5,3.0,4.0
+466,https://github.com/redux-saga/redux-saga,https://github.com/level/levelup,22.5k,2k,249,322,4.5,4.8,4.2,4.0,4.1k,267,91,42,4.5,4.0,3.5,3.0
+469,https://github.com/redux-saga/redux-saga,https://github.com/electron/electron,22.5k,2k,249,322,4.5,4.8,4.2,4.0,115k,15.7k,2.8k,"1,291",4.5,4.8,4.7,4.6
+472,https://github.com/redux-saga/redux-saga,https://github.com/pnpm/cmd-shim,22.5k,2k,249,322,4.5,4.8,4.2,4.0,14,11,5,Not provided,3.5,3.0,2.5,3.0
+473,https://github.com/redux-saga/redux-saga,https://github.com/coinbase/coinbase-wallet-sdk,22.5k,2k,249,322,4.5,4.8,4.2,4.0,1.5k,601,171,52,4.5,4.0,3.5,4.0
+479,https://github.com/redux-saga/redux-saga,https://github.com/prettier/prettier,22.5k,2k,249,322,4.5,4.8,4.2,4.0,49.8k,4.4k,419,715,4.5,4.8,4.7,4.3
+480,https://github.com/redux-saga/redux-saga,https://github.com/facebook/react,22.5k,2k,249,322,4.5,4.8,4.2,4.0,231k,47.4k,6.6k,"1,681",4.5,5,4.8,4.7
+486,https://github.com/redux-saga/redux-saga,https://github.com/pytest-dev/pytest,22.5k,2k,249,322,4.5,4.8,4.2,4.0,12.3k,2.7k,196,875,4.5,4.8,4.7,4.6
+487,https://github.com/redux-saga/redux-saga,https://github.com/motdotla/dotenv,22.5k,2k,249,322,4.5,4.8,4.2,4.0,19.4k,861,109,87,4.5,4.0,4.0,4.5
+491,https://github.com/redux-saga/redux-saga,https://github.com/mozilla/source-map,22.5k,2k,249,322,4.5,4.8,4.2,4.0,3.6k,361,70,85,4.5,4.0,3.5,4.0
+496,https://github.com/redux-saga/redux-saga,https://github.com/clap-rs/clap,22.5k,2k,249,322,4.5,4.8,4.2,4.0,14.6k,1.1k,69,517,4.5,4.8,4.2,4.0
+499,https://github.com/redux-saga/redux-saga,https://github.com/epoberezkin/fast-deep-equal,22.5k,2k,249,322,4.5,4.8,4.2,4.0,1.9k,106,14,13,4.5,4.0,3.5,4.0
+502,https://github.com/redux-saga/redux-saga,https://github.com/colorjs/color-name,22.5k,2k,249,322,4.5,4.8,4.2,4.0,119,30,3,8,3.5,2.5,2.0,3.0
+507,https://github.com/redux-saga/redux-saga,https://github.com/humanwhocodes/object-schema,22.5k,2k,249,322,4.5,4.8,4.2,4.0,32,7,2,3,4.0,3.5,2.5,3.0
+508,https://github.com/redux-saga/redux-saga,https://github.com/boa-dev/boa,22.5k,2k,249,322,4.5,4.8,4.2,4.0,5.4k,411,47,177,4.5,4.8,4.2,4.0
+512,https://github.com/redux-saga/redux-saga,https://github.com/nodeca/js-yaml,22.5k,2k,249,322,4.5,4.8,4.2,4.0,6.3k,776,75,73,4.5,4.0,3.5,4.0
+522,https://github.com/debug-js/debug,https://github.com/coinbase/coinbase-wallet-sdk,11.2k,945,139,116,4.5,4.0,4.0,4.0,1.5k,601,171,52,4.5,4.0,3.5,4.0
+523,https://github.com/debug-js/debug,https://github.com/bradfitz/iter,11.2k,945,139,116,4.5,4.0,4.0,4.0,298,12,5,Not provided,2.0,1.5,1.0,1.5
+528,https://github.com/debug-js/debug,https://github.com/clap-rs/clap,11.2k,945,139,116,4.5,4.0,4.0,4.0,14.6k,1.1k,69,517,4.5,4.8,4.2,4.0
+529,https://github.com/debug-js/debug,https://github.com/axios/axios,11.2k,945,139,116,4.5,4.0,4.0,4.0,106k,11k,1.2k,454,4.5,4.8,4.7,4.3
+533,https://github.com/debug-js/debug,https://github.com/biomejs/biome,11.2k,945,139,116,4.5,4.0,4.0,4.0,16.5k,512,52,478,4.5,4.8,4.2,4.0
+534,https://github.com/debug-js/debug,https://github.com/alexeyraspopov/picocolors,11.2k,945,139,116,4.5,4.0,4.0,4.0,1.4k,45,10,13,4.5,4.0,3.5,4.0
+536,https://github.com/chzyer/readline,https://github.com/ajv-validator/ajv,2.1k,280,41,38,4.0,4.5,3.5,3.0,14k,886,112,207,4.5,4.8,4.2,4.0
+539,https://github.com/chzyer/readline,https://github.com/boa-dev/boa,2.1k,280,41,38,4.0,4.5,3.5,3.0,5.4k,411,47,177,4.5,4.8,4.2,4.0
+544,https://github.com/vuejs/vue,https://github.com/mochajs/mocha,208k,33.7k,5.9k,366,4.5,4.0,4.5,4.0,22.7k,3k,398,503,4.5,4.0,4.5,4.0
+545,https://github.com/vuejs/vue,https://github.com/babel/babel,208k,33.7k,5.9k,366,4.5,4.0,4.5,4.0,43.4k,5.7k,804,"1,091",4.5,4.8,4.7,4.3
+548,https://github.com/vuejs/vue,https://github.com/level/levelup,208k,33.7k,5.9k,366,4.5,4.0,4.5,4.0,4.1k,267,91,42,4.5,4.0,3.5,3.0
+550,https://github.com/vuejs/vue,https://github.com/mikemcl/bignumber.js,208k,33.7k,5.9k,366,4.5,4.0,4.5,4.0,6.7k,744,83,35,4.5,4.8,4.0,4.2
+552,https://github.com/vuejs/vue,https://github.com/electron/electron,208k,33.7k,5.9k,366,4.5,4.0,4.5,4.0,115k,15.7k,2.8k,"1,291",4.5,4.8,4.7,4.6
+555,https://github.com/vuejs/vue,https://github.com/pnpm/cmd-shim,208k,33.7k,5.9k,366,4.5,4.0,4.5,4.0,14,11,5,Not provided,3.5,3.0,2.5,3.0
+556,https://github.com/vuejs/vue,https://github.com/coinbase/coinbase-wallet-sdk,208k,33.7k,5.9k,366,4.5,4.0,4.5,4.0,1.5k,601,171,52,4.5,4.0,3.5,4.0
+558,https://github.com/vuejs/vue,https://github.com/bradfitz/iter,208k,33.7k,5.9k,366,4.5,4.0,4.5,4.0,298,12,5,Not provided,2.0,1.5,1.0,1.5
+562,https://github.com/vuejs/vue,https://github.com/dcodeio/long.js,208k,33.7k,5.9k,366,4.5,4.0,4.5,4.0,892,206,23,17,4.5,4.0,3.5,3.0
+565,https://github.com/vuejs/vue,https://github.com/prettier/prettier,208k,33.7k,5.9k,366,4.5,4.0,4.5,4.0,49.8k,4.4k,419,715,4.5,4.8,4.7,4.3
+566,https://github.com/vuejs/vue,https://github.com/typescript-eslint/typescript-eslint,208k,33.7k,5.9k,366,4.5,4.0,4.5,4.0,15.4k,2.8k,90,701,4.5,4.8,4.7,4.3
+568,https://github.com/vuejs/vue,https://github.com/cssnano/cssnano,208k,33.7k,5.9k,366,4.5,4.0,4.5,4.0,4.8k,319,49,109,4.5,4.0,4.0,4.0
+569,https://github.com/vuejs/vue,https://github.com/salesforce/tough-cookie,208k,33.7k,5.9k,366,4.5,4.0,4.5,4.0,980,227,50,38,4.5,4.0,3.5,4.0
+573,https://github.com/vuejs/vue,https://github.com/lukeed/polka,208k,33.7k,5.9k,366,4.5,4.0,4.5,4.0,5.4k,173,69,13,4.5,4.0,3.5,4.0
+574,https://github.com/vuejs/vue,https://github.com/pytest-dev/pytest,208k,33.7k,5.9k,366,4.5,4.0,4.5,4.0,12.3k,2.7k,196,875,4.5,4.8,4.7,4.6
+579,https://github.com/vuejs/vue,https://github.com/mozilla/source-map,208k,33.7k,5.9k,366,4.5,4.0,4.5,4.0,3.6k,361,70,85,4.5,4.0,3.5,4.0
+582,https://github.com/vuejs/vue,https://github.com/node-fetch/node-fetch,208k,33.7k,5.9k,366,4.5,4.0,4.5,4.0,8.8k,1k,89,119,4.5,4.0,4.0,4.0
+583,https://github.com/vuejs/vue,https://github.com/mattn/go-isatty,208k,33.7k,5.9k,366,4.5,4.0,4.5,4.0,845,108,12,29,4.0,3.5,3.0,3.5
+595,https://github.com/vuejs/vue,https://github.com/vercel/swr,208k,33.7k,5.9k,366,4.5,4.0,4.5,4.0,30.9k,1.2k,209,183,4.5,4.8,4.2,4.0
+597,https://github.com/vuejs/vue,https://github.com/getsentry/sentry-javascript,208k,33.7k,5.9k,366,4.5,4.0,4.5,4.0,8.1k,1.6k,125,540,4.5,4.8,4.2,4.0
+599,https://github.com/vuejs/vue,https://github.com/streetsidesoftware/cspell,208k,33.7k,5.9k,366,4.5,4.0,4.5,4.0,1.3k,103,13,69,4.5,4.0,4.0,4.0
+600,https://github.com/vuejs/vue,https://github.com/boa-dev/boa,208k,33.7k,5.9k,366,4.5,4.0,4.5,4.0,5.4k,411,47,177,4.5,4.8,4.2,4.0
+602,https://github.com/vuejs/vue,https://github.com/inikulin/parse5,208k,33.7k,5.9k,366,4.5,4.0,4.5,4.0,3.7k,238,43,38,4.5,4.8,3.5,4.0
+603,https://github.com/vuejs/vue,https://github.com/ethers-io/ethers.js,208k,33.7k,5.9k,366,4.5,4.0,4.5,4.0,8.1k,1.9k,104,Not explicitly provided in the information.,4.5,4.8,4.2,4.0
+606,https://github.com/vuejs/vue,https://github.com/mmcloughlin/addchain,208k,33.7k,5.9k,366,4.5,4.0,4.5,4.0,188,14,7,2,4.5,4.8,3.5,3.8
+611,https://github.com/vuejs/vue,https://github.com/biomejs/biome,208k,33.7k,5.9k,366,4.5,4.0,4.5,4.0,16.5k,512,52,478,4.5,4.8,4.2,4.0
+612,https://github.com/vuejs/vue,https://github.com/fastify/fastify,208k,33.7k,5.9k,366,4.5,4.0,4.5,4.0,32.8k,2.3k,299,772,4.5,4.8,4.7,4.3
+613,https://github.com/vuejs/vue,https://github.com/servo/rust-smallvec,208k,33.7k,5.9k,366,4.5,4.0,4.5,4.0,1.4k,146,27,80,4.0,4.5,3.5,3.0
+622,https://github.com/marak/colors.js,https://github.com/eslint/eslint,5.2k,449,53,44,4.5,3.5,3.0,4.0,25.4k,4.6k,315,"1,035",4.5,4.8,4.7,4.3
+632,https://github.com/marak/colors.js,https://github.com/ajv-validator/ajv,5.2k,449,53,44,4.5,3.5,3.0,4.0,14k,886,112,207,4.5,4.8,4.2,4.0
+638,https://github.com/marak/colors.js,https://github.com/lukeed/polka,5.2k,449,53,44,4.5,3.5,3.0,4.0,5.4k,173,69,13,4.5,4.0,3.5,4.0
+643,https://github.com/reactivex/rxjs,https://github.com/gulpjs/gulp,30.9k,3k,449,538,4.5,4.8,4.7,4.3,33.1k,4.2k,1k,246,4.5,4.0,4.5,4.0
+645,https://github.com/reactivex/rxjs,https://github.com/babel/babel,30.9k,3k,449,538,4.5,4.8,4.7,4.3,43.4k,5.7k,804,"1,091",4.5,4.8,4.7,4.3
+651,https://github.com/reactivex/rxjs,https://github.com/go-task/slim-sprig,30.9k,3k,449,538,4.5,4.8,4.7,4.3,63,15,4,Not provided,3.5,3.0,2.5,3.0
+652,https://github.com/reactivex/rxjs,https://github.com/ethers-io/ethers.js,30.9k,3k,449,538,4.5,4.8,4.7,4.3,8.1k,1.9k,104,Not explicitly provided in the information.,4.5,4.8,4.2,4.0
+655,https://github.com/reactivex/rxjs,https://github.com/floating-ui/floating-ui,30.9k,3k,449,538,4.5,4.8,4.7,4.3,30.5k,1.6k,257,112,4.5,4.7,4.2,4.0
+656,https://github.com/reactivex/rxjs,https://github.com/import-js/eslint-plugin-import,30.9k,3k,449,538,4.5,4.8,4.7,4.3,5.6k,1.6k,37,363,4.5,4.0,4.2,4.0
+658,https://github.com/reactivex/rxjs,https://github.com/pnpm/cmd-shim,30.9k,3k,449,538,4.5,4.8,4.7,4.3,14,11,5,Not provided,3.5,3.0,2.5,3.0
+666,https://github.com/reactivex/rxjs,https://github.com/electron/electron,30.9k,3k,449,538,4.5,4.8,4.7,4.3,115k,15.7k,2.8k,"1,291",4.5,4.8,4.7,4.6
+671,https://github.com/reactivex/rxjs,https://github.com/mattn/go-isatty,30.9k,3k,449,538,4.5,4.8,4.7,4.3,845,108,12,29,4.0,3.5,3.0,3.5
+677,https://github.com/reactivex/rxjs,https://github.com/pion/webrtc,30.9k,3k,449,538,4.5,4.8,4.7,4.3,14.1k,1.7k,261,203,4.5,4.8,4.7,4.3
+679,https://github.com/reactivex/rxjs,https://github.com/axios/axios,30.9k,3k,449,538,4.5,4.8,4.7,4.3,106k,11k,1.2k,454,4.5,4.8,4.7,4.3
+680,https://github.com/reactivex/rxjs,https://github.com/motdotla/dotenv,30.9k,3k,449,538,4.5,4.8,4.7,4.3,19.4k,861,109,87,4.5,4.0,4.0,4.5
+681,https://github.com/reactivex/rxjs,https://github.com/chzyer/readline,30.9k,3k,449,538,4.5,4.8,4.7,4.3,2.1k,280,41,38,4.0,4.5,3.5,3.0
+683,https://github.com/reactivex/rxjs,https://github.com/boa-dev/boa,30.9k,3k,449,538,4.5,4.8,4.7,4.3,5.4k,411,47,177,4.5,4.8,4.2,4.0
+686,https://github.com/webreflection/flatted,https://github.com/redux-saga/redux-saga,1.1k,49,10,11,4.0,4.5,3.5,3.0,22.5k,2k,249,322,4.5,4.8,4.2,4.0
+692,https://github.com/webreflection/flatted,https://github.com/mochajs/mocha,1.1k,49,10,11,4.0,4.5,3.5,3.0,22.7k,3k,398,503,4.5,4.0,4.5,4.0
+694,https://github.com/webreflection/flatted,https://github.com/rollup/rollup,1.1k,49,10,11,4.0,4.5,3.5,3.0,25.5k,1.5k,257,395,4.5,4.8,4.2,4.0
+696,https://github.com/webreflection/flatted,https://github.com/marak/colors.js,1.1k,49,10,11,4.0,4.5,3.5,3.0,5.2k,449,53,44,4.5,3.5,3.0,4.0
+701,https://github.com/webreflection/flatted,https://github.com/chzyer/readline,1.1k,49,10,11,4.0,4.5,3.5,3.0,2.1k,280,41,38,4.0,4.5,3.5,3.0
+706,https://github.com/webreflection/flatted,https://github.com/sindresorhus/type-fest,1.1k,49,10,11,4.0,4.5,3.5,3.0,14.7k,570,52,181,4.5,4.8,4.2,4.0
+713,https://github.com/webreflection/flatted,https://github.com/typescript-eslint/typescript-eslint,1.1k,49,10,11,4.0,4.5,3.5,3.0,15.4k,2.8k,90,701,4.5,4.8,4.7,4.3
+719,https://github.com/webreflection/flatted,https://github.com/jedisct1/go-minisign,1.1k,49,10,11,4.0,4.5,3.5,3.0,113,12,5,3,3.5,3.0,2.5,3.0
+722,https://github.com/webreflection/flatted,https://github.com/motdotla/dotenv,1.1k,49,10,11,4.0,4.5,3.5,3.0,19.4k,861,109,87,4.5,4.0,4.0,4.5
+728,https://github.com/webreflection/flatted,https://github.com/floating-ui/floating-ui,1.1k,49,10,11,4.0,4.5,3.5,3.0,30.5k,1.6k,257,112,4.5,4.7,4.2,4.0
+730,https://github.com/webreflection/flatted,https://github.com/mattn/go-isatty,1.1k,49,10,11,4.0,4.5,3.5,3.0,845,108,12,29,4.0,3.5,3.0,3.5
+735,https://github.com/webreflection/flatted,https://github.com/ljharb/qs,1.1k,49,10,11,4.0,4.5,3.5,3.0,8.6k,735,67,64,4.5,4.0,3.5,4.0
+737,https://github.com/webreflection/flatted,https://github.com/numpy/numpy,1.1k,49,10,11,4.0,4.5,3.5,3.0,28.6k,10.3k,599,"1,718",4.5,4.8,4.7,4.3
+743,https://github.com/webreflection/flatted,https://github.com/streetsidesoftware/cspell,1.1k,49,10,11,4.0,4.5,3.5,3.0,1.3k,103,13,69,4.5,4.0,4.0,4.0
+745,https://github.com/webreflection/flatted,https://github.com/humanwhocodes/object-schema,1.1k,49,10,11,4.0,4.5,3.5,3.0,32,7,2,3,4.0,3.5,2.5,3.0
+747,https://github.com/webreflection/flatted,https://github.com/inikulin/parse5,1.1k,49,10,11,4.0,4.5,3.5,3.0,3.7k,238,43,38,4.5,4.8,3.5,4.0
+756,https://github.com/xtuc/webassemblyjs,https://github.com/webreflection/flatted,791,92,10,38,3.5,4.0,3.0,3.5,1.1k,49,10,11,4.0,4.5,3.5,3.0
+757,https://github.com/xtuc/webassemblyjs,https://github.com/babel/babel,791,92,10,38,3.5,4.0,3.0,3.5,43.4k,5.7k,804,"1,091",4.5,4.8,4.7,4.3
+760,https://github.com/xtuc/webassemblyjs,https://github.com/mochajs/mocha,791,92,10,38,3.5,4.0,3.0,3.5,22.7k,3k,398,503,4.5,4.0,4.5,4.0
+762,https://github.com/xtuc/webassemblyjs,https://github.com/rollup/rollup,791,92,10,38,3.5,4.0,3.0,3.5,25.5k,1.5k,257,395,4.5,4.8,4.2,4.0
+765,https://github.com/xtuc/webassemblyjs,https://github.com/go-task/slim-sprig,791,92,10,38,3.5,4.0,3.0,3.5,63,15,4,Not provided,3.5,3.0,2.5,3.0
+766,https://github.com/xtuc/webassemblyjs,https://github.com/electron/electron,791,92,10,38,3.5,4.0,3.0,3.5,115k,15.7k,2.8k,"1,291",4.5,4.8,4.7,4.6
+773,https://github.com/xtuc/webassemblyjs,https://github.com/swc-project/swc,791,92,10,38,3.5,4.0,3.0,3.5,31.5k,1.2k,153,304,4.5,4.8,4.2,4.0
+777,https://github.com/xtuc/webassemblyjs,https://github.com/sheetjs/js-crc32,791,92,10,38,3.5,4.0,3.0,3.5,345,37,10,6,4.5,3.5,3.0,4.0
+782,https://github.com/rollup/rollup,https://github.com/redux-saga/redux-saga,25.5k,1.5k,257,395,4.5,4.8,4.2,4.0,22.5k,2k,249,322,4.5,4.8,4.2,4.0
+786,https://github.com/rollup/rollup,https://github.com/gulpjs/gulp,25.5k,1.5k,257,395,4.5,4.8,4.2,4.0,33.1k,4.2k,1k,246,4.5,4.0,4.5,4.0
+788,https://github.com/rollup/rollup,https://github.com/reactivex/rxjs,25.5k,1.5k,257,395,4.5,4.8,4.2,4.0,30.9k,3k,449,538,4.5,4.8,4.7,4.3
+790,https://github.com/rollup/rollup,https://github.com/marak/colors.js,25.5k,1.5k,257,395,4.5,4.8,4.2,4.0,5.2k,449,53,44,4.5,3.5,3.0,4.0
+791,https://github.com/rollup/rollup,https://github.com/go-task/slim-sprig,25.5k,1.5k,257,395,4.5,4.8,4.2,4.0,63,15,4,Not provided,3.5,3.0,2.5,3.0
+795,https://github.com/rollup/rollup,https://github.com/chzyer/readline,25.5k,1.5k,257,395,4.5,4.8,4.2,4.0,2.1k,280,41,38,4.0,4.5,3.5,3.0
+799,https://github.com/rollup/rollup,https://github.com/eslint/eslint,25.5k,1.5k,257,395,4.5,4.8,4.2,4.0,25.4k,4.6k,315,"1,035",4.5,4.8,4.7,4.3
+802,https://github.com/rollup/rollup,https://github.com/mafintosh/pump,25.5k,1.5k,257,395,4.5,4.8,4.2,4.0,910,59,7,7,4.0,3.5,3.0,3.5
+803,https://github.com/rollup/rollup,https://github.com/prettier/prettier,25.5k,1.5k,257,395,4.5,4.8,4.2,4.0,49.8k,4.4k,419,715,4.5,4.8,4.7,4.3
+804,https://github.com/rollup/rollup,https://github.com/facebook/react,25.5k,1.5k,257,395,4.5,4.8,4.2,4.0,231k,47.4k,6.6k,"1,681",4.5,5,4.8,4.7
+806,https://github.com/rollup/rollup,https://github.com/heim-rs/darwin-libproc,25.5k,1.5k,257,395,4.5,4.8,4.2,4.0,8,22,2,Not explicitly provided in the information.,3.5,3.0,2.5,3.0
+808,https://github.com/rollup/rollup,https://github.com/jedisct1/go-minisign,25.5k,1.5k,257,395,4.5,4.8,4.2,4.0,113,12,5,3,3.5,3.0,2.5,3.0
+810,https://github.com/rollup/rollup,https://github.com/pytest-dev/pytest,25.5k,1.5k,257,395,4.5,4.8,4.2,4.0,12.3k,2.7k,196,875,4.5,4.8,4.7,4.6
+811,https://github.com/rollup/rollup,https://github.com/motdotla/dotenv,25.5k,1.5k,257,395,4.5,4.8,4.2,4.0,19.4k,861,109,87,4.5,4.0,4.0,4.5
+812,https://github.com/rollup/rollup,https://github.com/pion/webrtc,25.5k,1.5k,257,395,4.5,4.8,4.2,4.0,14.1k,1.7k,261,203,4.5,4.8,4.7,4.3
+813,https://github.com/rollup/rollup,https://github.com/postcss/postcss,25.5k,1.5k,257,395,4.5,4.8,4.2,4.0,28.6k,1.6k,506,385,4.5,4.8,4.2,4.0
+818,https://github.com/rollup/rollup,https://github.com/node-fetch/node-fetch,25.5k,1.5k,257,395,4.5,4.8,4.2,4.0,8.8k,1k,89,119,4.5,4.0,4.0,4.0
+819,https://github.com/rollup/rollup,https://github.com/mattn/go-isatty,25.5k,1.5k,257,395,4.5,4.8,4.2,4.0,845,108,12,29,4.0,3.5,3.0,3.5
+830,https://github.com/rollup/rollup,https://github.com/mysticatea/abort-controller,25.5k,1.5k,257,395,4.5,4.8,4.2,4.0,305,36,8,5,4.0,3.5,3.0,3.5
+832,https://github.com/rollup/rollup,https://github.com/humanwhocodes/object-schema,25.5k,1.5k,257,395,4.5,4.8,4.2,4.0,32,7,2,3,4.0,3.5,2.5,3.0
+839,https://github.com/rollup/rollup,https://github.com/mmcloughlin/addchain,25.5k,1.5k,257,395,4.5,4.8,4.2,4.0,188,14,7,2,4.5,4.8,3.5,3.8
+840,https://github.com/rollup/rollup,https://github.com/kaelzhang/node-ignore,25.5k,1.5k,257,395,4.5,4.8,4.2,4.0,454,47,10,20,4.5,4.0,3.5,3.0
+841,https://github.com/rollup/rollup,https://github.com/google/flatbuffers,25.5k,1.5k,257,395,4.5,4.8,4.2,4.0,23.6k,3.3k,644,650,4.5,4.8,4.2,4.0
+843,https://github.com/rollup/rollup,https://github.com/fastify/fastify,25.5k,1.5k,257,395,4.5,4.8,4.2,4.0,32.8k,2.3k,299,772,4.5,4.8,4.7,4.3
+845,https://github.com/level/levelup,https://github.com/debug-js/debug,4.1k,267,91,42,4.5,4.0,3.5,3.0,11.2k,945,139,116,4.5,4.0,4.0,4.0
+848,https://github.com/level/levelup,https://github.com/go-task/slim-sprig,4.1k,267,91,42,4.5,4.0,3.5,3.0,63,15,4,Not provided,3.5,3.0,2.5,3.0
+858,https://github.com/level/levelup,https://github.com/cssnano/cssnano,4.1k,267,91,42,4.5,4.0,3.5,3.0,4.8k,319,49,109,4.5,4.0,4.0,4.0
+860,https://github.com/level/levelup,https://github.com/immerjs/immer,4.1k,267,91,42,4.5,4.0,3.5,3.0,28k,852,155,188,4.5,4.8,4.2,4.0
+863,https://github.com/level/levelup,https://github.com/browserslist/browserslist,4.1k,267,91,42,4.5,4.0,3.5,3.0,13.1k,721,140,179,4.5,4.0,4.0,3.5
+865,https://github.com/level/levelup,https://github.com/clap-rs/clap,4.1k,267,91,42,4.5,4.0,3.5,3.0,14.6k,1.1k,69,517,4.5,4.8,4.2,4.0
+868,https://github.com/level/levelup,https://github.com/axios/axios,4.1k,267,91,42,4.5,4.0,3.5,3.0,106k,11k,1.2k,454,4.5,4.8,4.7,4.3
+870,https://github.com/level/levelup,https://github.com/brooooooklyn/snappy,4.1k,267,91,42,4.5,4.0,3.5,3.0,168,10,4,6,4.0,4.5,3.5,3.0
+872,https://github.com/level/levelup,https://github.com/getsentry/sentry-javascript,4.1k,267,91,42,4.5,4.0,3.5,3.0,8.1k,1.6k,125,540,4.5,4.8,4.2,4.0
+875,https://github.com/level/levelup,https://github.com/inikulin/parse5,4.1k,267,91,42,4.5,4.0,3.5,3.0,3.7k,238,43,38,4.5,4.8,3.5,4.0
+880,https://github.com/level/levelup,https://github.com/biomejs/biome,4.1k,267,91,42,4.5,4.0,3.5,3.0,16.5k,512,52,478,4.5,4.8,4.2,4.0
+882,https://github.com/level/levelup,https://github.com/alexeyraspopov/picocolors,4.1k,267,91,42,4.5,4.0,3.5,3.0,1.4k,45,10,13,4.5,4.0,3.5,4.0
+888,https://github.com/mikemcl/bignumber.js,https://github.com/electron/electron,6.7k,744,83,35,4.5,4.8,4.0,4.2,115k,15.7k,2.8k,"1,291",4.5,4.8,4.7,4.6
+890,https://github.com/mikemcl/bignumber.js,https://github.com/emotion-js/emotion,6.7k,744,83,35,4.5,4.8,4.0,4.2,17.6k,1.1k,96,319,4.5,4.8,4.2,4.0
+894,https://github.com/mikemcl/bignumber.js,https://github.com/facebook/react,6.7k,744,83,35,4.5,4.8,4.0,4.2,231k,47.4k,6.6k,"1,681",4.5,5,4.8,4.7
+898,https://github.com/mikemcl/bignumber.js,https://github.com/jedisct1/go-minisign,6.7k,744,83,35,4.5,4.8,4.0,4.2,113,12,5,3,3.5,3.0,2.5,3.0
+904,https://github.com/mikemcl/bignumber.js,https://github.com/mattn/go-isatty,6.7k,744,83,35,4.5,4.8,4.0,4.2,845,108,12,29,4.0,3.5,3.0,3.5
+906,https://github.com/mikemcl/bignumber.js,https://github.com/clap-rs/clap,6.7k,744,83,35,4.5,4.8,4.0,4.2,14.6k,1.1k,69,517,4.5,4.8,4.2,4.0
+908,https://github.com/mikemcl/bignumber.js,https://github.com/brooooooklyn/snappy,6.7k,744,83,35,4.5,4.8,4.0,4.2,168,10,4,6,4.0,4.5,3.5,3.0
+913,https://github.com/mikemcl/bignumber.js,https://github.com/ethers-io/ethers.js,6.7k,744,83,35,4.5,4.8,4.0,4.2,8.1k,1.9k,104,Not explicitly provided in the information.,4.5,4.8,4.2,4.0
+922,https://github.com/go-task/slim-sprig,https://github.com/electron/electron,63,15,4,Not provided,3.5,3.0,2.5,3.0,115k,15.7k,2.8k,"1,291",4.5,4.8,4.7,4.6
+927,https://github.com/go-task/slim-sprig,https://github.com/facebook/react,63,15,4,Not provided,3.5,3.0,2.5,3.0,231k,47.4k,6.6k,"1,681",4.5,5,4.8,4.7
+928,https://github.com/go-task/slim-sprig,https://github.com/cssnano/cssnano,63,15,4,Not provided,3.5,3.0,2.5,3.0,4.8k,319,49,109,4.5,4.0,4.0,4.0
+930,https://github.com/go-task/slim-sprig,https://github.com/browserslist/browserslist,63,15,4,Not provided,3.5,3.0,2.5,3.0,13.1k,721,140,179,4.5,4.0,4.0,3.5
+933,https://github.com/go-task/slim-sprig,https://github.com/fb55/entities,63,15,4,Not provided,3.5,3.0,2.5,3.0,331,64,5,23,4.5,4.0,3.5,4.0
+938,https://github.com/go-task/slim-sprig,https://github.com/coinbase/coinbase-wallet-sdk,63,15,4,Not provided,3.5,3.0,2.5,3.0,1.5k,601,171,52,4.5,4.0,3.5,4.0
+941,https://github.com/go-task/slim-sprig,https://github.com/ethers-io/ethers.js,63,15,4,Not provided,3.5,3.0,2.5,3.0,8.1k,1.9k,104,Not explicitly provided in the information.,4.5,4.8,4.2,4.0
+943,https://github.com/go-task/slim-sprig,https://github.com/biomejs/biome,63,15,4,Not provided,3.5,3.0,2.5,3.0,16.5k,512,52,478,4.5,4.8,4.2,4.0
+945,https://github.com/go-task/slim-sprig,https://github.com/alexeyraspopov/picocolors,63,15,4,Not provided,3.5,3.0,2.5,3.0,1.4k,45,10,13,4.5,4.0,3.5,4.0
+946,https://github.com/electron/electron,https://github.com/babel/babel,115k,15.7k,2.8k,"1,291",4.5,4.8,4.7,4.6,43.4k,5.7k,804,"1,091",4.5,4.8,4.7,4.3
+950,https://github.com/electron/electron,https://github.com/bradfitz/iter,115k,15.7k,2.8k,"1,291",4.5,4.8,4.7,4.6,298,12,5,Not provided,2.0,1.5,1.0,1.5
+953,https://github.com/electron/electron,https://github.com/ajv-validator/ajv,115k,15.7k,2.8k,"1,291",4.5,4.8,4.7,4.6,14k,886,112,207,4.5,4.8,4.2,4.0
+963,https://github.com/gregberge/svgr,https://github.com/electron/electron,10.6k,425,35,132,4.5,4.8,4.2,4.0,115k,15.7k,2.8k,"1,291",4.5,4.8,4.7,4.6
+965,https://github.com/gregberge/svgr,https://github.com/debug-js/debug,10.6k,425,35,132,4.5,4.8,4.2,4.0,11.2k,945,139,116,4.5,4.0,4.0,4.0
+966,https://github.com/gregberge/svgr,https://github.com/emotion-js/emotion,10.6k,425,35,132,4.5,4.8,4.2,4.0,17.6k,1.1k,96,319,4.5,4.8,4.2,4.0
+970,https://github.com/gregberge/svgr,https://github.com/facebook/react,10.6k,425,35,132,4.5,4.8,4.2,4.0,231k,47.4k,6.6k,"1,681",4.5,5,4.8,4.7
+977,https://github.com/gregberge/svgr,https://github.com/clap-rs/clap,10.6k,425,35,132,4.5,4.8,4.2,4.0,14.6k,1.1k,69,517,4.5,4.8,4.2,4.0
+979,https://github.com/gregberge/svgr,https://github.com/brooooooklyn/snappy,10.6k,425,35,132,4.5,4.8,4.2,4.0,168,10,4,6,4.0,4.5,3.5,3.0
+986,https://github.com/emotion-js/emotion,https://github.com/bradfitz/iter,17.6k,1.1k,96,319,4.5,4.8,4.2,4.0,298,12,5,Not provided,2.0,1.5,1.0,1.5
+991,https://github.com/emotion-js/emotion,https://github.com/clap-rs/clap,17.6k,1.1k,96,319,4.5,4.8,4.2,4.0,14.6k,1.1k,69,517,4.5,4.8,4.2,4.0
+998,https://github.com/pnpm/cmd-shim,https://github.com/debug-js/debug,14,11,5,Not provided,3.5,3.0,2.5,3.0,11.2k,945,139,116,4.5,4.0,4.0,4.0
+1000,https://github.com/pnpm/cmd-shim,https://github.com/chzyer/readline,14,11,5,Not provided,3.5,3.0,2.5,3.0,2.1k,280,41,38,4.0,4.5,3.5,3.0
+1002,https://github.com/pnpm/cmd-shim,https://github.com/babel/babel,14,11,5,Not provided,3.5,3.0,2.5,3.0,43.4k,5.7k,804,"1,091",4.5,4.8,4.7,4.3
+1004,https://github.com/pnpm/cmd-shim,https://github.com/mochajs/mocha,14,11,5,Not provided,3.5,3.0,2.5,3.0,22.7k,3k,398,503,4.5,4.0,4.5,4.0
+1007,https://github.com/pnpm/cmd-shim,https://github.com/coinbase/coinbase-wallet-sdk,14,11,5,Not provided,3.5,3.0,2.5,3.0,1.5k,601,171,52,4.5,4.0,3.5,4.0
+1012,https://github.com/pnpm/cmd-shim,https://github.com/mafintosh/pump,14,11,5,Not provided,3.5,3.0,2.5,3.0,910,59,7,7,4.0,3.5,3.0,3.5
+1018,https://github.com/pnpm/cmd-shim,https://github.com/jedisct1/go-minisign,14,11,5,Not provided,3.5,3.0,2.5,3.0,113,12,5,3,3.5,3.0,2.5,3.0
+1019,https://github.com/pnpm/cmd-shim,https://github.com/lukeed/polka,14,11,5,Not provided,3.5,3.0,2.5,3.0,5.4k,173,69,13,4.5,4.0,3.5,4.0
+1023,https://github.com/pnpm/cmd-shim,https://github.com/mozilla/source-map,14,11,5,Not provided,3.5,3.0,2.5,3.0,3.6k,361,70,85,4.5,4.0,3.5,4.0
+1024,https://github.com/pnpm/cmd-shim,https://github.com/browserslist/browserslist,14,11,5,Not provided,3.5,3.0,2.5,3.0,13.1k,721,140,179,4.5,4.0,4.0,3.5
+1026,https://github.com/pnpm/cmd-shim,https://github.com/node-fetch/node-fetch,14,11,5,Not provided,3.5,3.0,2.5,3.0,8.8k,1k,89,119,4.5,4.0,4.0,4.0
+1028,https://github.com/pnpm/cmd-shim,https://github.com/marak/colors.js,14,11,5,Not provided,3.5,3.0,2.5,3.0,5.2k,449,53,44,4.5,3.5,3.0,4.0
+1030,https://github.com/pnpm/cmd-shim,https://github.com/fb55/entities,14,11,5,Not provided,3.5,3.0,2.5,3.0,331,64,5,23,4.5,4.0,3.5,4.0
+1033,https://github.com/pnpm/cmd-shim,https://github.com/axios/axios,14,11,5,Not provided,3.5,3.0,2.5,3.0,106k,11k,1.2k,454,4.5,4.8,4.7,4.3
+1035,https://github.com/pnpm/cmd-shim,https://github.com/colorjs/color-name,14,11,5,Not provided,3.5,3.0,2.5,3.0,119,30,3,8,3.5,2.5,2.0,3.0
+1037,https://github.com/pnpm/cmd-shim,https://github.com/import-js/eslint-plugin-import,14,11,5,Not provided,3.5,3.0,2.5,3.0,5.6k,1.6k,37,363,4.5,4.0,4.2,4.0
+1038,https://github.com/pnpm/cmd-shim,https://github.com/mysticatea/abort-controller,14,11,5,Not provided,3.5,3.0,2.5,3.0,305,36,8,5,4.0,3.5,3.0,3.5
+1042,https://github.com/pnpm/cmd-shim,https://github.com/pandas-dev/pandas,14,11,5,Not provided,3.5,3.0,2.5,3.0,44.3k,18.1k,1.1k,"3,391",4.5,4.8,4.7,4.6
+1043,https://github.com/pnpm/cmd-shim,https://github.com/inikulin/parse5,14,11,5,Not provided,3.5,3.0,2.5,3.0,3.7k,238,43,38,4.5,4.8,3.5,4.0
+1045,https://github.com/pnpm/cmd-shim,https://github.com/nodeca/js-yaml,14,11,5,Not provided,3.5,3.0,2.5,3.0,6.3k,776,75,73,4.5,4.0,3.5,4.0
+1048,https://github.com/pnpm/cmd-shim,https://github.com/kaelzhang/node-ignore,14,11,5,Not provided,3.5,3.0,2.5,3.0,454,47,10,20,4.5,4.0,3.5,3.0
+1053,https://github.com/wooorm/markdown-table,https://github.com/debug-js/debug,274,24,7,5,4.5,3.5,2.5,3.0,11.2k,945,139,116,4.5,4.0,4.0,4.0
+1054,https://github.com/wooorm/markdown-table,https://github.com/webreflection/flatted,274,24,7,5,4.5,3.5,2.5,3.0,1.1k,49,10,11,4.0,4.5,3.5,3.0
+1056,https://github.com/wooorm/markdown-table,https://github.com/chzyer/readline,274,24,7,5,4.5,3.5,2.5,3.0,2.1k,280,41,38,4.0,4.5,3.5,3.0
+1062,https://github.com/wooorm/markdown-table,https://github.com/rollup/rollup,274,24,7,5,4.5,3.5,2.5,3.0,25.5k,1.5k,257,395,4.5,4.8,4.2,4.0
+1065,https://github.com/wooorm/markdown-table,https://github.com/mochajs/mocha,274,24,7,5,4.5,3.5,2.5,3.0,22.7k,3k,398,503,4.5,4.0,4.5,4.0
+1068,https://github.com/wooorm/markdown-table,https://github.com/sheetjs/js-crc32,274,24,7,5,4.5,3.5,2.5,3.0,345,37,10,6,4.5,3.5,3.0,4.0
+1069,https://github.com/wooorm/markdown-table,https://github.com/dcodeio/long.js,274,24,7,5,4.5,3.5,2.5,3.0,892,206,23,17,4.5,4.0,3.5,3.0
+1072,https://github.com/wooorm/markdown-table,https://github.com/swc-project/swc,274,24,7,5,4.5,3.5,2.5,3.0,31.5k,1.2k,153,304,4.5,4.8,4.2,4.0
+1074,https://github.com/wooorm/markdown-table,https://github.com/eslint/eslint,274,24,7,5,4.5,3.5,2.5,3.0,25.4k,4.6k,315,"1,035",4.5,4.8,4.7,4.3
+1075,https://github.com/wooorm/markdown-table,https://github.com/prettier/prettier,274,24,7,5,4.5,3.5,2.5,3.0,49.8k,4.4k,419,715,4.5,4.8,4.7,4.3
+1076,https://github.com/wooorm/markdown-table,https://github.com/mikemcl/bignumber.js,274,24,7,5,4.5,3.5,2.5,3.0,6.7k,744,83,35,4.5,4.8,4.0,4.2
+1079,https://github.com/wooorm/markdown-table,https://github.com/cssnano/cssnano,274,24,7,5,4.5,3.5,2.5,3.0,4.8k,319,49,109,4.5,4.0,4.0,4.0
+1081,https://github.com/wooorm/markdown-table,https://github.com/heim-rs/darwin-libproc,274,24,7,5,4.5,3.5,2.5,3.0,8,22,2,Not explicitly provided in the information.,3.5,3.0,2.5,3.0
+1085,https://github.com/wooorm/markdown-table,https://github.com/pytest-dev/pytest,274,24,7,5,4.5,3.5,2.5,3.0,12.3k,2.7k,196,875,4.5,4.8,4.7,4.6
+1090,https://github.com/wooorm/markdown-table,https://github.com/ajv-validator/ajv,274,24,7,5,4.5,3.5,2.5,3.0,14k,886,112,207,4.5,4.8,4.2,4.0
+1092,https://github.com/wooorm/markdown-table,https://github.com/humanwhocodes/object-schema,274,24,7,5,4.5,3.5,2.5,3.0,32,7,2,3,4.0,3.5,2.5,3.0
+1095,https://github.com/wooorm/markdown-table,https://github.com/node-fetch/node-fetch,274,24,7,5,4.5,3.5,2.5,3.0,8.8k,1k,89,119,4.5,4.0,4.0,4.0
+1103,https://github.com/wooorm/markdown-table,https://github.com/tokio-rs/tokio,274,24,7,5,4.5,3.5,2.5,3.0,27.7k,2.5k,315,855,4.5,4.8,4.7,4.3
+1104,https://github.com/wooorm/markdown-table,https://github.com/floating-ui/floating-ui,274,24,7,5,4.5,3.5,2.5,3.0,30.5k,1.6k,257,112,4.5,4.7,4.2,4.0
+1105,https://github.com/coinbase/coinbase-wallet-sdk,https://github.com/babel/babel,1.5k,601,171,52,4.5,4.0,3.5,4.0,43.4k,5.7k,804,"1,091",4.5,4.8,4.7,4.3
+1109,https://github.com/coinbase/coinbase-wallet-sdk,https://github.com/ajv-validator/ajv,1.5k,601,171,52,4.5,4.0,3.5,4.0,14k,886,112,207,4.5,4.8,4.2,4.0
+1111,https://github.com/coinbase/coinbase-wallet-sdk,https://github.com/browserslist/browserslist,1.5k,601,171,52,4.5,4.0,3.5,4.0,13.1k,721,140,179,4.5,4.0,4.0,3.5
+1114,https://github.com/swc-project/swc,https://github.com/coinbase/coinbase-wallet-sdk,31.5k,1.2k,153,304,4.5,4.8,4.2,4.0,1.5k,601,171,52,4.5,4.0,3.5,4.0
+1115,https://github.com/swc-project/swc,https://github.com/electron/electron,31.5k,1.2k,153,304,4.5,4.8,4.2,4.0,115k,15.7k,2.8k,"1,291",4.5,4.8,4.7,4.6
+1117,https://github.com/swc-project/swc,https://github.com/gregberge/svgr,31.5k,1.2k,153,304,4.5,4.8,4.2,4.0,10.6k,425,35,132,4.5,4.8,4.2,4.0
+1118,https://github.com/swc-project/swc,https://github.com/pnpm/cmd-shim,31.5k,1.2k,153,304,4.5,4.8,4.2,4.0,14,11,5,Not provided,3.5,3.0,2.5,3.0
+1124,https://github.com/swc-project/swc,https://github.com/gulpjs/gulp,31.5k,1.2k,153,304,4.5,4.8,4.2,4.0,33.1k,4.2k,1k,246,4.5,4.0,4.5,4.0
+1129,https://github.com/swc-project/swc,https://github.com/qix-/color-convert,31.5k,1.2k,153,304,4.5,4.8,4.2,4.0,751,96,12,27,4.5,3.5,3.0,4.0
+1133,https://github.com/swc-project/swc,https://github.com/mikemcl/bignumber.js,31.5k,1.2k,153,304,4.5,4.8,4.2,4.0,6.7k,744,83,35,4.5,4.8,4.0,4.2
+1134,https://github.com/swc-project/swc,https://github.com/facebook/react,31.5k,1.2k,153,304,4.5,4.8,4.2,4.0,231k,47.4k,6.6k,"1,681",4.5,5,4.8,4.7
+1135,https://github.com/swc-project/swc,https://github.com/cssnano/cssnano,31.5k,1.2k,153,304,4.5,4.8,4.2,4.0,4.8k,319,49,109,4.5,4.0,4.0,4.0
+1136,https://github.com/swc-project/swc,https://github.com/salesforce/tough-cookie,31.5k,1.2k,153,304,4.5,4.8,4.2,4.0,980,227,50,38,4.5,4.0,3.5,4.0
+1139,https://github.com/swc-project/swc,https://github.com/jedisct1/go-minisign,31.5k,1.2k,153,304,4.5,4.8,4.2,4.0,113,12,5,3,3.5,3.0,2.5,3.0
+1147,https://github.com/swc-project/swc,https://github.com/mozilla/source-map,31.5k,1.2k,153,304,4.5,4.8,4.2,4.0,3.6k,361,70,85,4.5,4.0,3.5,4.0
+1150,https://github.com/swc-project/swc,https://github.com/node-fetch/node-fetch,31.5k,1.2k,153,304,4.5,4.8,4.2,4.0,8.8k,1k,89,119,4.5,4.0,4.0,4.0
+1158,https://github.com/swc-project/swc,https://github.com/axios/axios,31.5k,1.2k,153,304,4.5,4.8,4.2,4.0,106k,11k,1.2k,454,4.5,4.8,4.7,4.3
+1160,https://github.com/swc-project/swc,https://github.com/colorjs/color-name,31.5k,1.2k,153,304,4.5,4.8,4.2,4.0,119,30,3,8,3.5,2.5,2.0,3.0
+1162,https://github.com/swc-project/swc,https://github.com/import-js/eslint-plugin-import,31.5k,1.2k,153,304,4.5,4.8,4.2,4.0,5.6k,1.6k,37,363,4.5,4.0,4.2,4.0
+1165,https://github.com/swc-project/swc,https://github.com/humanwhocodes/object-schema,31.5k,1.2k,153,304,4.5,4.8,4.2,4.0,32,7,2,3,4.0,3.5,2.5,3.0
+1172,https://github.com/swc-project/swc,https://github.com/formatjs/formatjs,31.5k,1.2k,153,304,4.5,4.8,4.2,4.0,14.4k,1.4k,131,305,4.5,4.0,4.5,4.0
+1175,https://github.com/swc-project/swc,https://github.com/reactivex/rxjs,31.5k,1.2k,153,304,4.5,4.8,4.2,4.0,30.9k,3k,449,538,4.5,4.8,4.7,4.3
+1179,https://github.com/swc-project/swc,https://github.com/servo/rust-smallvec,31.5k,1.2k,153,304,4.5,4.8,4.2,4.0,1.4k,146,27,80,4.0,4.5,3.5,3.0
+1188,https://github.com/sindresorhus/type-fest,https://github.com/pnpm/cmd-shim,14.7k,570,52,181,4.5,4.8,4.2,4.0,14,11,5,Not provided,3.5,3.0,2.5,3.0
+1189,https://github.com/sindresorhus/type-fest,https://github.com/debug-js/debug,14.7k,570,52,181,4.5,4.8,4.2,4.0,11.2k,945,139,116,4.5,4.0,4.0,4.0
+1193,https://github.com/sindresorhus/type-fest,https://github.com/gulpjs/gulp,14.7k,570,52,181,4.5,4.8,4.2,4.0,33.1k,4.2k,1k,246,4.5,4.0,4.5,4.0
+1201,https://github.com/sindresorhus/type-fest,https://github.com/prettier/prettier,14.7k,570,52,181,4.5,4.8,4.2,4.0,49.8k,4.4k,419,715,4.5,4.8,4.7,4.3
+1205,https://github.com/sindresorhus/type-fest,https://github.com/salesforce/tough-cookie,14.7k,570,52,181,4.5,4.8,4.2,4.0,980,227,50,38,4.5,4.0,3.5,4.0
+1207,https://github.com/sindresorhus/type-fest,https://github.com/immerjs/immer,14.7k,570,52,181,4.5,4.8,4.2,4.0,28k,852,155,188,4.5,4.8,4.2,4.0
+1211,https://github.com/sindresorhus/type-fest,https://github.com/motdotla/dotenv,14.7k,570,52,181,4.5,4.8,4.2,4.0,19.4k,861,109,87,4.5,4.0,4.0,4.5
+1212,https://github.com/sindresorhus/type-fest,https://github.com/pion/webrtc,14.7k,570,52,181,4.5,4.8,4.2,4.0,14.1k,1.7k,261,203,4.5,4.8,4.7,4.3
+1221,https://github.com/sindresorhus/type-fest,https://github.com/marak/colors.js,14.7k,570,52,181,4.5,4.8,4.2,4.0,5.2k,449,53,44,4.5,3.5,3.0,4.0
+1222,https://github.com/sindresorhus/type-fest,https://github.com/clap-rs/clap,14.7k,570,52,181,4.5,4.8,4.2,4.0,14.6k,1.1k,69,517,4.5,4.8,4.2,4.0
+1229,https://github.com/sindresorhus/type-fest,https://github.com/colorjs/color-name,14.7k,570,52,181,4.5,4.8,4.2,4.0,119,30,3,8,3.5,2.5,2.0,3.0
+1234,https://github.com/sindresorhus/type-fest,https://github.com/humanwhocodes/object-schema,14.7k,570,52,181,4.5,4.8,4.2,4.0,32,7,2,3,4.0,3.5,2.5,3.0
+1235,https://github.com/sindresorhus/type-fest,https://github.com/boa-dev/boa,14.7k,570,52,181,4.5,4.8,4.2,4.0,5.4k,411,47,177,4.5,4.8,4.2,4.0
+1236,https://github.com/sindresorhus/type-fest,https://github.com/pandas-dev/pandas,14.7k,570,52,181,4.5,4.8,4.2,4.0,44.3k,18.1k,1.1k,"3,391",4.5,4.8,4.7,4.6
+1238,https://github.com/sindresorhus/type-fest,https://github.com/ethers-io/ethers.js,14.7k,570,52,181,4.5,4.8,4.2,4.0,8.1k,1.9k,104,Not explicitly provided in the information.,4.5,4.8,4.2,4.0
+1243,https://github.com/sindresorhus/type-fest,https://github.com/reactivex/rxjs,14.7k,570,52,181,4.5,4.8,4.2,4.0,30.9k,3k,449,538,4.5,4.8,4.7,4.3
+1252,https://github.com/eslint/eslint,https://github.com/debug-js/debug,25.4k,4.6k,315,"1,035",4.5,4.8,4.7,4.3,11.2k,945,139,116,4.5,4.0,4.0,4.0
+1254,https://github.com/eslint/eslint,https://github.com/emotion-js/emotion,25.4k,4.6k,315,"1,035",4.5,4.8,4.7,4.3,17.6k,1.1k,96,319,4.5,4.8,4.2,4.0
+1256,https://github.com/eslint/eslint,https://github.com/cssnano/cssnano,25.4k,4.6k,315,"1,035",4.5,4.8,4.7,4.3,4.8k,319,49,109,4.5,4.0,4.0,4.0
+1259,https://github.com/eslint/eslint,https://github.com/browserslist/browserslist,25.4k,4.6k,315,"1,035",4.5,4.8,4.7,4.3,13.1k,721,140,179,4.5,4.0,4.0,3.5
+1262,https://github.com/eslint/eslint,https://github.com/axios/axios,25.4k,4.6k,315,"1,035",4.5,4.8,4.7,4.3,106k,11k,1.2k,454,4.5,4.8,4.7,4.3
+1264,https://github.com/eslint/eslint,https://github.com/brooooooklyn/snappy,25.4k,4.6k,315,"1,035",4.5,4.8,4.7,4.3,168,10,4,6,4.0,4.5,3.5,3.0
+1269,https://github.com/zloirock/core-js,https://github.com/redux-saga/redux-saga,24.7k,1.7k,254,127,4.5,4.8,4.2,4.0,22.5k,2k,249,322,4.5,4.8,4.2,4.0
+1273,https://github.com/zloirock/core-js,https://github.com/gregberge/svgr,24.7k,1.7k,254,127,4.5,4.8,4.2,4.0,10.6k,425,35,132,4.5,4.8,4.2,4.0
+1279,https://github.com/zloirock/core-js,https://github.com/swc-project/swc,24.7k,1.7k,254,127,4.5,4.8,4.2,4.0,31.5k,1.2k,153,304,4.5,4.8,4.2,4.0
+1284,https://github.com/zloirock/core-js,https://github.com/emotion-js/emotion,24.7k,1.7k,254,127,4.5,4.8,4.2,4.0,17.6k,1.1k,96,319,4.5,4.8,4.2,4.0
+1287,https://github.com/zloirock/core-js,https://github.com/eslint/eslint,24.7k,1.7k,254,127,4.5,4.8,4.2,4.0,25.4k,4.6k,315,"1,035",4.5,4.8,4.7,4.3
+1289,https://github.com/zloirock/core-js,https://github.com/dcodeio/long.js,24.7k,1.7k,254,127,4.5,4.8,4.2,4.0,892,206,23,17,4.5,4.0,3.5,3.0
+1290,https://github.com/zloirock/core-js,https://github.com/qix-/color-convert,24.7k,1.7k,254,127,4.5,4.8,4.2,4.0,751,96,12,27,4.5,3.5,3.0,4.0
+1293,https://github.com/zloirock/core-js,https://github.com/wooorm/markdown-table,24.7k,1.7k,254,127,4.5,4.8,4.2,4.0,274,24,7,5,4.5,3.5,2.5,3.0
+1296,https://github.com/zloirock/core-js,https://github.com/typescript-eslint/typescript-eslint,24.7k,1.7k,254,127,4.5,4.8,4.2,4.0,15.4k,2.8k,90,701,4.5,4.8,4.7,4.3
+1299,https://github.com/zloirock/core-js,https://github.com/salesforce/tough-cookie,24.7k,1.7k,254,127,4.5,4.8,4.2,4.0,980,227,50,38,4.5,4.0,3.5,4.0
+1310,https://github.com/zloirock/core-js,https://github.com/mozilla/source-map,24.7k,1.7k,254,127,4.5,4.8,4.2,4.0,3.6k,361,70,85,4.5,4.0,3.5,4.0
+1314,https://github.com/zloirock/core-js,https://github.com/mattn/go-isatty,24.7k,1.7k,254,127,4.5,4.8,4.2,4.0,845,108,12,29,4.0,3.5,3.0,3.5
+1323,https://github.com/zloirock/core-js,https://github.com/axios/axios,24.7k,1.7k,254,127,4.5,4.8,4.2,4.0,106k,11k,1.2k,454,4.5,4.8,4.7,4.3
+1331,https://github.com/zloirock/core-js,https://github.com/mysticatea/abort-controller,24.7k,1.7k,254,127,4.5,4.8,4.2,4.0,305,36,8,5,4.0,3.5,3.0,3.5
+1335,https://github.com/zloirock/core-js,https://github.com/streetsidesoftware/cspell,24.7k,1.7k,254,127,4.5,4.8,4.2,4.0,1.3k,103,13,69,4.5,4.0,4.0,4.0
+1337,https://github.com/zloirock/core-js,https://github.com/pandas-dev/pandas,24.7k,1.7k,254,127,4.5,4.8,4.2,4.0,44.3k,18.1k,1.1k,"3,391",4.5,4.8,4.7,4.6
+1339,https://github.com/zloirock/core-js,https://github.com/ethers-io/ethers.js,24.7k,1.7k,254,127,4.5,4.8,4.2,4.0,8.1k,1.9k,104,Not explicitly provided in the information.,4.5,4.8,4.2,4.0
+1341,https://github.com/zloirock/core-js,https://github.com/formatjs/formatjs,24.7k,1.7k,254,127,4.5,4.8,4.2,4.0,14.4k,1.4k,131,305,4.5,4.0,4.5,4.0
+1346,https://github.com/zloirock/core-js,https://github.com/tklauser/go-sysconf,24.7k,1.7k,254,127,4.5,4.8,4.2,4.0,140,27,5,5,4.0,3.5,2.5,3.0
+1352,https://github.com/zloirock/core-js,https://github.com/alexeyraspopov/picocolors,24.7k,1.7k,254,127,4.5,4.8,4.2,4.0,1.4k,45,10,13,4.5,4.0,3.5,4.0
+1353,https://github.com/sheetjs/js-crc32,https://github.com/babel/babel,345,37,10,6,4.5,3.5,3.0,4.0,43.4k,5.7k,804,"1,091",4.5,4.8,4.7,4.3
+1358,https://github.com/sheetjs/js-crc32,https://github.com/pnpm/cmd-shim,345,37,10,6,4.5,3.5,3.0,4.0,14,11,5,Not provided,3.5,3.0,2.5,3.0
+1361,https://github.com/sheetjs/js-crc32,https://github.com/mafintosh/pump,345,37,10,6,4.5,3.5,3.0,4.0,910,59,7,7,4.0,3.5,3.0,3.5
+1362,https://github.com/sheetjs/js-crc32,https://github.com/mochajs/mocha,345,37,10,6,4.5,3.5,3.0,4.0,22.7k,3k,398,503,4.5,4.0,4.5,4.0
+1363,https://github.com/sheetjs/js-crc32,https://github.com/eslint/eslint,345,37,10,6,4.5,3.5,3.0,4.0,25.4k,4.6k,315,"1,035",4.5,4.8,4.7,4.3
+1367,https://github.com/sheetjs/js-crc32,https://github.com/gulpjs/gulp,345,37,10,6,4.5,3.5,3.0,4.0,33.1k,4.2k,1k,246,4.5,4.0,4.5,4.0
+1371,https://github.com/sheetjs/js-crc32,https://github.com/cssnano/cssnano,345,37,10,6,4.5,3.5,3.0,4.0,4.8k,319,49,109,4.5,4.0,4.0,4.0
+1374,https://github.com/sheetjs/js-crc32,https://github.com/immerjs/immer,345,37,10,6,4.5,3.5,3.0,4.0,28k,852,155,188,4.5,4.8,4.2,4.0
+1377,https://github.com/sheetjs/js-crc32,https://github.com/pytest-dev/pytest,345,37,10,6,4.5,3.5,3.0,4.0,12.3k,2.7k,196,875,4.5,4.8,4.7,4.6
+1378,https://github.com/sheetjs/js-crc32,https://github.com/gregberge/svgr,345,37,10,6,4.5,3.5,3.0,4.0,10.6k,425,35,132,4.5,4.8,4.2,4.0
+1386,https://github.com/sheetjs/js-crc32,https://github.com/floating-ui/floating-ui,345,37,10,6,4.5,3.5,3.0,4.0,30.5k,1.6k,257,112,4.5,4.7,4.2,4.0
+1393,https://github.com/sheetjs/js-crc32,https://github.com/epoberezkin/fast-deep-equal,345,37,10,6,4.5,3.5,3.0,4.0,1.9k,106,14,13,4.5,4.0,3.5,4.0
+1398,https://github.com/sheetjs/js-crc32,https://github.com/brooooooklyn/snappy,345,37,10,6,4.5,3.5,3.0,4.0,168,10,4,6,4.0,4.5,3.5,3.0
+1405,https://github.com/sheetjs/js-crc32,https://github.com/pandas-dev/pandas,345,37,10,6,4.5,3.5,3.0,4.0,44.3k,18.1k,1.1k,"3,391",4.5,4.8,4.7,4.6
+1408,https://github.com/sheetjs/js-crc32,https://github.com/nodeca/js-yaml,345,37,10,6,4.5,3.5,3.0,4.0,6.3k,776,75,73,4.5,4.0,3.5,4.0
+1412,https://github.com/sheetjs/js-crc32,https://github.com/reactivex/rxjs,345,37,10,6,4.5,3.5,3.0,4.0,30.9k,3k,449,538,4.5,4.8,4.7,4.3
+1413,https://github.com/sheetjs/js-crc32,https://github.com/google/flatbuffers,345,37,10,6,4.5,3.5,3.0,4.0,23.6k,3.3k,644,650,4.5,4.8,4.2,4.0
+1415,https://github.com/sheetjs/js-crc32,https://github.com/fastify/fastify,345,37,10,6,4.5,3.5,3.0,4.0,32.8k,2.3k,299,772,4.5,4.8,4.7,4.3
+1420,https://github.com/dcodeio/long.js,https://github.com/chzyer/readline,892,206,23,17,4.5,4.0,3.5,3.0,2.1k,280,41,38,4.0,4.5,3.5,3.0
+1422,https://github.com/dcodeio/long.js,https://github.com/browserslist/browserslist,892,206,23,17,4.5,4.0,3.5,3.0,13.1k,721,140,179,4.5,4.0,4.0,3.5
+1423,https://github.com/dcodeio/long.js,https://github.com/clap-rs/clap,892,206,23,17,4.5,4.0,3.5,3.0,14.6k,1.1k,69,517,4.5,4.8,4.2,4.0
+1424,https://github.com/dcodeio/long.js,https://github.com/axios/axios,892,206,23,17,4.5,4.0,3.5,3.0,106k,11k,1.2k,454,4.5,4.8,4.7,4.3
+1428,https://github.com/dcodeio/long.js,https://github.com/boa-dev/boa,892,206,23,17,4.5,4.0,3.5,3.0,5.4k,411,47,177,4.5,4.8,4.2,4.0
+1430,https://github.com/qix-/color-convert,https://github.com/emotion-js/emotion,751,96,12,27,4.5,3.5,3.0,4.0,17.6k,1.1k,96,319,4.5,4.8,4.2,4.0
+1433,https://github.com/qix-/color-convert,https://github.com/pnpm/cmd-shim,751,96,12,27,4.5,3.5,3.0,4.0,14,11,5,Not provided,3.5,3.0,2.5,3.0
+1437,https://github.com/qix-/color-convert,https://github.com/eslint/eslint,751,96,12,27,4.5,3.5,3.0,4.0,25.4k,4.6k,315,"1,035",4.5,4.8,4.7,4.3
+1438,https://github.com/qix-/color-convert,https://github.com/prettier/prettier,751,96,12,27,4.5,3.5,3.0,4.0,49.8k,4.4k,419,715,4.5,4.8,4.7,4.3
+1443,https://github.com/qix-/color-convert,https://github.com/pytest-dev/pytest,751,96,12,27,4.5,3.5,3.0,4.0,12.3k,2.7k,196,875,4.5,4.8,4.7,4.6
+1445,https://github.com/qix-/color-convert,https://github.com/browserslist/browserslist,751,96,12,27,4.5,3.5,3.0,4.0,13.1k,721,140,179,4.5,4.0,4.0,3.5
+1452,https://github.com/qix-/color-convert,https://github.com/mattn/go-isatty,751,96,12,27,4.5,3.5,3.0,4.0,845,108,12,29,4.0,3.5,3.0,3.5
+1455,https://github.com/qix-/color-convert,https://github.com/clap-rs/clap,751,96,12,27,4.5,3.5,3.0,4.0,14.6k,1.1k,69,517,4.5,4.8,4.2,4.0
+1457,https://github.com/qix-/color-convert,https://github.com/facebook/react,751,96,12,27,4.5,3.5,3.0,4.0,231k,47.4k,6.6k,"1,681",4.5,5,4.8,4.7
+1458,https://github.com/qix-/color-convert,https://github.com/floating-ui/floating-ui,751,96,12,27,4.5,3.5,3.0,4.0,30.5k,1.6k,257,112,4.5,4.7,4.2,4.0
+1466,https://github.com/qix-/color-convert,https://github.com/immerjs/immer,751,96,12,27,4.5,3.5,3.0,4.0,28k,852,155,188,4.5,4.8,4.2,4.0
+1468,https://github.com/mafintosh/pump,https://github.com/babel/babel,910,59,7,7,4.0,3.5,3.0,3.5,43.4k,5.7k,804,"1,091",4.5,4.8,4.7,4.3
+1469,https://github.com/mafintosh/pump,https://github.com/emotion-js/emotion,910,59,7,7,4.0,3.5,3.0,3.5,17.6k,1.1k,96,319,4.5,4.8,4.2,4.0
+1475,https://github.com/mafintosh/pump,https://github.com/gulpjs/gulp,910,59,7,7,4.0,3.5,3.0,3.5,33.1k,4.2k,1k,246,4.5,4.0,4.5,4.0
+1476,https://github.com/mafintosh/pump,https://github.com/electron/electron,910,59,7,7,4.0,3.5,3.0,3.5,115k,15.7k,2.8k,"1,291",4.5,4.8,4.7,4.6
+1478,https://github.com/mafintosh/pump,https://github.com/cssnano/cssnano,910,59,7,7,4.0,3.5,3.0,3.5,4.8k,319,49,109,4.5,4.0,4.0,4.0
+1481,https://github.com/mafintosh/pump,https://github.com/jedisct1/go-minisign,910,59,7,7,4.0,3.5,3.0,3.5,113,12,5,3,3.5,3.0,2.5,3.0
+1488,https://github.com/prettier/prettier,https://github.com/babel/babel,49.8k,4.4k,419,715,4.5,4.8,4.7,4.3,43.4k,5.7k,804,"1,091",4.5,4.8,4.7,4.3
+1489,https://github.com/prettier/prettier,https://github.com/emotion-js/emotion,49.8k,4.4k,419,715,4.5,4.8,4.7,4.3,17.6k,1.1k,96,319,4.5,4.8,4.2,4.0
+1491,https://github.com/prettier/prettier,https://github.com/debug-js/debug,49.8k,4.4k,419,715,4.5,4.8,4.7,4.3,11.2k,945,139,116,4.5,4.0,4.0,4.0
+1500,https://github.com/prettier/prettier,https://github.com/electron/electron,49.8k,4.4k,419,715,4.5,4.8,4.7,4.3,115k,15.7k,2.8k,"1,291",4.5,4.8,4.7,4.6
+1502,https://github.com/prettier/prettier,https://github.com/cssnano/cssnano,49.8k,4.4k,419,715,4.5,4.8,4.7,4.3,4.8k,319,49,109,4.5,4.0,4.0,4.0
+1504,https://github.com/prettier/prettier,https://github.com/immerjs/immer,49.8k,4.4k,419,715,4.5,4.8,4.7,4.3,28k,852,155,188,4.5,4.8,4.2,4.0
+1508,https://github.com/prettier/prettier,https://github.com/motdotla/dotenv,49.8k,4.4k,419,715,4.5,4.8,4.7,4.3,19.4k,861,109,87,4.5,4.0,4.0,4.5
+1512,https://github.com/prettier/prettier,https://github.com/ajv-validator/ajv,49.8k,4.4k,419,715,4.5,4.8,4.7,4.3,14k,886,112,207,4.5,4.8,4.2,4.0
+1515,https://github.com/prettier/prettier,https://github.com/floating-ui/floating-ui,49.8k,4.4k,419,715,4.5,4.8,4.7,4.3,30.5k,1.6k,257,112,4.5,4.7,4.2,4.0
+1518,https://github.com/prettier/prettier,https://github.com/marak/colors.js,49.8k,4.4k,419,715,4.5,4.8,4.7,4.3,5.2k,449,53,44,4.5,3.5,3.0,4.0
+1526,https://github.com/prettier/prettier,https://github.com/brooooooklyn/snappy,49.8k,4.4k,419,715,4.5,4.8,4.7,4.3,168,10,4,6,4.0,4.5,3.5,3.0
+1533,https://github.com/prettier/prettier,https://github.com/pandas-dev/pandas,49.8k,4.4k,419,715,4.5,4.8,4.7,4.3,44.3k,18.1k,1.1k,"3,391",4.5,4.8,4.7,4.6
+1537,https://github.com/prettier/prettier,https://github.com/formatjs/formatjs,49.8k,4.4k,419,715,4.5,4.8,4.7,4.3,14.4k,1.4k,131,305,4.5,4.0,4.5,4.0
+1539,https://github.com/prettier/prettier,https://github.com/kaelzhang/node-ignore,49.8k,4.4k,419,715,4.5,4.8,4.7,4.3,454,47,10,20,4.5,4.0,3.5,3.0
+1540,https://github.com/prettier/prettier,https://github.com/google/flatbuffers,49.8k,4.4k,419,715,4.5,4.8,4.7,4.3,23.6k,3.3k,644,650,4.5,4.8,4.2,4.0
+1544,https://github.com/typescript-eslint/typescript-eslint,https://github.com/mochajs/mocha,15.4k,2.8k,90,701,4.5,4.8,4.7,4.3,22.7k,3k,398,503,4.5,4.0,4.5,4.0
+1546,https://github.com/typescript-eslint/typescript-eslint,https://github.com/sheetjs/js-crc32,15.4k,2.8k,90,701,4.5,4.8,4.7,4.3,345,37,10,6,4.5,3.5,3.0,4.0
+1547,https://github.com/typescript-eslint/typescript-eslint,https://github.com/facebook/react,15.4k,2.8k,90,701,4.5,4.8,4.7,4.3,231k,47.4k,6.6k,"1,681",4.5,5,4.8,4.7
+1555,https://github.com/typescript-eslint/typescript-eslint,https://github.com/babel/babel,15.4k,2.8k,90,701,4.5,4.8,4.7,4.3,43.4k,5.7k,804,"1,091",4.5,4.8,4.7,4.3
+1557,https://github.com/typescript-eslint/typescript-eslint,https://github.com/eslint/eslint,15.4k,2.8k,90,701,4.5,4.8,4.7,4.3,25.4k,4.6k,315,"1,035",4.5,4.8,4.7,4.3
+1558,https://github.com/typescript-eslint/typescript-eslint,https://github.com/rollup/rollup,15.4k,2.8k,90,701,4.5,4.8,4.7,4.3,25.5k,1.5k,257,395,4.5,4.8,4.2,4.0
+1564,https://github.com/typescript-eslint/typescript-eslint,https://github.com/dcodeio/long.js,15.4k,2.8k,90,701,4.5,4.8,4.7,4.3,892,206,23,17,4.5,4.0,3.5,3.0
+1567,https://github.com/typescript-eslint/typescript-eslint,https://github.com/redux-saga/redux-saga,15.4k,2.8k,90,701,4.5,4.8,4.7,4.3,22.5k,2k,249,322,4.5,4.8,4.2,4.0
+1570,https://github.com/typescript-eslint/typescript-eslint,https://github.com/gregberge/svgr,15.4k,2.8k,90,701,4.5,4.8,4.7,4.3,10.6k,425,35,132,4.5,4.8,4.2,4.0
+1573,https://github.com/typescript-eslint/typescript-eslint,https://github.com/pion/webrtc,15.4k,2.8k,90,701,4.5,4.8,4.7,4.3,14.1k,1.7k,261,203,4.5,4.8,4.7,4.3
+1576,https://github.com/typescript-eslint/typescript-eslint,https://github.com/ajv-validator/ajv,15.4k,2.8k,90,701,4.5,4.8,4.7,4.3,14k,886,112,207,4.5,4.8,4.2,4.0
+1578,https://github.com/typescript-eslint/typescript-eslint,https://github.com/browserslist/browserslist,15.4k,2.8k,90,701,4.5,4.8,4.7,4.3,13.1k,721,140,179,4.5,4.0,4.0,3.5
+1579,https://github.com/typescript-eslint/typescript-eslint,https://github.com/floating-ui/floating-ui,15.4k,2.8k,90,701,4.5,4.8,4.7,4.3,30.5k,1.6k,257,112,4.5,4.7,4.2,4.0
+1584,https://github.com/typescript-eslint/typescript-eslint,https://github.com/fb55/entities,15.4k,2.8k,90,701,4.5,4.8,4.7,4.3,331,64,5,23,4.5,4.0,3.5,4.0
+1591,https://github.com/typescript-eslint/typescript-eslint,https://github.com/colorjs/color-name,15.4k,2.8k,90,701,4.5,4.8,4.7,4.3,119,30,3,8,3.5,2.5,2.0,3.0
+1594,https://github.com/typescript-eslint/typescript-eslint,https://github.com/mysticatea/abort-controller,15.4k,2.8k,90,701,4.5,4.8,4.7,4.3,305,36,8,5,4.0,3.5,3.0,3.5
+1603,https://github.com/typescript-eslint/typescript-eslint,https://github.com/nodeca/js-yaml,15.4k,2.8k,90,701,4.5,4.8,4.7,4.3,6.3k,776,75,73,4.5,4.0,3.5,4.0
+1607,https://github.com/typescript-eslint/typescript-eslint,https://github.com/reactivex/rxjs,15.4k,2.8k,90,701,4.5,4.8,4.7,4.3,30.9k,3k,449,538,4.5,4.8,4.7,4.3
+1611,https://github.com/typescript-eslint/typescript-eslint,https://github.com/biomejs/biome,15.4k,2.8k,90,701,4.5,4.8,4.7,4.3,16.5k,512,52,478,4.5,4.8,4.2,4.0
+1612,https://github.com/typescript-eslint/typescript-eslint,https://github.com/fastify/fastify,15.4k,2.8k,90,701,4.5,4.8,4.7,4.3,32.8k,2.3k,299,772,4.5,4.8,4.7,4.3
+1615,https://github.com/salesforce/tough-cookie,https://github.com/mochajs/mocha,980,227,50,38,4.5,4.0,3.5,4.0,22.7k,3k,398,503,4.5,4.0,4.5,4.0
+1616,https://github.com/salesforce/tough-cookie,https://github.com/gulpjs/gulp,980,227,50,38,4.5,4.0,3.5,4.0,33.1k,4.2k,1k,246,4.5,4.0,4.5,4.0
+1617,https://github.com/salesforce/tough-cookie,https://github.com/facebook/react,980,227,50,38,4.5,4.0,3.5,4.0,231k,47.4k,6.6k,"1,681",4.5,5,4.8,4.7
+1619,https://github.com/salesforce/tough-cookie,https://github.com/level/levelup,980,227,50,38,4.5,4.0,3.5,4.0,4.1k,267,91,42,4.5,4.0,3.5,3.0
+1621,https://github.com/salesforce/tough-cookie,https://github.com/mikemcl/bignumber.js,980,227,50,38,4.5,4.0,3.5,4.0,6.7k,744,83,35,4.5,4.8,4.0,4.2
+1633,https://github.com/salesforce/tough-cookie,https://github.com/lukeed/polka,980,227,50,38,4.5,4.0,3.5,4.0,5.4k,173,69,13,4.5,4.0,3.5,4.0
+1638,https://github.com/salesforce/tough-cookie,https://github.com/mafintosh/pump,980,227,50,38,4.5,4.0,3.5,4.0,910,59,7,7,4.0,3.5,3.0,3.5
+1642,https://github.com/salesforce/tough-cookie,https://github.com/browserslist/browserslist,980,227,50,38,4.5,4.0,3.5,4.0,13.1k,721,140,179,4.5,4.0,4.0,3.5
+1645,https://github.com/salesforce/tough-cookie,https://github.com/ajv-validator/ajv,980,227,50,38,4.5,4.0,3.5,4.0,14k,886,112,207,4.5,4.8,4.2,4.0
+1652,https://github.com/salesforce/tough-cookie,https://github.com/axios/axios,980,227,50,38,4.5,4.0,3.5,4.0,106k,11k,1.2k,454,4.5,4.8,4.7,4.3
+1654,https://github.com/salesforce/tough-cookie,https://github.com/import-js/eslint-plugin-import,980,227,50,38,4.5,4.0,3.5,4.0,5.6k,1.6k,37,363,4.5,4.0,4.2,4.0
+1656,https://github.com/salesforce/tough-cookie,https://github.com/mysticatea/abort-controller,980,227,50,38,4.5,4.0,3.5,4.0,305,36,8,5,4.0,3.5,3.0,3.5
+1657,https://github.com/salesforce/tough-cookie,https://github.com/coinbase/coinbase-wallet-sdk,980,227,50,38,4.5,4.0,3.5,4.0,1.5k,601,171,52,4.5,4.0,3.5,4.0
+1658,https://github.com/salesforce/tough-cookie,https://github.com/getsentry/sentry-javascript,980,227,50,38,4.5,4.0,3.5,4.0,8.1k,1.6k,125,540,4.5,4.8,4.2,4.0
+1661,https://github.com/salesforce/tough-cookie,https://github.com/pandas-dev/pandas,980,227,50,38,4.5,4.0,3.5,4.0,44.3k,18.1k,1.1k,"3,391",4.5,4.8,4.7,4.6
+1663,https://github.com/salesforce/tough-cookie,https://github.com/boa-dev/boa,980,227,50,38,4.5,4.0,3.5,4.0,5.4k,411,47,177,4.5,4.8,4.2,4.0
+1666,https://github.com/salesforce/tough-cookie,https://github.com/rich-harris/magic-string,980,227,50,38,4.5,4.0,3.5,4.0,2.4k,115,15,55,4.5,4.0,3.5,4.0
+1668,https://github.com/salesforce/tough-cookie,https://github.com/mmcloughlin/addchain,980,227,50,38,4.5,4.0,3.5,4.0,188,14,7,2,4.5,4.8,3.5,3.8
+1671,https://github.com/salesforce/tough-cookie,https://github.com/google/flatbuffers,980,227,50,38,4.5,4.0,3.5,4.0,23.6k,3.3k,644,650,4.5,4.8,4.2,4.0
+1672,https://github.com/salesforce/tough-cookie,https://github.com/qix-/color-convert,980,227,50,38,4.5,4.0,3.5,4.0,751,96,12,27,4.5,3.5,3.0,4.0
+1690,https://github.com/pytest-dev/pytest,https://github.com/jedisct1/go-minisign,12.3k,2.7k,196,875,4.5,4.8,4.7,4.6,113,12,5,3,3.5,3.0,2.5,3.0
+1692,https://github.com/pytest-dev/pytest,https://github.com/lukeed/polka,12.3k,2.7k,196,875,4.5,4.8,4.7,4.6,5.4k,173,69,13,4.5,4.0,3.5,4.0
+1704,https://github.com/pytest-dev/pytest,https://github.com/node-fetch/node-fetch,12.3k,2.7k,196,875,4.5,4.8,4.7,4.6,8.8k,1k,89,119,4.5,4.0,4.0,4.0
+1707,https://github.com/pytest-dev/pytest,https://github.com/clap-rs/clap,12.3k,2.7k,196,875,4.5,4.8,4.7,4.6,14.6k,1.1k,69,517,4.5,4.8,4.2,4.0
+1710,https://github.com/pytest-dev/pytest,https://github.com/epoberezkin/fast-deep-equal,12.3k,2.7k,196,875,4.5,4.8,4.7,4.6,1.9k,106,14,13,4.5,4.0,3.5,4.0
+1719,https://github.com/pytest-dev/pytest,https://github.com/humanwhocodes/object-schema,12.3k,2.7k,196,875,4.5,4.8,4.7,4.6,32,7,2,3,4.0,3.5,2.5,3.0
+1726,https://github.com/pytest-dev/pytest,https://github.com/mmcloughlin/addchain,12.3k,2.7k,196,875,4.5,4.8,4.7,4.6,188,14,7,2,4.5,4.8,3.5,3.8
+1728,https://github.com/pytest-dev/pytest,https://github.com/google/flatbuffers,12.3k,2.7k,196,875,4.5,4.8,4.7,4.6,23.6k,3.3k,644,650,4.5,4.8,4.2,4.0
+1729,https://github.com/pytest-dev/pytest,https://github.com/biomejs/biome,12.3k,2.7k,196,875,4.5,4.8,4.7,4.6,16.5k,512,52,478,4.5,4.8,4.2,4.0
+1730,https://github.com/pytest-dev/pytest,https://github.com/fastify/fastify,12.3k,2.7k,196,875,4.5,4.8,4.7,4.6,32.8k,2.3k,299,772,4.5,4.8,4.7,4.3
+1732,https://github.com/heim-rs/darwin-libproc,https://github.com/gulpjs/gulp,8,22,2,Not explicitly provided in the information.,3.5,3.0,2.5,3.0,33.1k,4.2k,1k,246,4.5,4.0,4.5,4.0
+1733,https://github.com/heim-rs/darwin-libproc,https://github.com/facebook/react,8,22,2,Not explicitly provided in the information.,3.5,3.0,2.5,3.0,231k,47.4k,6.6k,"1,681",4.5,5,4.8,4.7
+1738,https://github.com/heim-rs/darwin-libproc,https://github.com/debug-js/debug,8,22,2,Not explicitly provided in the information.,3.5,3.0,2.5,3.0,11.2k,945,139,116,4.5,4.0,4.0,4.0
+1739,https://github.com/heim-rs/darwin-libproc,https://github.com/eslint/eslint,8,22,2,Not explicitly provided in the information.,3.5,3.0,2.5,3.0,25.4k,4.6k,315,"1,035",4.5,4.8,4.7,4.3
+1741,https://github.com/heim-rs/darwin-libproc,https://github.com/dcodeio/long.js,8,22,2,Not explicitly provided in the information.,3.5,3.0,2.5,3.0,892,206,23,17,4.5,4.0,3.5,3.0
+1745,https://github.com/heim-rs/darwin-libproc,https://github.com/browserslist/browserslist,8,22,2,Not explicitly provided in the information.,3.5,3.0,2.5,3.0,13.1k,721,140,179,4.5,4.0,4.0,3.5
+1748,https://github.com/heim-rs/darwin-libproc,https://github.com/axios/axios,8,22,2,Not explicitly provided in the information.,3.5,3.0,2.5,3.0,106k,11k,1.2k,454,4.5,4.8,4.7,4.3
+1750,https://github.com/heim-rs/darwin-libproc,https://github.com/brooooooklyn/snappy,8,22,2,Not explicitly provided in the information.,3.5,3.0,2.5,3.0,168,10,4,6,4.0,4.5,3.5,3.0
+1757,https://github.com/immerjs/immer,https://github.com/gulpjs/gulp,28k,852,155,188,4.5,4.8,4.2,4.0,33.1k,4.2k,1k,246,4.5,4.0,4.5,4.0
+1765,https://github.com/immerjs/immer,https://github.com/heim-rs/darwin-libproc,28k,852,155,188,4.5,4.8,4.2,4.0,8,22,2,Not explicitly provided in the information.,3.5,3.0,2.5,3.0
+1770,https://github.com/immerjs/immer,https://github.com/ajv-validator/ajv,28k,852,155,188,4.5,4.8,4.2,4.0,14k,886,112,207,4.5,4.8,4.2,4.0
+1780,https://github.com/immerjs/immer,https://github.com/getsentry/sentry-javascript,28k,852,155,188,4.5,4.8,4.2,4.0,8.1k,1.6k,125,540,4.5,4.8,4.2,4.0
+1781,https://github.com/immerjs/immer,https://github.com/humanwhocodes/object-schema,28k,852,155,188,4.5,4.8,4.2,4.0,32,7,2,3,4.0,3.5,2.5,3.0
+1787,https://github.com/immerjs/immer,https://github.com/fastify/fastify,28k,852,155,188,4.5,4.8,4.2,4.0,32.8k,2.3k,299,772,4.5,4.8,4.7,4.3
+1789,https://github.com/jedisct1/go-minisign,https://github.com/gulpjs/gulp,113,12,5,3,3.5,3.0,2.5,3.0,33.1k,4.2k,1k,246,4.5,4.0,4.5,4.0
+1790,https://github.com/jedisct1/go-minisign,https://github.com/facebook/react,113,12,5,3,3.5,3.0,2.5,3.0,231k,47.4k,6.6k,"1,681",4.5,5,4.8,4.7
+1792,https://github.com/jedisct1/go-minisign,https://github.com/emotion-js/emotion,113,12,5,3,3.5,3.0,2.5,3.0,17.6k,1.1k,96,319,4.5,4.8,4.2,4.0
+1796,https://github.com/jedisct1/go-minisign,https://github.com/eslint/eslint,113,12,5,3,3.5,3.0,2.5,3.0,25.4k,4.6k,315,"1,035",4.5,4.8,4.7,4.3
+1799,https://github.com/jedisct1/go-minisign,https://github.com/electron/electron,113,12,5,3,3.5,3.0,2.5,3.0,115k,15.7k,2.8k,"1,291",4.5,4.8,4.7,4.6
+1801,https://github.com/jedisct1/go-minisign,https://github.com/gregberge/svgr,113,12,5,3,3.5,3.0,2.5,3.0,10.6k,425,35,132,4.5,4.8,4.2,4.0
+1802,https://github.com/jedisct1/go-minisign,https://github.com/chzyer/readline,113,12,5,3,3.5,3.0,2.5,3.0,2.1k,280,41,38,4.0,4.5,3.5,3.0
+1810,https://github.com/jedisct1/go-minisign,https://github.com/colorjs/color-name,113,12,5,3,3.5,3.0,2.5,3.0,119,30,3,8,3.5,2.5,2.0,3.0
+1813,https://github.com/jedisct1/go-minisign,https://github.com/coinbase/coinbase-wallet-sdk,113,12,5,3,3.5,3.0,2.5,3.0,1.5k,601,171,52,4.5,4.0,3.5,4.0
+1814,https://github.com/jedisct1/go-minisign,https://github.com/getsentry/sentry-javascript,113,12,5,3,3.5,3.0,2.5,3.0,8.1k,1.6k,125,540,4.5,4.8,4.2,4.0
+1815,https://github.com/jedisct1/go-minisign,https://github.com/humanwhocodes/object-schema,113,12,5,3,3.5,3.0,2.5,3.0,32,7,2,3,4.0,3.5,2.5,3.0
+1816,https://github.com/jedisct1/go-minisign,https://github.com/boa-dev/boa,113,12,5,3,3.5,3.0,2.5,3.0,5.4k,411,47,177,4.5,4.8,4.2,4.0
+1821,https://github.com/jedisct1/go-minisign,https://github.com/biomejs/biome,113,12,5,3,3.5,3.0,2.5,3.0,16.5k,512,52,478,4.5,4.8,4.2,4.0
+1823,https://github.com/jedisct1/go-minisign,https://github.com/alexeyraspopov/picocolors,113,12,5,3,3.5,3.0,2.5,3.0,1.4k,45,10,13,4.5,4.0,3.5,4.0
+1831,https://github.com/lukeed/polka,https://github.com/debug-js/debug,5.4k,173,69,13,4.5,4.0,3.5,4.0,11.2k,945,139,116,4.5,4.0,4.0,4.0
+1832,https://github.com/lukeed/polka,https://github.com/eslint/eslint,5.4k,173,69,13,4.5,4.0,3.5,4.0,25.4k,4.6k,315,"1,035",4.5,4.8,4.7,4.3
+1834,https://github.com/lukeed/polka,https://github.com/immerjs/immer,5.4k,173,69,13,4.5,4.0,3.5,4.0,28k,852,155,188,4.5,4.8,4.2,4.0
+1841,https://github.com/lukeed/polka,https://github.com/axios/axios,5.4k,173,69,13,4.5,4.0,3.5,4.0,106k,11k,1.2k,454,4.5,4.8,4.7,4.3
+1845,https://github.com/lukeed/polka,https://github.com/clap-rs/clap,5.4k,173,69,13,4.5,4.0,3.5,4.0,14.6k,1.1k,69,517,4.5,4.8,4.2,4.0
+1848,https://github.com/lukeed/polka,https://github.com/import-js/eslint-plugin-import,5.4k,173,69,13,4.5,4.0,3.5,4.0,5.6k,1.6k,37,363,4.5,4.0,4.2,4.0
+1850,https://github.com/lukeed/polka,https://github.com/formatjs/formatjs,5.4k,173,69,13,4.5,4.0,3.5,4.0,14.4k,1.4k,131,305,4.5,4.0,4.5,4.0
+1851,https://github.com/lukeed/polka,https://github.com/humanwhocodes/object-schema,5.4k,173,69,13,4.5,4.0,3.5,4.0,32,7,2,3,4.0,3.5,2.5,3.0
+1861,https://github.com/facebook/react,https://github.com/electron/electron,231k,47.4k,6.6k,"1,681",4.5,5,4.8,4.7,115k,15.7k,2.8k,"1,291",4.5,4.8,4.7,4.6
+1863,https://github.com/facebook/react,https://github.com/chzyer/readline,231k,47.4k,6.6k,"1,681",4.5,5,4.8,4.7,2.1k,280,41,38,4.0,4.5,3.5,3.0
+1865,https://github.com/facebook/react,https://github.com/browserslist/browserslist,231k,47.4k,6.6k,"1,681",4.5,5,4.8,4.7,13.1k,721,140,179,4.5,4.0,4.0,3.5
+1872,https://github.com/facebook/react,https://github.com/boa-dev/boa,231k,47.4k,6.6k,"1,681",4.5,5,4.8,4.7,5.4k,411,47,177,4.5,4.8,4.2,4.0
+1875,https://github.com/facebook/react,https://github.com/alexeyraspopov/picocolors,231k,47.4k,6.6k,"1,681",4.5,5,4.8,4.7,1.4k,45,10,13,4.5,4.0,3.5,4.0
+1878,https://github.com/cssnano/cssnano,https://github.com/ajv-validator/ajv,4.8k,319,49,109,4.5,4.0,4.0,4.0,14k,886,112,207,4.5,4.8,4.2,4.0
+1879,https://github.com/cssnano/cssnano,https://github.com/browserslist/browserslist,4.8k,319,49,109,4.5,4.0,4.0,4.0,13.1k,721,140,179,4.5,4.0,4.0,3.5
+1881,https://github.com/cssnano/cssnano,https://github.com/axios/axios,4.8k,319,49,109,4.5,4.0,4.0,4.0,106k,11k,1.2k,454,4.5,4.8,4.7,4.3
+1883,https://github.com/cssnano/cssnano,https://github.com/brooooooklyn/snappy,4.8k,319,49,109,4.5,4.0,4.0,4.0,168,10,4,6,4.0,4.5,3.5,3.0
+1884,https://github.com/cssnano/cssnano,https://github.com/coinbase/coinbase-wallet-sdk,4.8k,319,49,109,4.5,4.0,4.0,4.0,1.5k,601,171,52,4.5,4.0,3.5,4.0
+1886,https://github.com/cssnano/cssnano,https://github.com/biomejs/biome,4.8k,319,49,109,4.5,4.0,4.0,4.0,16.5k,512,52,478,4.5,4.8,4.2,4.0
+1887,https://github.com/cssnano/cssnano,https://github.com/alexeyraspopov/picocolors,4.8k,319,49,109,4.5,4.0,4.0,4.0,1.4k,45,10,13,4.5,4.0,3.5,4.0
+1890,https://github.com/motdotla/dotenv,https://github.com/facebook/react,19.4k,861,109,87,4.5,4.0,4.0,4.5,231k,47.4k,6.6k,"1,681",4.5,5,4.8,4.7
+1895,https://github.com/motdotla/dotenv,https://github.com/go-task/slim-sprig,19.4k,861,109,87,4.5,4.0,4.0,4.5,63,15,4,Not provided,3.5,3.0,2.5,3.0
+1899,https://github.com/motdotla/dotenv,https://github.com/jedisct1/go-minisign,19.4k,861,109,87,4.5,4.0,4.0,4.5,113,12,5,3,3.5,3.0,2.5,3.0
+1911,https://github.com/motdotla/dotenv,https://github.com/fb55/entities,19.4k,861,109,87,4.5,4.0,4.0,4.5,331,64,5,23,4.5,4.0,3.5,4.0
+1919,https://github.com/motdotla/dotenv,https://github.com/import-js/eslint-plugin-import,19.4k,861,109,87,4.5,4.0,4.0,4.5,5.6k,1.6k,37,363,4.5,4.0,4.2,4.0
+1930,https://github.com/motdotla/dotenv,https://github.com/google/flatbuffers,19.4k,861,109,87,4.5,4.0,4.0,4.5,23.6k,3.3k,644,650,4.5,4.8,4.2,4.0
+1934,https://github.com/pion/webrtc,https://github.com/heim-rs/darwin-libproc,14.1k,1.7k,261,203,4.5,4.8,4.7,4.3,8,22,2,Not explicitly provided in the information.,3.5,3.0,2.5,3.0
+1937,https://github.com/pion/webrtc,https://github.com/facebook/react,14.1k,1.7k,261,203,4.5,4.8,4.7,4.3,231k,47.4k,6.6k,"1,681",4.5,5,4.8,4.7
+1942,https://github.com/pion/webrtc,https://github.com/go-task/slim-sprig,14.1k,1.7k,261,203,4.5,4.8,4.7,4.3,63,15,4,Not provided,3.5,3.0,2.5,3.0
+1946,https://github.com/pion/webrtc,https://github.com/jedisct1/go-minisign,14.1k,1.7k,261,203,4.5,4.8,4.7,4.3,113,12,5,3,3.5,3.0,2.5,3.0
+1949,https://github.com/pion/webrtc,https://github.com/electron/electron,14.1k,1.7k,261,203,4.5,4.8,4.7,4.3,115k,15.7k,2.8k,"1,291",4.5,4.8,4.7,4.6
+1951,https://github.com/pion/webrtc,https://github.com/gulpjs/gulp,14.1k,1.7k,261,203,4.5,4.8,4.7,4.3,33.1k,4.2k,1k,246,4.5,4.0,4.5,4.0
+1953,https://github.com/pion/webrtc,https://github.com/mikemcl/bignumber.js,14.1k,1.7k,261,203,4.5,4.8,4.7,4.3,6.7k,744,83,35,4.5,4.8,4.0,4.2
+1957,https://github.com/pion/webrtc,https://github.com/browserslist/browserslist,14.1k,1.7k,261,203,4.5,4.8,4.7,4.3,13.1k,721,140,179,4.5,4.0,4.0,3.5
+1961,https://github.com/pion/webrtc,https://github.com/marak/colors.js,14.1k,1.7k,261,203,4.5,4.8,4.7,4.3,5.2k,449,53,44,4.5,3.5,3.0,4.0
+1963,https://github.com/pion/webrtc,https://github.com/fb55/entities,14.1k,1.7k,261,203,4.5,4.8,4.7,4.3,331,64,5,23,4.5,4.0,3.5,4.0
+1964,https://github.com/pion/webrtc,https://github.com/ljharb/qs,14.1k,1.7k,261,203,4.5,4.8,4.7,4.3,8.6k,735,67,64,4.5,4.0,3.5,4.0
+1965,https://github.com/pion/webrtc,https://github.com/epoberezkin/fast-deep-equal,14.1k,1.7k,261,203,4.5,4.8,4.7,4.3,1.9k,106,14,13,4.5,4.0,3.5,4.0
+1966,https://github.com/pion/webrtc,https://github.com/axios/axios,14.1k,1.7k,261,203,4.5,4.8,4.7,4.3,106k,11k,1.2k,454,4.5,4.8,4.7,4.3
+1967,https://github.com/pion/webrtc,https://github.com/numpy/numpy,14.1k,1.7k,261,203,4.5,4.8,4.7,4.3,28.6k,10.3k,599,"1,718",4.5,4.8,4.7,4.3
+1968,https://github.com/pion/webrtc,https://github.com/colorjs/color-name,14.1k,1.7k,261,203,4.5,4.8,4.7,4.3,119,30,3,8,3.5,2.5,2.0,3.0
+1973,https://github.com/pion/webrtc,https://github.com/getsentry/sentry-javascript,14.1k,1.7k,261,203,4.5,4.8,4.7,4.3,8.1k,1.6k,125,540,4.5,4.8,4.2,4.0
+1979,https://github.com/pion/webrtc,https://github.com/nodeca/js-yaml,14.1k,1.7k,261,203,4.5,4.8,4.7,4.3,6.3k,776,75,73,4.5,4.0,3.5,4.0
+1980,https://github.com/pion/webrtc,https://github.com/formatjs/formatjs,14.1k,1.7k,261,203,4.5,4.8,4.7,4.3,14.4k,1.4k,131,305,4.5,4.0,4.5,4.0
+1984,https://github.com/postcss/postcss,https://github.com/heim-rs/darwin-libproc,28.6k,1.6k,506,385,4.5,4.8,4.2,4.0,8,22,2,Not explicitly provided in the information.,3.5,3.0,2.5,3.0
+1989,https://github.com/postcss/postcss,https://github.com/emotion-js/emotion,28.6k,1.6k,506,385,4.5,4.8,4.2,4.0,17.6k,1.1k,96,319,4.5,4.8,4.2,4.0
+1993,https://github.com/postcss/postcss,https://github.com/cssnano/cssnano,28.6k,1.6k,506,385,4.5,4.8,4.2,4.0,4.8k,319,49,109,4.5,4.0,4.0,4.0
+1994,https://github.com/postcss/postcss,https://github.com/go-task/slim-sprig,28.6k,1.6k,506,385,4.5,4.8,4.2,4.0,63,15,4,Not provided,3.5,3.0,2.5,3.0
+1996,https://github.com/postcss/postcss,https://github.com/ajv-validator/ajv,28.6k,1.6k,506,385,4.5,4.8,4.2,4.0,14k,886,112,207,4.5,4.8,4.2,4.0
+2000,https://github.com/postcss/postcss,https://github.com/debug-js/debug,28.6k,1.6k,506,385,4.5,4.8,4.2,4.0,11.2k,945,139,116,4.5,4.0,4.0,4.0
+2003,https://github.com/postcss/postcss,https://github.com/gulpjs/gulp,28.6k,1.6k,506,385,4.5,4.8,4.2,4.0,33.1k,4.2k,1k,246,4.5,4.0,4.5,4.0
+2010,https://github.com/postcss/postcss,https://github.com/floating-ui/floating-ui,28.6k,1.6k,506,385,4.5,4.8,4.2,4.0,30.5k,1.6k,257,112,4.5,4.7,4.2,4.0
+2011,https://github.com/postcss/postcss,https://github.com/node-fetch/node-fetch,28.6k,1.6k,506,385,4.5,4.8,4.2,4.0,8.8k,1k,89,119,4.5,4.0,4.0,4.0
+2013,https://github.com/postcss/postcss,https://github.com/marak/colors.js,28.6k,1.6k,506,385,4.5,4.8,4.2,4.0,5.2k,449,53,44,4.5,3.5,3.0,4.0
+2020,https://github.com/postcss/postcss,https://github.com/colorjs/color-name,28.6k,1.6k,506,385,4.5,4.8,4.2,4.0,119,30,3,8,3.5,2.5,2.0,3.0
+2025,https://github.com/postcss/postcss,https://github.com/getsentry/sentry-javascript,28.6k,1.6k,506,385,4.5,4.8,4.2,4.0,8.1k,1.6k,125,540,4.5,4.8,4.2,4.0
+2026,https://github.com/postcss/postcss,https://github.com/humanwhocodes/object-schema,28.6k,1.6k,506,385,4.5,4.8,4.2,4.0,32,7,2,3,4.0,3.5,2.5,3.0
+2031,https://github.com/postcss/postcss,https://github.com/nodeca/js-yaml,28.6k,1.6k,506,385,4.5,4.8,4.2,4.0,6.3k,776,75,73,4.5,4.0,3.5,4.0
+2034,https://github.com/postcss/postcss,https://github.com/kaelzhang/node-ignore,28.6k,1.6k,506,385,4.5,4.8,4.2,4.0,454,47,10,20,4.5,4.0,3.5,3.0
+2035,https://github.com/postcss/postcss,https://github.com/google/flatbuffers,28.6k,1.6k,506,385,4.5,4.8,4.2,4.0,23.6k,3.3k,644,650,4.5,4.8,4.2,4.0
+2038,https://github.com/postcss/postcss,https://github.com/alexeyraspopov/picocolors,28.6k,1.6k,506,385,4.5,4.8,4.2,4.0,1.4k,45,10,13,4.5,4.0,3.5,4.0
+2043,https://github.com/mozilla/source-map,https://github.com/cssnano/cssnano,3.6k,361,70,85,4.5,4.0,3.5,4.0,4.8k,319,49,109,4.5,4.0,4.0,4.0
+2044,https://github.com/mozilla/source-map,https://github.com/mafintosh/pump,3.6k,361,70,85,4.5,4.0,3.5,4.0,910,59,7,7,4.0,3.5,3.0,3.5
+2051,https://github.com/mozilla/source-map,https://github.com/debug-js/debug,3.6k,361,70,85,4.5,4.0,3.5,4.0,11.2k,945,139,116,4.5,4.0,4.0,4.0
+2067,https://github.com/floating-ui/floating-ui,https://github.com/debug-js/debug,30.5k,1.6k,257,112,4.5,4.7,4.2,4.0,11.2k,945,139,116,4.5,4.0,4.0,4.0
+2068,https://github.com/floating-ui/floating-ui,https://github.com/dcodeio/long.js,30.5k,1.6k,257,112,4.5,4.7,4.2,4.0,892,206,23,17,4.5,4.0,3.5,3.0
+2072,https://github.com/floating-ui/floating-ui,https://github.com/eslint/eslint,30.5k,1.6k,257,112,4.5,4.7,4.2,4.0,25.4k,4.6k,315,"1,035",4.5,4.8,4.7,4.3
+2074,https://github.com/floating-ui/floating-ui,https://github.com/clap-rs/clap,30.5k,1.6k,257,112,4.5,4.7,4.2,4.0,14.6k,1.1k,69,517,4.5,4.8,4.2,4.0
+2079,https://github.com/floating-ui/floating-ui,https://github.com/brooooooklyn/snappy,30.5k,1.6k,257,112,4.5,4.7,4.2,4.0,168,10,4,6,4.0,4.5,3.5,3.0
+2081,https://github.com/floating-ui/floating-ui,https://github.com/boa-dev/boa,30.5k,1.6k,257,112,4.5,4.7,4.2,4.0,5.4k,411,47,177,4.5,4.8,4.2,4.0
+2084,https://github.com/floating-ui/floating-ui,https://github.com/fastify/fastify,30.5k,1.6k,257,112,4.5,4.7,4.2,4.0,32.8k,2.3k,299,772,4.5,4.8,4.7,4.3
+2085,https://github.com/floating-ui/floating-ui,https://github.com/alexeyraspopov/picocolors,30.5k,1.6k,257,112,4.5,4.7,4.2,4.0,1.4k,45,10,13,4.5,4.0,3.5,4.0
+2091,https://github.com/browserslist/browserslist,https://github.com/biomejs/biome,13.1k,721,140,179,4.5,4.0,4.0,3.5,16.5k,512,52,478,4.5,4.8,4.2,4.0
+2096,https://github.com/node-fetch/node-fetch,https://github.com/level/levelup,8.8k,1k,89,119,4.5,4.0,4.0,4.0,4.1k,267,91,42,4.5,4.0,3.5,3.0
+2099,https://github.com/node-fetch/node-fetch,https://github.com/browserslist/browserslist,8.8k,1k,89,119,4.5,4.0,4.0,4.0,13.1k,721,140,179,4.5,4.0,4.0,3.5
+2111,https://github.com/node-fetch/node-fetch,https://github.com/chzyer/readline,8.8k,1k,89,119,4.5,4.0,4.0,4.0,2.1k,280,41,38,4.0,4.5,3.5,3.0
+2112,https://github.com/node-fetch/node-fetch,https://github.com/clap-rs/clap,8.8k,1k,89,119,4.5,4.0,4.0,4.0,14.6k,1.1k,69,517,4.5,4.8,4.2,4.0
+2116,https://github.com/node-fetch/node-fetch,https://github.com/ljharb/qs,8.8k,1k,89,119,4.5,4.0,4.0,4.0,8.6k,735,67,64,4.5,4.0,3.5,4.0
+2122,https://github.com/node-fetch/node-fetch,https://github.com/colorjs/color-name,8.8k,1k,89,119,4.5,4.0,4.0,4.0,119,30,3,8,3.5,2.5,2.0,3.0
+2124,https://github.com/node-fetch/node-fetch,https://github.com/brooooooklyn/snappy,8.8k,1k,89,119,4.5,4.0,4.0,4.0,168,10,4,6,4.0,4.5,3.5,3.0
+2128,https://github.com/node-fetch/node-fetch,https://github.com/getsentry/sentry-javascript,8.8k,1k,89,119,4.5,4.0,4.0,4.0,8.1k,1.6k,125,540,4.5,4.8,4.2,4.0
+2132,https://github.com/node-fetch/node-fetch,https://github.com/ethers-io/ethers.js,8.8k,1k,89,119,4.5,4.0,4.0,4.0,8.1k,1.9k,104,Not explicitly provided in the information.,4.5,4.8,4.2,4.0
+2150,https://github.com/mattn/go-isatty,https://github.com/babel/babel,845,108,12,29,4.0,3.5,3.0,3.5,43.4k,5.7k,804,"1,091",4.5,4.8,4.7,4.3
+2154,https://github.com/mattn/go-isatty,https://github.com/immerjs/immer,845,108,12,29,4.0,3.5,3.0,3.5,28k,852,155,188,4.5,4.8,4.2,4.0
+2160,https://github.com/mattn/go-isatty,https://github.com/dcodeio/long.js,845,108,12,29,4.0,3.5,3.0,3.5,892,206,23,17,4.5,4.0,3.5,3.0
+2163,https://github.com/mattn/go-isatty,https://github.com/heim-rs/darwin-libproc,845,108,12,29,4.0,3.5,3.0,3.5,8,22,2,Not explicitly provided in the information.,3.5,3.0,2.5,3.0
+2167,https://github.com/mattn/go-isatty,https://github.com/inikulin/parse5,845,108,12,29,4.0,3.5,3.0,3.5,3.7k,238,43,38,4.5,4.8,3.5,4.0
+2168,https://github.com/mattn/go-isatty,https://github.com/boa-dev/boa,845,108,12,29,4.0,3.5,3.0,3.5,5.4k,411,47,177,4.5,4.8,4.2,4.0
+2173,https://github.com/mattn/go-isatty,https://github.com/kaelzhang/node-ignore,845,108,12,29,4.0,3.5,3.0,3.5,454,47,10,20,4.5,4.0,3.5,3.0
+2175,https://github.com/mattn/go-isatty,https://github.com/google/flatbuffers,845,108,12,29,4.0,3.5,3.0,3.5,23.6k,3.3k,644,650,4.5,4.8,4.2,4.0
+2176,https://github.com/mattn/go-isatty,https://github.com/biomejs/biome,845,108,12,29,4.0,3.5,3.0,3.5,16.5k,512,52,478,4.5,4.8,4.2,4.0
+2177,https://github.com/mattn/go-isatty,https://github.com/fastify/fastify,845,108,12,29,4.0,3.5,3.0,3.5,32.8k,2.3k,299,772,4.5,4.8,4.7,4.3
+2178,https://github.com/mattn/go-isatty,https://github.com/alexeyraspopov/picocolors,845,108,12,29,4.0,3.5,3.0,3.5,1.4k,45,10,13,4.5,4.0,3.5,4.0
+2187,https://github.com/clap-rs/clap,https://github.com/alexeyraspopov/picocolors,14.6k,1.1k,69,517,4.5,4.8,4.2,4.0,1.4k,45,10,13,4.5,4.0,3.5,4.0
+2203,https://github.com/yarnpkg/yarn,https://github.com/ajv-validator/ajv,41.5k,2.7k,555,520,4.5,4.0,4.5,4.0,14k,886,112,207,4.5,4.8,4.2,4.0
+2211,https://github.com/yarnpkg/yarn,https://github.com/jedisct1/go-minisign,41.5k,2.7k,555,520,4.5,4.0,4.5,4.0,113,12,5,3,3.5,3.0,2.5,3.0
+2212,https://github.com/yarnpkg/yarn,https://github.com/prettier/prettier,41.5k,2.7k,555,520,4.5,4.0,4.5,4.0,49.8k,4.4k,419,715,4.5,4.8,4.7,4.3
+2214,https://github.com/yarnpkg/yarn,https://github.com/cssnano/cssnano,41.5k,2.7k,555,520,4.5,4.0,4.5,4.0,4.8k,319,49,109,4.5,4.0,4.0,4.0
+2217,https://github.com/yarnpkg/yarn,https://github.com/emotion-js/emotion,41.5k,2.7k,555,520,4.5,4.0,4.5,4.0,17.6k,1.1k,96,319,4.5,4.8,4.2,4.0
+2219,https://github.com/yarnpkg/yarn,https://github.com/mochajs/mocha,41.5k,2.7k,555,520,4.5,4.0,4.5,4.0,22.7k,3k,398,503,4.5,4.0,4.5,4.0
+2222,https://github.com/yarnpkg/yarn,https://github.com/salesforce/tough-cookie,41.5k,2.7k,555,520,4.5,4.0,4.5,4.0,980,227,50,38,4.5,4.0,3.5,4.0
+2223,https://github.com/yarnpkg/yarn,https://github.com/tokio-rs/tokio,41.5k,2.7k,555,520,4.5,4.0,4.5,4.0,27.7k,2.5k,315,855,4.5,4.8,4.7,4.3
+2229,https://github.com/yarnpkg/yarn,https://github.com/webdriverio/webdriverio,41.5k,2.7k,555,520,4.5,4.0,4.5,4.0,9.2k,2.5k,215,611,4.5,4.8,4.7,4.6
+2235,https://github.com/yarnpkg/yarn,https://github.com/colorjs/color-name,41.5k,2.7k,555,520,4.5,4.0,4.5,4.0,119,30,3,8,3.5,2.5,2.0,3.0
+2245,https://github.com/yarnpkg/yarn,https://github.com/getsentry/sentry-javascript,41.5k,2.7k,555,520,4.5,4.0,4.5,4.0,8.1k,1.6k,125,540,4.5,4.8,4.2,4.0
+2247,https://github.com/yarnpkg/yarn,https://github.com/wooorm/markdown-table,41.5k,2.7k,555,520,4.5,4.0,4.5,4.0,274,24,7,5,4.5,3.5,2.5,3.0
+2248,https://github.com/yarnpkg/yarn,https://github.com/walletconnect/walletconnect-monorepo,41.5k,2.7k,555,520,4.5,4.0,4.5,4.0,1.5k,727,73,144,4.0,4.5,4.0,3.5
+2253,https://github.com/yarnpkg/yarn,https://github.com/ethers-io/ethers.js,41.5k,2.7k,555,520,4.5,4.0,4.5,4.0,8.1k,1.9k,104,Not explicitly provided in the information.,4.5,4.8,4.2,4.0
+2257,https://github.com/yarnpkg/yarn,https://github.com/mmcloughlin/addchain,41.5k,2.7k,555,520,4.5,4.0,4.5,4.0,188,14,7,2,4.5,4.8,3.5,3.8
+2258,https://github.com/yarnpkg/yarn,https://github.com/kaelzhang/node-ignore,41.5k,2.7k,555,520,4.5,4.0,4.5,4.0,454,47,10,20,4.5,4.0,3.5,3.0
+2259,https://github.com/yarnpkg/yarn,https://github.com/reactivex/rxjs,41.5k,2.7k,555,520,4.5,4.0,4.5,4.0,30.9k,3k,449,538,4.5,4.8,4.7,4.3
+2267,https://github.com/yarnpkg/yarn,https://github.com/alexeyraspopov/picocolors,41.5k,2.7k,555,520,4.5,4.0,4.5,4.0,1.4k,45,10,13,4.5,4.0,3.5,4.0
+2269,https://github.com/fb55/entities,https://github.com/electron/electron,331,64,5,23,4.5,4.0,3.5,4.0,115k,15.7k,2.8k,"1,291",4.5,4.8,4.7,4.6
+2273,https://github.com/fb55/entities,https://github.com/browserslist/browserslist,331,64,5,23,4.5,4.0,3.5,4.0,13.1k,721,140,179,4.5,4.0,4.0,3.5
+2274,https://github.com/fb55/entities,https://github.com/clap-rs/clap,331,64,5,23,4.5,4.0,3.5,4.0,14.6k,1.1k,69,517,4.5,4.8,4.2,4.0
+2277,https://github.com/fb55/entities,https://github.com/epoberezkin/fast-deep-equal,331,64,5,23,4.5,4.0,3.5,4.0,1.9k,106,14,13,4.5,4.0,3.5,4.0
+2280,https://github.com/ljharb/qs,https://github.com/babel/babel,8.6k,735,67,64,4.5,4.0,3.5,4.0,43.4k,5.7k,804,"1,091",4.5,4.8,4.7,4.3
+2282,https://github.com/ljharb/qs,https://github.com/gulpjs/gulp,8.6k,735,67,64,4.5,4.0,3.5,4.0,33.1k,4.2k,1k,246,4.5,4.0,4.5,4.0
+2284,https://github.com/ljharb/qs,https://github.com/facebook/react,8.6k,735,67,64,4.5,4.0,3.5,4.0,231k,47.4k,6.6k,"1,681",4.5,5,4.8,4.7
+2288,https://github.com/ljharb/qs,https://github.com/clap-rs/clap,8.6k,735,67,64,4.5,4.0,3.5,4.0,14.6k,1.1k,69,517,4.5,4.8,4.2,4.0
+2291,https://github.com/ljharb/qs,https://github.com/emotion-js/emotion,8.6k,735,67,64,4.5,4.0,3.5,4.0,17.6k,1.1k,96,319,4.5,4.8,4.2,4.0
+2294,https://github.com/ljharb/qs,https://github.com/level/levelup,8.6k,735,67,64,4.5,4.0,3.5,4.0,4.1k,267,91,42,4.5,4.0,3.5,3.0
+2304,https://github.com/ljharb/qs,https://github.com/boa-dev/boa,8.6k,735,67,64,4.5,4.0,3.5,4.0,5.4k,411,47,177,4.5,4.8,4.2,4.0
+2308,https://github.com/ljharb/qs,https://github.com/fastify/fastify,8.6k,735,67,64,4.5,4.0,3.5,4.0,32.8k,2.3k,299,772,4.5,4.8,4.7,4.3
+2309,https://github.com/ljharb/qs,https://github.com/biomejs/biome,8.6k,735,67,64,4.5,4.0,3.5,4.0,16.5k,512,52,478,4.5,4.8,4.2,4.0
+2311,https://github.com/epoberezkin/fast-deep-equal,https://github.com/babel/babel,1.9k,106,14,13,4.5,4.0,3.5,4.0,43.4k,5.7k,804,"1,091",4.5,4.8,4.7,4.3
+2319,https://github.com/epoberezkin/fast-deep-equal,https://github.com/chzyer/readline,1.9k,106,14,13,4.5,4.0,3.5,4.0,2.1k,280,41,38,4.0,4.5,3.5,3.0
+2320,https://github.com/epoberezkin/fast-deep-equal,https://github.com/axios/axios,1.9k,106,14,13,4.5,4.0,3.5,4.0,106k,11k,1.2k,454,4.5,4.8,4.7,4.3
+2326,https://github.com/tokio-rs/tokio,https://github.com/clap-rs/clap,27.7k,2.5k,315,855,4.5,4.8,4.7,4.3,14.6k,1.1k,69,517,4.5,4.8,4.2,4.0
+2329,https://github.com/tokio-rs/tokio,https://github.com/rich-harris/magic-string,27.7k,2.5k,315,855,4.5,4.8,4.7,4.3,2.4k,115,15,55,4.5,4.0,3.5,4.0
+2330,https://github.com/tokio-rs/tokio,https://github.com/axios/axios,27.7k,2.5k,315,855,4.5,4.8,4.7,4.3,106k,11k,1.2k,454,4.5,4.8,4.7,4.3
+2339,https://github.com/tokio-rs/tokio,https://github.com/cssnano/cssnano,27.7k,2.5k,315,855,4.5,4.8,4.7,4.3,4.8k,319,49,109,4.5,4.0,4.0,4.0
+2343,https://github.com/tokio-rs/tokio,https://github.com/sindresorhus/type-fest,27.7k,2.5k,315,855,4.5,4.8,4.7,4.3,14.7k,570,52,181,4.5,4.8,4.2,4.0
+2348,https://github.com/tokio-rs/tokio,https://github.com/debug-js/debug,27.7k,2.5k,315,855,4.5,4.8,4.7,4.3,11.2k,945,139,116,4.5,4.0,4.0,4.0
+2355,https://github.com/tokio-rs/tokio,https://github.com/dcodeio/long.js,27.7k,2.5k,315,855,4.5,4.8,4.7,4.3,892,206,23,17,4.5,4.0,3.5,3.0
+2357,https://github.com/tokio-rs/tokio,https://github.com/marak/colors.js,27.7k,2.5k,315,855,4.5,4.8,4.7,4.3,5.2k,449,53,44,4.5,3.5,3.0,4.0
+2358,https://github.com/tokio-rs/tokio,https://github.com/numpy/numpy,27.7k,2.5k,315,855,4.5,4.8,4.7,4.3,28.6k,10.3k,599,"1,718",4.5,4.8,4.7,4.3
+2359,https://github.com/tokio-rs/tokio,https://github.com/colorjs/color-name,27.7k,2.5k,315,855,4.5,4.8,4.7,4.3,119,30,3,8,3.5,2.5,2.0,3.0
+2361,https://github.com/tokio-rs/tokio,https://github.com/mikemcl/bignumber.js,27.7k,2.5k,315,855,4.5,4.8,4.7,4.3,6.7k,744,83,35,4.5,4.8,4.0,4.2
+2372,https://github.com/tokio-rs/tokio,https://github.com/streetsidesoftware/cspell,27.7k,2.5k,315,855,4.5,4.8,4.7,4.3,1.3k,103,13,69,4.5,4.0,4.0,4.0
+2375,https://github.com/tokio-rs/tokio,https://github.com/inikulin/parse5,27.7k,2.5k,315,855,4.5,4.8,4.7,4.3,3.7k,238,43,38,4.5,4.8,3.5,4.0
+2376,https://github.com/tokio-rs/tokio,https://github.com/ethers-io/ethers.js,27.7k,2.5k,315,855,4.5,4.8,4.7,4.3,8.1k,1.9k,104,Not explicitly provided in the information.,4.5,4.8,4.2,4.0
+2382,https://github.com/tokio-rs/tokio,https://github.com/tklauser/go-sysconf,27.7k,2.5k,315,855,4.5,4.8,4.7,4.3,140,27,5,5,4.0,3.5,2.5,3.0
+2384,https://github.com/tokio-rs/tokio,https://github.com/qix-/color-convert,27.7k,2.5k,315,855,4.5,4.8,4.7,4.3,751,96,12,27,4.5,3.5,3.0,4.0
+2385,https://github.com/tokio-rs/tokio,https://github.com/biomejs/biome,27.7k,2.5k,315,855,4.5,4.8,4.7,4.3,16.5k,512,52,478,4.5,4.8,4.2,4.0
+2391,https://github.com/rich-harris/magic-string,https://github.com/clap-rs/clap,2.4k,115,15,55,4.5,4.0,3.5,4.0,14.6k,1.1k,69,517,4.5,4.8,4.2,4.0
+2393,https://github.com/rich-harris/magic-string,https://github.com/heim-rs/darwin-libproc,2.4k,115,15,55,4.5,4.0,3.5,4.0,8,22,2,Not explicitly provided in the information.,3.5,3.0,2.5,3.0
+2405,https://github.com/rich-harris/magic-string,https://github.com/gulpjs/gulp,2.4k,115,15,55,4.5,4.0,3.5,4.0,33.1k,4.2k,1k,246,4.5,4.0,4.5,4.0
+2409,https://github.com/rich-harris/magic-string,https://github.com/emotion-js/emotion,2.4k,115,15,55,4.5,4.0,3.5,4.0,17.6k,1.1k,96,319,4.5,4.8,4.2,4.0
+2410,https://github.com/rich-harris/magic-string,https://github.com/debug-js/debug,2.4k,115,15,55,4.5,4.0,3.5,4.0,11.2k,945,139,116,4.5,4.0,4.0,4.0
+2412,https://github.com/rich-harris/magic-string,https://github.com/prettier/prettier,2.4k,115,15,55,4.5,4.0,3.5,4.0,49.8k,4.4k,419,715,4.5,4.8,4.7,4.3
+2413,https://github.com/rich-harris/magic-string,https://github.com/browserslist/browserslist,2.4k,115,15,55,4.5,4.0,3.5,4.0,13.1k,721,140,179,4.5,4.0,4.0,3.5
+2417,https://github.com/rich-harris/magic-string,https://github.com/dcodeio/long.js,2.4k,115,15,55,4.5,4.0,3.5,4.0,892,206,23,17,4.5,4.0,3.5,3.0
+2421,https://github.com/rich-harris/magic-string,https://github.com/colorjs/color-name,2.4k,115,15,55,4.5,4.0,3.5,4.0,119,30,3,8,3.5,2.5,2.0,3.0
+2423,https://github.com/rich-harris/magic-string,https://github.com/pandas-dev/pandas,2.4k,115,15,55,4.5,4.0,3.5,4.0,44.3k,18.1k,1.1k,"3,391",4.5,4.8,4.7,4.6
+2429,https://github.com/rich-harris/magic-string,https://github.com/nodeca/js-yaml,2.4k,115,15,55,4.5,4.0,3.5,4.0,6.3k,776,75,73,4.5,4.0,3.5,4.0
+2437,https://github.com/rich-harris/magic-string,https://github.com/reactivex/rxjs,2.4k,115,15,55,4.5,4.0,3.5,4.0,30.9k,3k,449,538,4.5,4.8,4.7,4.3
+2438,https://github.com/webdriverio/webdriverio,https://github.com/mochajs/mocha,9.2k,2.5k,215,611,4.5,4.8,4.7,4.6,22.7k,3k,398,503,4.5,4.0,4.5,4.0
+2439,https://github.com/webdriverio/webdriverio,https://github.com/rollup/rollup,9.2k,2.5k,215,611,4.5,4.8,4.7,4.6,25.5k,1.5k,257,395,4.5,4.8,4.2,4.0
+2440,https://github.com/webdriverio/webdriverio,https://github.com/immerjs/immer,9.2k,2.5k,215,611,4.5,4.8,4.7,4.6,28k,852,155,188,4.5,4.8,4.2,4.0
+2444,https://github.com/webdriverio/webdriverio,https://github.com/pytest-dev/pytest,9.2k,2.5k,215,611,4.5,4.8,4.7,4.6,12.3k,2.7k,196,875,4.5,4.8,4.7,4.6
+2447,https://github.com/webdriverio/webdriverio,https://github.com/rich-harris/magic-string,9.2k,2.5k,215,611,4.5,4.8,4.7,4.6,2.4k,115,15,55,4.5,4.0,3.5,4.0
+2458,https://github.com/webdriverio/webdriverio,https://github.com/babel/babel,9.2k,2.5k,215,611,4.5,4.8,4.7,4.6,43.4k,5.7k,804,"1,091",4.5,4.8,4.7,4.3
+2461,https://github.com/webdriverio/webdriverio,https://github.com/sindresorhus/type-fest,9.2k,2.5k,215,611,4.5,4.8,4.7,4.6,14.7k,570,52,181,4.5,4.8,4.2,4.0
+2462,https://github.com/webdriverio/webdriverio,https://github.com/typescript-eslint/typescript-eslint,9.2k,2.5k,215,611,4.5,4.8,4.7,4.6,15.4k,2.8k,90,701,4.5,4.8,4.7,4.3
+2464,https://github.com/webdriverio/webdriverio,https://github.com/facebook/react,9.2k,2.5k,215,611,4.5,4.8,4.7,4.6,231k,47.4k,6.6k,"1,681",4.5,5,4.8,4.7
+2465,https://github.com/webdriverio/webdriverio,https://github.com/postcss/postcss,9.2k,2.5k,215,611,4.5,4.8,4.7,4.6,28.6k,1.6k,506,385,4.5,4.8,4.2,4.0
+2467,https://github.com/webdriverio/webdriverio,https://github.com/debug-js/debug,9.2k,2.5k,215,611,4.5,4.8,4.7,4.6,11.2k,945,139,116,4.5,4.0,4.0,4.0
+2468,https://github.com/webdriverio/webdriverio,https://github.com/level/levelup,9.2k,2.5k,215,611,4.5,4.8,4.7,4.6,4.1k,267,91,42,4.5,4.0,3.5,3.0
+2469,https://github.com/webdriverio/webdriverio,https://github.com/prettier/prettier,9.2k,2.5k,215,611,4.5,4.8,4.7,4.6,49.8k,4.4k,419,715,4.5,4.8,4.7,4.3
+2471,https://github.com/webdriverio/webdriverio,https://github.com/electron/electron,9.2k,2.5k,215,611,4.5,4.8,4.7,4.6,115k,15.7k,2.8k,"1,291",4.5,4.8,4.7,4.6
+2472,https://github.com/webdriverio/webdriverio,https://github.com/ajv-validator/ajv,9.2k,2.5k,215,611,4.5,4.8,4.7,4.6,14k,886,112,207,4.5,4.8,4.2,4.0
+2474,https://github.com/webdriverio/webdriverio,https://github.com/dcodeio/long.js,9.2k,2.5k,215,611,4.5,4.8,4.7,4.6,892,206,23,17,4.5,4.0,3.5,3.0
+2477,https://github.com/webdriverio/webdriverio,https://github.com/numpy/numpy,9.2k,2.5k,215,611,4.5,4.8,4.7,4.6,28.6k,10.3k,599,"1,718",4.5,4.8,4.7,4.3
+2478,https://github.com/webdriverio/webdriverio,https://github.com/vweevers/module-error,9.2k,2.5k,215,611,4.5,4.8,4.7,4.6,6,1,1,2,4.0,3.5,2.5,3.0
+2479,https://github.com/webdriverio/webdriverio,https://github.com/colorjs/color-name,9.2k,2.5k,215,611,4.5,4.8,4.7,4.6,119,30,3,8,3.5,2.5,2.0,3.0
+2485,https://github.com/webdriverio/webdriverio,https://github.com/vercel/swr,9.2k,2.5k,215,611,4.5,4.8,4.7,4.6,30.9k,1.2k,209,183,4.5,4.8,4.2,4.0
+2495,https://github.com/webdriverio/webdriverio,https://github.com/boa-dev/boa,9.2k,2.5k,215,611,4.5,4.8,4.7,4.6,5.4k,411,47,177,4.5,4.8,4.2,4.0
+2499,https://github.com/webdriverio/webdriverio,https://github.com/nodeca/js-yaml,9.2k,2.5k,215,611,4.5,4.8,4.7,4.6,6.3k,776,75,73,4.5,4.0,3.5,4.0
+2501,https://github.com/webdriverio/webdriverio,https://github.com/mmcloughlin/addchain,9.2k,2.5k,215,611,4.5,4.8,4.7,4.6,188,14,7,2,4.5,4.8,3.5,3.8
+2504,https://github.com/webdriverio/webdriverio,https://github.com/tklauser/go-sysconf,9.2k,2.5k,215,611,4.5,4.8,4.7,4.6,140,27,5,5,4.0,3.5,2.5,3.0
+2511,https://github.com/webdriverio/webdriverio,https://github.com/alexeyraspopov/picocolors,9.2k,2.5k,215,611,4.5,4.8,4.7,4.6,1.4k,45,10,13,4.5,4.0,3.5,4.0
+2514,https://github.com/numpy/numpy,https://github.com/babel/babel,28.6k,10.3k,599,"1,718",4.5,4.8,4.7,4.3,43.4k,5.7k,804,"1,091",4.5,4.8,4.7,4.3
+2516,https://github.com/numpy/numpy,https://github.com/emotion-js/emotion,28.6k,10.3k,599,"1,718",4.5,4.8,4.7,4.3,17.6k,1.1k,96,319,4.5,4.8,4.2,4.0
+2517,https://github.com/numpy/numpy,https://github.com/dcodeio/long.js,28.6k,10.3k,599,"1,718",4.5,4.8,4.7,4.3,892,206,23,17,4.5,4.0,3.5,3.0
+2518,https://github.com/numpy/numpy,https://github.com/axios/axios,28.6k,10.3k,599,"1,718",4.5,4.8,4.7,4.3,106k,11k,1.2k,454,4.5,4.8,4.7,4.3
+2527,https://github.com/numpy/numpy,https://github.com/node-fetch/node-fetch,28.6k,10.3k,599,"1,718",4.5,4.8,4.7,4.3,8.8k,1k,89,119,4.5,4.0,4.0,4.0
+2530,https://github.com/numpy/numpy,https://github.com/colorjs/color-name,28.6k,10.3k,599,"1,718",4.5,4.8,4.7,4.3,119,30,3,8,3.5,2.5,2.0,3.0
+2535,https://github.com/numpy/numpy,https://github.com/level/levelup,28.6k,10.3k,599,"1,718",4.5,4.8,4.7,4.3,4.1k,267,91,42,4.5,4.0,3.5,3.0
+2536,https://github.com/numpy/numpy,https://github.com/clap-rs/clap,28.6k,10.3k,599,"1,718",4.5,4.8,4.7,4.3,14.6k,1.1k,69,517,4.5,4.8,4.2,4.0
+2539,https://github.com/numpy/numpy,https://github.com/marak/colors.js,28.6k,10.3k,599,"1,718",4.5,4.8,4.7,4.3,5.2k,449,53,44,4.5,3.5,3.0,4.0
+2541,https://github.com/numpy/numpy,https://github.com/humanwhocodes/object-schema,28.6k,10.3k,599,"1,718",4.5,4.8,4.7,4.3,32,7,2,3,4.0,3.5,2.5,3.0
+2542,https://github.com/numpy/numpy,https://github.com/ljharb/qs,28.6k,10.3k,599,"1,718",4.5,4.8,4.7,4.3,8.6k,735,67,64,4.5,4.0,3.5,4.0
+2546,https://github.com/numpy/numpy,https://github.com/boa-dev/boa,28.6k,10.3k,599,"1,718",4.5,4.8,4.7,4.3,5.4k,411,47,177,4.5,4.8,4.2,4.0
+2549,https://github.com/numpy/numpy,https://github.com/mikemcl/bignumber.js,28.6k,10.3k,599,"1,718",4.5,4.8,4.7,4.3,6.7k,744,83,35,4.5,4.8,4.0,4.2
+2562,https://github.com/vweevers/module-error,https://github.com/emotion-js/emotion,6,1,1,2,4.0,3.5,2.5,3.0,17.6k,1.1k,96,319,4.5,4.8,4.2,4.0
+2565,https://github.com/vweevers/module-error,https://github.com/pytest-dev/pytest,6,1,1,2,4.0,3.5,2.5,3.0,12.3k,2.7k,196,875,4.5,4.8,4.7,4.6
+2571,https://github.com/vweevers/module-error,https://github.com/cssnano/cssnano,6,1,1,2,4.0,3.5,2.5,3.0,4.8k,319,49,109,4.5,4.0,4.0,4.0
+2579,https://github.com/vweevers/module-error,https://github.com/ajv-validator/ajv,6,1,1,2,4.0,3.5,2.5,3.0,14k,886,112,207,4.5,4.8,4.2,4.0
+2585,https://github.com/vweevers/module-error,https://github.com/typescript-eslint/typescript-eslint,6,1,1,2,4.0,3.5,2.5,3.0,15.4k,2.8k,90,701,4.5,4.8,4.7,4.3
+2586,https://github.com/vweevers/module-error,https://github.com/colorjs/color-name,6,1,1,2,4.0,3.5,2.5,3.0,119,30,3,8,3.5,2.5,2.0,3.0
+2587,https://github.com/vweevers/module-error,https://github.com/facebook/react,6,1,1,2,4.0,3.5,2.5,3.0,231k,47.4k,6.6k,"1,681",4.5,5,4.8,4.7
+2588,https://github.com/vweevers/module-error,https://github.com/floating-ui/floating-ui,6,1,1,2,4.0,3.5,2.5,3.0,30.5k,1.6k,257,112,4.5,4.7,4.2,4.0
+2592,https://github.com/vweevers/module-error,https://github.com/level/levelup,6,1,1,2,4.0,3.5,2.5,3.0,4.1k,267,91,42,4.5,4.0,3.5,3.0
+2597,https://github.com/vweevers/module-error,https://github.com/lukeed/polka,6,1,1,2,4.0,3.5,2.5,3.0,5.4k,173,69,13,4.5,4.0,3.5,4.0
+2598,https://github.com/vweevers/module-error,https://github.com/chzyer/readline,6,1,1,2,4.0,3.5,2.5,3.0,2.1k,280,41,38,4.0,4.5,3.5,3.0
+2601,https://github.com/colorjs/color-name,https://github.com/babel/babel,119,30,3,8,3.5,2.5,2.0,3.0,43.4k,5.7k,804,"1,091",4.5,4.8,4.7,4.3
+2602,https://github.com/colorjs/color-name,https://github.com/axios/axios,119,30,3,8,3.5,2.5,2.0,3.0,106k,11k,1.2k,454,4.5,4.8,4.7,4.3
+2610,https://github.com/brooooooklyn/snappy,https://github.com/boa-dev/boa,168,10,4,6,4.0,4.5,3.5,3.0,5.4k,411,47,177,4.5,4.8,4.2,4.0
+2611,https://github.com/import-js/eslint-plugin-import,https://github.com/babel/babel,5.6k,1.6k,37,363,4.5,4.0,4.2,4.0,43.4k,5.7k,804,"1,091",4.5,4.8,4.7,4.3
+2615,https://github.com/import-js/eslint-plugin-import,https://github.com/axios/axios,5.6k,1.6k,37,363,4.5,4.0,4.2,4.0,106k,11k,1.2k,454,4.5,4.8,4.7,4.3
+2621,https://github.com/import-js/eslint-plugin-import,https://github.com/brooooooklyn/snappy,5.6k,1.6k,37,363,4.5,4.0,4.2,4.0,168,10,4,6,4.0,4.5,3.5,3.0
+2622,https://github.com/import-js/eslint-plugin-import,https://github.com/cssnano/cssnano,5.6k,1.6k,37,363,4.5,4.0,4.2,4.0,4.8k,319,49,109,4.5,4.0,4.0,4.0
+2623,https://github.com/import-js/eslint-plugin-import,https://github.com/ajv-validator/ajv,5.6k,1.6k,37,363,4.5,4.0,4.2,4.0,14k,886,112,207,4.5,4.8,4.2,4.0
+2624,https://github.com/import-js/eslint-plugin-import,https://github.com/heim-rs/darwin-libproc,5.6k,1.6k,37,363,4.5,4.0,4.2,4.0,8,22,2,Not explicitly provided in the information.,3.5,3.0,2.5,3.0
+2627,https://github.com/import-js/eslint-plugin-import,https://github.com/browserslist/browserslist,5.6k,1.6k,37,363,4.5,4.0,4.2,4.0,13.1k,721,140,179,4.5,4.0,4.0,3.5
+2634,https://github.com/import-js/eslint-plugin-import,https://github.com/epoberezkin/fast-deep-equal,5.6k,1.6k,37,363,4.5,4.0,4.2,4.0,1.9k,106,14,13,4.5,4.0,3.5,4.0
+2635,https://github.com/import-js/eslint-plugin-import,https://github.com/boa-dev/boa,5.6k,1.6k,37,363,4.5,4.0,4.2,4.0,5.4k,411,47,177,4.5,4.8,4.2,4.0
+2637,https://github.com/import-js/eslint-plugin-import,https://github.com/formatjs/formatjs,5.6k,1.6k,37,363,4.5,4.0,4.2,4.0,14.4k,1.4k,131,305,4.5,4.0,4.5,4.0
+2638,https://github.com/import-js/eslint-plugin-import,https://github.com/google/flatbuffers,5.6k,1.6k,37,363,4.5,4.0,4.2,4.0,23.6k,3.3k,644,650,4.5,4.8,4.2,4.0
+2648,https://github.com/vercel/swr,https://github.com/salesforce/tough-cookie,30.9k,1.2k,209,183,4.5,4.8,4.2,4.0,980,227,50,38,4.5,4.0,3.5,4.0
+2650,https://github.com/vercel/swr,https://github.com/pytest-dev/pytest,30.9k,1.2k,209,183,4.5,4.8,4.2,4.0,12.3k,2.7k,196,875,4.5,4.8,4.7,4.6
+2651,https://github.com/vercel/swr,https://github.com/level/levelup,30.9k,1.2k,209,183,4.5,4.8,4.2,4.0,4.1k,267,91,42,4.5,4.0,3.5,3.0
+2652,https://github.com/vercel/swr,https://github.com/gulpjs/gulp,30.9k,1.2k,209,183,4.5,4.8,4.2,4.0,33.1k,4.2k,1k,246,4.5,4.0,4.5,4.0
+2654,https://github.com/vercel/swr,https://github.com/floating-ui/floating-ui,30.9k,1.2k,209,183,4.5,4.8,4.2,4.0,30.5k,1.6k,257,112,4.5,4.7,4.2,4.0
+2662,https://github.com/vercel/swr,https://github.com/brooooooklyn/snappy,30.9k,1.2k,209,183,4.5,4.8,4.2,4.0,168,10,4,6,4.0,4.5,3.5,3.0
+2667,https://github.com/vercel/swr,https://github.com/motdotla/dotenv,30.9k,1.2k,209,183,4.5,4.8,4.2,4.0,19.4k,861,109,87,4.5,4.0,4.0,4.5
+2668,https://github.com/vercel/swr,https://github.com/rollup/rollup,30.9k,1.2k,209,183,4.5,4.8,4.2,4.0,25.5k,1.5k,257,395,4.5,4.8,4.2,4.0
+2670,https://github.com/vercel/swr,https://github.com/sheetjs/js-crc32,30.9k,1.2k,209,183,4.5,4.8,4.2,4.0,345,37,10,6,4.5,3.5,3.0,4.0
+2673,https://github.com/vercel/swr,https://github.com/eslint/eslint,30.9k,1.2k,209,183,4.5,4.8,4.2,4.0,25.4k,4.6k,315,"1,035",4.5,4.8,4.7,4.3
+2675,https://github.com/vercel/swr,https://github.com/mysticatea/abort-controller,30.9k,1.2k,209,183,4.5,4.8,4.2,4.0,305,36,8,5,4.0,3.5,3.0,3.5
+2678,https://github.com/vercel/swr,https://github.com/clap-rs/clap,30.9k,1.2k,209,183,4.5,4.8,4.2,4.0,14.6k,1.1k,69,517,4.5,4.8,4.2,4.0
+2679,https://github.com/vercel/swr,https://github.com/browserslist/browserslist,30.9k,1.2k,209,183,4.5,4.8,4.2,4.0,13.1k,721,140,179,4.5,4.0,4.0,3.5
+2680,https://github.com/vercel/swr,https://github.com/gregberge/svgr,30.9k,1.2k,209,183,4.5,4.8,4.2,4.0,10.6k,425,35,132,4.5,4.8,4.2,4.0
+2683,https://github.com/vercel/swr,https://github.com/typescript-eslint/typescript-eslint,30.9k,1.2k,209,183,4.5,4.8,4.2,4.0,15.4k,2.8k,90,701,4.5,4.8,4.7,4.3
+2685,https://github.com/vercel/swr,https://github.com/humanwhocodes/object-schema,30.9k,1.2k,209,183,4.5,4.8,4.2,4.0,32,7,2,3,4.0,3.5,2.5,3.0
+2686,https://github.com/vercel/swr,https://github.com/ljharb/qs,30.9k,1.2k,209,183,4.5,4.8,4.2,4.0,8.6k,735,67,64,4.5,4.0,3.5,4.0
+2687,https://github.com/vercel/swr,https://github.com/chzyer/readline,30.9k,1.2k,209,183,4.5,4.8,4.2,4.0,2.1k,280,41,38,4.0,4.5,3.5,3.0
+2690,https://github.com/vercel/swr,https://github.com/marak/colors.js,30.9k,1.2k,209,183,4.5,4.8,4.2,4.0,5.2k,449,53,44,4.5,3.5,3.0,4.0
+2693,https://github.com/vercel/swr,https://github.com/pandas-dev/pandas,30.9k,1.2k,209,183,4.5,4.8,4.2,4.0,44.3k,18.1k,1.1k,"3,391",4.5,4.8,4.7,4.6
+2695,https://github.com/vercel/swr,https://github.com/ethers-io/ethers.js,30.9k,1.2k,209,183,4.5,4.8,4.2,4.0,8.1k,1.9k,104,Not explicitly provided in the information.,4.5,4.8,4.2,4.0
+2699,https://github.com/vercel/swr,https://github.com/lukeed/polka,30.9k,1.2k,209,183,4.5,4.8,4.2,4.0,5.4k,173,69,13,4.5,4.0,3.5,4.0
+2700,https://github.com/vercel/swr,https://github.com/mmcloughlin/addchain,30.9k,1.2k,209,183,4.5,4.8,4.2,4.0,188,14,7,2,4.5,4.8,3.5,3.8
+2707,https://github.com/vercel/swr,https://github.com/fastify/fastify,30.9k,1.2k,209,183,4.5,4.8,4.2,4.0,32.8k,2.3k,299,772,4.5,4.8,4.7,4.3
+2708,https://github.com/vercel/swr,https://github.com/servo/rust-smallvec,30.9k,1.2k,209,183,4.5,4.8,4.2,4.0,1.4k,146,27,80,4.0,4.5,3.5,3.0
+2716,https://github.com/mysticatea/abort-controller,https://github.com/gulpjs/gulp,305,36,8,5,4.0,3.5,3.0,3.5,33.1k,4.2k,1k,246,4.5,4.0,4.5,4.0
+2717,https://github.com/mysticatea/abort-controller,https://github.com/axios/axios,305,36,8,5,4.0,3.5,3.0,3.5,106k,11k,1.2k,454,4.5,4.8,4.7,4.3
+2718,https://github.com/mysticatea/abort-controller,https://github.com/floating-ui/floating-ui,305,36,8,5,4.0,3.5,3.0,3.5,30.5k,1.6k,257,112,4.5,4.7,4.2,4.0
+2722,https://github.com/mysticatea/abort-controller,https://github.com/go-task/slim-sprig,305,36,8,5,4.0,3.5,3.0,3.5,63,15,4,Not provided,3.5,3.0,2.5,3.0
+2724,https://github.com/mysticatea/abort-controller,https://github.com/brooooooklyn/snappy,305,36,8,5,4.0,3.5,3.0,3.5,168,10,4,6,4.0,4.5,3.5,3.0
+2729,https://github.com/mysticatea/abort-controller,https://github.com/heim-rs/darwin-libproc,305,36,8,5,4.0,3.5,3.0,3.5,8,22,2,Not explicitly provided in the information.,3.5,3.0,2.5,3.0
+2737,https://github.com/getsentry/sentry-javascript,https://github.com/debug-js/debug,8.1k,1.6k,125,540,4.5,4.8,4.2,4.0,11.2k,945,139,116,4.5,4.0,4.0,4.0
+2740,https://github.com/getsentry/sentry-javascript,https://github.com/facebook/react,8.1k,1.6k,125,540,4.5,4.8,4.2,4.0,231k,47.4k,6.6k,"1,681",4.5,5,4.8,4.7
+2746,https://github.com/getsentry/sentry-javascript,https://github.com/ajv-validator/ajv,8.1k,1.6k,125,540,4.5,4.8,4.2,4.0,14k,886,112,207,4.5,4.8,4.2,4.0
+2747,https://github.com/getsentry/sentry-javascript,https://github.com/epoberezkin/fast-deep-equal,8.1k,1.6k,125,540,4.5,4.8,4.2,4.0,1.9k,106,14,13,4.5,4.0,3.5,4.0
+2750,https://github.com/getsentry/sentry-javascript,https://github.com/emotion-js/emotion,8.1k,1.6k,125,540,4.5,4.8,4.2,4.0,17.6k,1.1k,96,319,4.5,4.8,4.2,4.0
+2752,https://github.com/getsentry/sentry-javascript,https://github.com/ethers-io/ethers.js,8.1k,1.6k,125,540,4.5,4.8,4.2,4.0,8.1k,1.9k,104,Not explicitly provided in the information.,4.5,4.8,4.2,4.0
+2753,https://github.com/getsentry/sentry-javascript,https://github.com/formatjs/formatjs,8.1k,1.6k,125,540,4.5,4.8,4.2,4.0,14.4k,1.4k,131,305,4.5,4.0,4.5,4.0
+2755,https://github.com/humanwhocodes/object-schema,https://github.com/getsentry/sentry-javascript,32,7,2,3,4.0,3.5,2.5,3.0,8.1k,1.6k,125,540,4.5,4.8,4.2,4.0
+2757,https://github.com/humanwhocodes/object-schema,https://github.com/dcodeio/long.js,32,7,2,3,4.0,3.5,2.5,3.0,892,206,23,17,4.5,4.0,3.5,3.0
+2758,https://github.com/humanwhocodes/object-schema,https://github.com/cssnano/cssnano,32,7,2,3,4.0,3.5,2.5,3.0,4.8k,319,49,109,4.5,4.0,4.0,4.0
+2763,https://github.com/humanwhocodes/object-schema,https://github.com/gulpjs/gulp,32,7,2,3,4.0,3.5,2.5,3.0,33.1k,4.2k,1k,246,4.5,4.0,4.5,4.0
+2764,https://github.com/humanwhocodes/object-schema,https://github.com/axios/axios,32,7,2,3,4.0,3.5,2.5,3.0,106k,11k,1.2k,454,4.5,4.8,4.7,4.3
+2767,https://github.com/humanwhocodes/object-schema,https://github.com/epoberezkin/fast-deep-equal,32,7,2,3,4.0,3.5,2.5,3.0,1.9k,106,14,13,4.5,4.0,3.5,4.0
+2769,https://github.com/humanwhocodes/object-schema,https://github.com/heim-rs/darwin-libproc,32,7,2,3,4.0,3.5,2.5,3.0,8,22,2,Not explicitly provided in the information.,3.5,3.0,2.5,3.0
+2772,https://github.com/humanwhocodes/object-schema,https://github.com/emotion-js/emotion,32,7,2,3,4.0,3.5,2.5,3.0,17.6k,1.1k,96,319,4.5,4.8,4.2,4.0
+2777,https://github.com/humanwhocodes/object-schema,https://github.com/formatjs/formatjs,32,7,2,3,4.0,3.5,2.5,3.0,14.4k,1.4k,131,305,4.5,4.0,4.5,4.0
+2779,https://github.com/humanwhocodes/object-schema,https://github.com/brooooooklyn/snappy,32,7,2,3,4.0,3.5,2.5,3.0,168,10,4,6,4.0,4.5,3.5,3.0
+2781,https://github.com/humanwhocodes/object-schema,https://github.com/fastify/fastify,32,7,2,3,4.0,3.5,2.5,3.0,32.8k,2.3k,299,772,4.5,4.8,4.7,4.3
+2784,https://github.com/streetsidesoftware/cspell,https://github.com/level/levelup,1.3k,103,13,69,4.5,4.0,4.0,4.0,4.1k,267,91,42,4.5,4.0,3.5,3.0
+2785,https://github.com/streetsidesoftware/cspell,https://github.com/mikemcl/bignumber.js,1.3k,103,13,69,4.5,4.0,4.0,4.0,6.7k,744,83,35,4.5,4.8,4.0,4.2
+2786,https://github.com/streetsidesoftware/cspell,https://github.com/prettier/prettier,1.3k,103,13,69,4.5,4.0,4.0,4.0,49.8k,4.4k,419,715,4.5,4.8,4.7,4.3
+2789,https://github.com/streetsidesoftware/cspell,https://github.com/redux-saga/redux-saga,1.3k,103,13,69,4.5,4.0,4.0,4.0,22.5k,2k,249,322,4.5,4.8,4.2,4.0
+2795,https://github.com/streetsidesoftware/cspell,https://github.com/cssnano/cssnano,1.3k,103,13,69,4.5,4.0,4.0,4.0,4.8k,319,49,109,4.5,4.0,4.0,4.0
+2804,https://github.com/streetsidesoftware/cspell,https://github.com/electron/electron,1.3k,103,13,69,4.5,4.0,4.0,4.0,115k,15.7k,2.8k,"1,291",4.5,4.8,4.7,4.6
+2806,https://github.com/streetsidesoftware/cspell,https://github.com/browserslist/browserslist,1.3k,103,13,69,4.5,4.0,4.0,4.0,13.1k,721,140,179,4.5,4.0,4.0,3.5
+2808,https://github.com/streetsidesoftware/cspell,https://github.com/immerjs/immer,1.3k,103,13,69,4.5,4.0,4.0,4.0,28k,852,155,188,4.5,4.8,4.2,4.0
+2813,https://github.com/streetsidesoftware/cspell,https://github.com/heim-rs/darwin-libproc,1.3k,103,13,69,4.5,4.0,4.0,4.0,8,22,2,Not explicitly provided in the information.,3.5,3.0,2.5,3.0
+2818,https://github.com/streetsidesoftware/cspell,https://github.com/humanwhocodes/object-schema,1.3k,103,13,69,4.5,4.0,4.0,4.0,32,7,2,3,4.0,3.5,2.5,3.0
+2819,https://github.com/streetsidesoftware/cspell,https://github.com/pandas-dev/pandas,1.3k,103,13,69,4.5,4.0,4.0,4.0,44.3k,18.1k,1.1k,"3,391",4.5,4.8,4.7,4.6
+2821,https://github.com/streetsidesoftware/cspell,https://github.com/inikulin/parse5,1.3k,103,13,69,4.5,4.0,4.0,4.0,3.7k,238,43,38,4.5,4.8,3.5,4.0
+2823,https://github.com/streetsidesoftware/cspell,https://github.com/gregberge/svgr,1.3k,103,13,69,4.5,4.0,4.0,4.0,10.6k,425,35,132,4.5,4.8,4.2,4.0
+2824,https://github.com/streetsidesoftware/cspell,https://github.com/numpy/numpy,1.3k,103,13,69,4.5,4.0,4.0,4.0,28.6k,10.3k,599,"1,718",4.5,4.8,4.7,4.3
+2834,https://github.com/streetsidesoftware/cspell,https://github.com/mmcloughlin/addchain,1.3k,103,13,69,4.5,4.0,4.0,4.0,188,14,7,2,4.5,4.8,3.5,3.8
+2835,https://github.com/streetsidesoftware/cspell,https://github.com/kaelzhang/node-ignore,1.3k,103,13,69,4.5,4.0,4.0,4.0,454,47,10,20,4.5,4.0,3.5,3.0
+2837,https://github.com/streetsidesoftware/cspell,https://github.com/google/flatbuffers,1.3k,103,13,69,4.5,4.0,4.0,4.0,23.6k,3.3k,644,650,4.5,4.8,4.2,4.0
+2841,https://github.com/streetsidesoftware/cspell,https://github.com/fastify/fastify,1.3k,103,13,69,4.5,4.0,4.0,4.0,32.8k,2.3k,299,772,4.5,4.8,4.7,4.3
+2845,https://github.com/boa-dev/boa,https://github.com/ajv-validator/ajv,5.4k,411,47,177,4.5,4.8,4.2,4.0,14k,886,112,207,4.5,4.8,4.2,4.0
+2852,https://github.com/pandas-dev/pandas,https://github.com/axios/axios,44.3k,18.1k,1.1k,"3,391",4.5,4.8,4.7,4.6,106k,11k,1.2k,454,4.5,4.8,4.7,4.3
+2855,https://github.com/pandas-dev/pandas,https://github.com/jedisct1/go-minisign,44.3k,18.1k,1.1k,"3,391",4.5,4.8,4.7,4.6,113,12,5,3,3.5,3.0,2.5,3.0
+2860,https://github.com/pandas-dev/pandas,https://github.com/facebook/react,44.3k,18.1k,1.1k,"3,391",4.5,4.8,4.7,4.6,231k,47.4k,6.6k,"1,681",4.5,5,4.8,4.7
+2862,https://github.com/pandas-dev/pandas,https://github.com/go-task/slim-sprig,44.3k,18.1k,1.1k,"3,391",4.5,4.8,4.7,4.6,63,15,4,Not provided,3.5,3.0,2.5,3.0
+2867,https://github.com/pandas-dev/pandas,https://github.com/eslint/eslint,44.3k,18.1k,1.1k,"3,391",4.5,4.8,4.7,4.6,25.4k,4.6k,315,"1,035",4.5,4.8,4.7,4.3
+2872,https://github.com/pandas-dev/pandas,https://github.com/gregberge/svgr,44.3k,18.1k,1.1k,"3,391",4.5,4.8,4.7,4.6,10.6k,425,35,132,4.5,4.8,4.2,4.0
+2873,https://github.com/pandas-dev/pandas,https://github.com/heim-rs/darwin-libproc,44.3k,18.1k,1.1k,"3,391",4.5,4.8,4.7,4.6,8,22,2,Not explicitly provided in the information.,3.5,3.0,2.5,3.0
+2874,https://github.com/pandas-dev/pandas,https://github.com/numpy/numpy,44.3k,18.1k,1.1k,"3,391",4.5,4.8,4.7,4.6,28.6k,10.3k,599,"1,718",4.5,4.8,4.7,4.3
+2877,https://github.com/pandas-dev/pandas,https://github.com/motdotla/dotenv,44.3k,18.1k,1.1k,"3,391",4.5,4.8,4.7,4.6,19.4k,861,109,87,4.5,4.0,4.0,4.5
+2883,https://github.com/pandas-dev/pandas,https://github.com/formatjs/formatjs,44.3k,18.1k,1.1k,"3,391",4.5,4.8,4.7,4.6,14.4k,1.4k,131,305,4.5,4.0,4.5,4.0
+2892,https://github.com/pandas-dev/pandas,https://github.com/alexeyraspopov/picocolors,44.3k,18.1k,1.1k,"3,391",4.5,4.8,4.7,4.6,1.4k,45,10,13,4.5,4.0,3.5,4.0
+2896,https://github.com/inikulin/parse5,https://github.com/emotion-js/emotion,3.7k,238,43,38,4.5,4.8,3.5,4.0,17.6k,1.1k,96,319,4.5,4.8,4.2,4.0
+2897,https://github.com/inikulin/parse5,https://github.com/immerjs/immer,3.7k,238,43,38,4.5,4.8,3.5,4.0,28k,852,155,188,4.5,4.8,4.2,4.0
+2898,https://github.com/inikulin/parse5,https://github.com/facebook/react,3.7k,238,43,38,4.5,4.8,3.5,4.0,231k,47.4k,6.6k,"1,681",4.5,5,4.8,4.7
+2904,https://github.com/inikulin/parse5,https://github.com/humanwhocodes/object-schema,3.7k,238,43,38,4.5,4.8,3.5,4.0,32,7,2,3,4.0,3.5,2.5,3.0
+2910,https://github.com/inikulin/parse5,https://github.com/gregberge/svgr,3.7k,238,43,38,4.5,4.8,3.5,4.0,10.6k,425,35,132,4.5,4.8,4.2,4.0
+2911,https://github.com/inikulin/parse5,https://github.com/heim-rs/darwin-libproc,3.7k,238,43,38,4.5,4.8,3.5,4.0,8,22,2,Not explicitly provided in the information.,3.5,3.0,2.5,3.0
+2913,https://github.com/inikulin/parse5,https://github.com/babel/babel,3.7k,238,43,38,4.5,4.8,3.5,4.0,43.4k,5.7k,804,"1,091",4.5,4.8,4.7,4.3
+2917,https://github.com/inikulin/parse5,https://github.com/getsentry/sentry-javascript,3.7k,238,43,38,4.5,4.8,3.5,4.0,8.1k,1.6k,125,540,4.5,4.8,4.2,4.0
+2919,https://github.com/inikulin/parse5,https://github.com/google/flatbuffers,3.7k,238,43,38,4.5,4.8,3.5,4.0,23.6k,3.3k,644,650,4.5,4.8,4.2,4.0
+2922,https://github.com/inikulin/parse5,https://github.com/fastify/fastify,3.7k,238,43,38,4.5,4.8,3.5,4.0,32.8k,2.3k,299,772,4.5,4.8,4.7,4.3
+2924,https://github.com/nodeca/js-yaml,https://github.com/ethers-io/ethers.js,6.3k,776,75,73,4.5,4.0,3.5,4.0,8.1k,1.9k,104,Not explicitly provided in the information.,4.5,4.8,4.2,4.0
+2934,https://github.com/nodeca/js-yaml,https://github.com/emotion-js/emotion,6.3k,776,75,73,4.5,4.0,3.5,4.0,17.6k,1.1k,96,319,4.5,4.8,4.2,4.0
+2936,https://github.com/nodeca/js-yaml,https://github.com/eslint/eslint,6.3k,776,75,73,4.5,4.0,3.5,4.0,25.4k,4.6k,315,"1,035",4.5,4.8,4.7,4.3
+2938,https://github.com/nodeca/js-yaml,https://github.com/babel/babel,6.3k,776,75,73,4.5,4.0,3.5,4.0,43.4k,5.7k,804,"1,091",4.5,4.8,4.7,4.3
+2942,https://github.com/nodeca/js-yaml,https://github.com/inikulin/parse5,6.3k,776,75,73,4.5,4.0,3.5,4.0,3.7k,238,43,38,4.5,4.8,3.5,4.0
+2947,https://github.com/nodeca/js-yaml,https://github.com/mattn/go-isatty,6.3k,776,75,73,4.5,4.0,3.5,4.0,845,108,12,29,4.0,3.5,3.0,3.5
+2948,https://github.com/nodeca/js-yaml,https://github.com/boa-dev/boa,6.3k,776,75,73,4.5,4.0,3.5,4.0,5.4k,411,47,177,4.5,4.8,4.2,4.0
+2949,https://github.com/nodeca/js-yaml,https://github.com/floating-ui/floating-ui,6.3k,776,75,73,4.5,4.0,3.5,4.0,30.5k,1.6k,257,112,4.5,4.7,4.2,4.0
+2952,https://github.com/nodeca/js-yaml,https://github.com/debug-js/debug,6.3k,776,75,73,4.5,4.0,3.5,4.0,11.2k,945,139,116,4.5,4.0,4.0,4.0
+2955,https://github.com/nodeca/js-yaml,https://github.com/lukeed/polka,6.3k,776,75,73,4.5,4.0,3.5,4.0,5.4k,173,69,13,4.5,4.0,3.5,4.0
+2960,https://github.com/nodeca/js-yaml,https://github.com/ljharb/qs,6.3k,776,75,73,4.5,4.0,3.5,4.0,8.6k,735,67,64,4.5,4.0,3.5,4.0
+2961,https://github.com/nodeca/js-yaml,https://github.com/google/flatbuffers,6.3k,776,75,73,4.5,4.0,3.5,4.0,23.6k,3.3k,644,650,4.5,4.8,4.2,4.0
+2971,https://github.com/formatjs/formatjs,https://github.com/cssnano/cssnano,14.4k,1.4k,131,305,4.5,4.0,4.5,4.0,4.8k,319,49,109,4.5,4.0,4.0,4.0
+2972,https://github.com/formatjs/formatjs,https://github.com/emotion-js/emotion,14.4k,1.4k,131,305,4.5,4.0,4.5,4.0,17.6k,1.1k,96,319,4.5,4.8,4.2,4.0
+2973,https://github.com/formatjs/formatjs,https://github.com/eslint/eslint,14.4k,1.4k,131,305,4.5,4.0,4.5,4.0,25.4k,4.6k,315,"1,035",4.5,4.8,4.7,4.3
+2980,https://github.com/formatjs/formatjs,https://github.com/floating-ui/floating-ui,14.4k,1.4k,131,305,4.5,4.0,4.5,4.0,30.5k,1.6k,257,112,4.5,4.7,4.2,4.0
+2981,https://github.com/formatjs/formatjs,https://github.com/debug-js/debug,14.4k,1.4k,131,305,4.5,4.0,4.5,4.0,11.2k,945,139,116,4.5,4.0,4.0,4.0
+2983,https://github.com/yahoo/serialize-javascript,https://github.com/eslint/eslint,2.8k,182,36,27,4.5,4.0,3.5,4.0,25.4k,4.6k,315,"1,035",4.5,4.8,4.7,4.3
+2990,https://github.com/yahoo/serialize-javascript,https://github.com/vuejs/vue,2.8k,182,36,27,4.5,4.0,3.5,4.0,208k,33.7k,5.9k,366,4.5,4.0,4.5,4.0
+2994,https://github.com/yahoo/serialize-javascript,https://github.com/mochajs/mocha,2.8k,182,36,27,4.5,4.0,3.5,4.0,22.7k,3k,398,503,4.5,4.0,4.5,4.0
+2995,https://github.com/yahoo/serialize-javascript,https://github.com/clap-rs/clap,2.8k,182,36,27,4.5,4.0,3.5,4.0,14.6k,1.1k,69,517,4.5,4.8,4.2,4.0
+2996,https://github.com/yahoo/serialize-javascript,https://github.com/floating-ui/floating-ui,2.8k,182,36,27,4.5,4.0,3.5,4.0,30.5k,1.6k,257,112,4.5,4.7,4.2,4.0
+2997,https://github.com/yahoo/serialize-javascript,https://github.com/debug-js/debug,2.8k,182,36,27,4.5,4.0,3.5,4.0,11.2k,945,139,116,4.5,4.0,4.0,4.0
+2999,https://github.com/yahoo/serialize-javascript,https://github.com/getsentry/sentry-javascript,2.8k,182,36,27,4.5,4.0,3.5,4.0,8.1k,1.6k,125,540,4.5,4.8,4.2,4.0
+3001,https://github.com/yahoo/serialize-javascript,https://github.com/pnpm/cmd-shim,2.8k,182,36,27,4.5,4.0,3.5,4.0,14,11,5,Not provided,3.5,3.0,2.5,3.0
+3002,https://github.com/yahoo/serialize-javascript,https://github.com/rollup/rollup,2.8k,182,36,27,4.5,4.0,3.5,4.0,25.5k,1.5k,257,395,4.5,4.8,4.2,4.0
+3008,https://github.com/yahoo/serialize-javascript,https://github.com/rich-harris/magic-string,2.8k,182,36,27,4.5,4.0,3.5,4.0,2.4k,115,15,55,4.5,4.0,3.5,4.0
+3012,https://github.com/yahoo/serialize-javascript,https://github.com/jedisct1/go-minisign,2.8k,182,36,27,4.5,4.0,3.5,4.0,113,12,5,3,3.5,3.0,2.5,3.0
+3013,https://github.com/yahoo/serialize-javascript,https://github.com/formatjs/formatjs,2.8k,182,36,27,4.5,4.0,3.5,4.0,14.4k,1.4k,131,305,4.5,4.0,4.5,4.0
+3014,https://github.com/yahoo/serialize-javascript,https://github.com/electron/electron,2.8k,182,36,27,4.5,4.0,3.5,4.0,115k,15.7k,2.8k,"1,291",4.5,4.8,4.7,4.6
+3018,https://github.com/yahoo/serialize-javascript,https://github.com/humanwhocodes/object-schema,2.8k,182,36,27,4.5,4.0,3.5,4.0,32,7,2,3,4.0,3.5,2.5,3.0
+3019,https://github.com/yahoo/serialize-javascript,https://github.com/mmcloughlin/addchain,2.8k,182,36,27,4.5,4.0,3.5,4.0,188,14,7,2,4.5,4.8,3.5,3.8
+3024,https://github.com/yahoo/serialize-javascript,https://github.com/mattn/go-isatty,2.8k,182,36,27,4.5,4.0,3.5,4.0,845,108,12,29,4.0,3.5,3.0,3.5
+3025,https://github.com/yahoo/serialize-javascript,https://github.com/numpy/numpy,2.8k,182,36,27,4.5,4.0,3.5,4.0,28.6k,10.3k,599,"1,718",4.5,4.8,4.7,4.3
+3028,https://github.com/yahoo/serialize-javascript,https://github.com/pytest-dev/pytest,2.8k,182,36,27,4.5,4.0,3.5,4.0,12.3k,2.7k,196,875,4.5,4.8,4.7,4.6
+3032,https://github.com/yahoo/serialize-javascript,https://github.com/pion/webrtc,2.8k,182,36,27,4.5,4.0,3.5,4.0,14.1k,1.7k,261,203,4.5,4.8,4.7,4.3
+3034,https://github.com/yahoo/serialize-javascript,https://github.com/prettier/prettier,2.8k,182,36,27,4.5,4.0,3.5,4.0,49.8k,4.4k,419,715,4.5,4.8,4.7,4.3
+3036,https://github.com/yahoo/serialize-javascript,https://github.com/motdotla/dotenv,2.8k,182,36,27,4.5,4.0,3.5,4.0,19.4k,861,109,87,4.5,4.0,4.0,4.5
+3037,https://github.com/yahoo/serialize-javascript,https://github.com/tklauser/go-sysconf,2.8k,182,36,27,4.5,4.0,3.5,4.0,140,27,5,5,4.0,3.5,2.5,3.0
+3039,https://github.com/yahoo/serialize-javascript,https://github.com/heim-rs/darwin-libproc,2.8k,182,36,27,4.5,4.0,3.5,4.0,8,22,2,Not explicitly provided in the information.,3.5,3.0,2.5,3.0
+3046,https://github.com/mmcloughlin/addchain,https://github.com/babel/babel,188,14,7,2,4.5,4.8,3.5,3.8,43.4k,5.7k,804,"1,091",4.5,4.8,4.7,4.3
+3047,https://github.com/mmcloughlin/addchain,https://github.com/go-task/slim-sprig,188,14,7,2,4.5,4.8,3.5,3.8,63,15,4,Not provided,3.5,3.0,2.5,3.0
+3050,https://github.com/mmcloughlin/addchain,https://github.com/clap-rs/clap,188,14,7,2,4.5,4.8,3.5,3.8,14.6k,1.1k,69,517,4.5,4.8,4.2,4.0
+3053,https://github.com/mmcloughlin/addchain,https://github.com/import-js/eslint-plugin-import,188,14,7,2,4.5,4.8,3.5,3.8,5.6k,1.6k,37,363,4.5,4.0,4.2,4.0
+3058,https://github.com/mmcloughlin/addchain,https://github.com/jedisct1/go-minisign,188,14,7,2,4.5,4.8,3.5,3.8,113,12,5,3,3.5,3.0,2.5,3.0
+3059,https://github.com/mmcloughlin/addchain,https://github.com/formatjs/formatjs,188,14,7,2,4.5,4.8,3.5,3.8,14.4k,1.4k,131,305,4.5,4.0,4.5,4.0
+3060,https://github.com/mmcloughlin/addchain,https://github.com/electron/electron,188,14,7,2,4.5,4.8,3.5,3.8,115k,15.7k,2.8k,"1,291",4.5,4.8,4.7,4.6
+3069,https://github.com/mmcloughlin/addchain,https://github.com/axios/axios,188,14,7,2,4.5,4.8,3.5,3.8,106k,11k,1.2k,454,4.5,4.8,4.7,4.3
+3072,https://github.com/mmcloughlin/addchain,https://github.com/boa-dev/boa,188,14,7,2,4.5,4.8,3.5,3.8,5.4k,411,47,177,4.5,4.8,4.2,4.0
+3077,https://github.com/kaelzhang/node-ignore,https://github.com/ethers-io/ethers.js,454,47,10,20,4.5,4.0,3.5,3.0,8.1k,1.9k,104,Not explicitly provided in the information.,4.5,4.8,4.2,4.0
+3078,https://github.com/kaelzhang/node-ignore,https://github.com/facebook/react,454,47,10,20,4.5,4.0,3.5,3.0,231k,47.4k,6.6k,"1,681",4.5,5,4.8,4.7
+3081,https://github.com/kaelzhang/node-ignore,https://github.com/debug-js/debug,454,47,10,20,4.5,4.0,3.5,3.0,11.2k,945,139,116,4.5,4.0,4.0,4.0
+3084,https://github.com/kaelzhang/node-ignore,https://github.com/dcodeio/long.js,454,47,10,20,4.5,4.0,3.5,3.0,892,206,23,17,4.5,4.0,3.5,3.0
+3086,https://github.com/kaelzhang/node-ignore,https://github.com/ajv-validator/ajv,454,47,10,20,4.5,4.0,3.5,3.0,14k,886,112,207,4.5,4.8,4.2,4.0
+3090,https://github.com/kaelzhang/node-ignore,https://github.com/gulpjs/gulp,454,47,10,20,4.5,4.0,3.5,3.0,33.1k,4.2k,1k,246,4.5,4.0,4.5,4.0
+3091,https://github.com/kaelzhang/node-ignore,https://github.com/humanwhocodes/object-schema,454,47,10,20,4.5,4.0,3.5,3.0,32,7,2,3,4.0,3.5,2.5,3.0
+3092,https://github.com/kaelzhang/node-ignore,https://github.com/browserslist/browserslist,454,47,10,20,4.5,4.0,3.5,3.0,13.1k,721,140,179,4.5,4.0,4.0,3.5
+3095,https://github.com/kaelzhang/node-ignore,https://github.com/epoberezkin/fast-deep-equal,454,47,10,20,4.5,4.0,3.5,3.0,1.9k,106,14,13,4.5,4.0,3.5,4.0
+3097,https://github.com/kaelzhang/node-ignore,https://github.com/chzyer/readline,454,47,10,20,4.5,4.0,3.5,3.0,2.1k,280,41,38,4.0,4.5,3.5,3.0
+3098,https://github.com/kaelzhang/node-ignore,https://github.com/heim-rs/darwin-libproc,454,47,10,20,4.5,4.0,3.5,3.0,8,22,2,Not explicitly provided in the information.,3.5,3.0,2.5,3.0
+3099,https://github.com/kaelzhang/node-ignore,https://github.com/boa-dev/boa,454,47,10,20,4.5,4.0,3.5,3.0,5.4k,411,47,177,4.5,4.8,4.2,4.0
+3101,https://github.com/tklauser/go-sysconf,https://github.com/eslint/eslint,140,27,5,5,4.0,3.5,2.5,3.0,25.4k,4.6k,315,"1,035",4.5,4.8,4.7,4.3
+3103,https://github.com/tklauser/go-sysconf,https://github.com/nodeca/js-yaml,140,27,5,5,4.0,3.5,2.5,3.0,6.3k,776,75,73,4.5,4.0,3.5,4.0
+3117,https://github.com/tklauser/go-sysconf,https://github.com/pnpm/cmd-shim,140,27,5,5,4.0,3.5,2.5,3.0,14,11,5,Not provided,3.5,3.0,2.5,3.0
+3122,https://github.com/tklauser/go-sysconf,https://github.com/immerjs/immer,140,27,5,5,4.0,3.5,2.5,3.0,28k,852,155,188,4.5,4.8,4.2,4.0
+3123,https://github.com/tklauser/go-sysconf,https://github.com/salesforce/tough-cookie,140,27,5,5,4.0,3.5,2.5,3.0,980,227,50,38,4.5,4.0,3.5,4.0
+3126,https://github.com/tklauser/go-sysconf,https://github.com/swc-project/swc,140,27,5,5,4.0,3.5,2.5,3.0,31.5k,1.2k,153,304,4.5,4.8,4.2,4.0
+3131,https://github.com/tklauser/go-sysconf,https://github.com/gulpjs/gulp,140,27,5,5,4.0,3.5,2.5,3.0,33.1k,4.2k,1k,246,4.5,4.0,4.5,4.0
+3132,https://github.com/tklauser/go-sysconf,https://github.com/sheetjs/js-crc32,140,27,5,5,4.0,3.5,2.5,3.0,345,37,10,6,4.5,3.5,3.0,4.0
+3134,https://github.com/tklauser/go-sysconf,https://github.com/mmcloughlin/addchain,140,27,5,5,4.0,3.5,2.5,3.0,188,14,7,2,4.5,4.8,3.5,3.8
+3136,https://github.com/tklauser/go-sysconf,https://github.com/browserslist/browserslist,140,27,5,5,4.0,3.5,2.5,3.0,13.1k,721,140,179,4.5,4.0,4.0,3.5
+3139,https://github.com/tklauser/go-sysconf,https://github.com/numpy/numpy,140,27,5,5,4.0,3.5,2.5,3.0,28.6k,10.3k,599,"1,718",4.5,4.8,4.7,4.3
+3143,https://github.com/tklauser/go-sysconf,https://github.com/emotion-js/emotion,140,27,5,5,4.0,3.5,2.5,3.0,17.6k,1.1k,96,319,4.5,4.8,4.2,4.0
+3146,https://github.com/tklauser/go-sysconf,https://github.com/prettier/prettier,140,27,5,5,4.0,3.5,2.5,3.0,49.8k,4.4k,419,715,4.5,4.8,4.7,4.3
+3148,https://github.com/tklauser/go-sysconf,https://github.com/motdotla/dotenv,140,27,5,5,4.0,3.5,2.5,3.0,19.4k,861,109,87,4.5,4.0,4.0,4.5
+3150,https://github.com/tklauser/go-sysconf,https://github.com/heim-rs/darwin-libproc,140,27,5,5,4.0,3.5,2.5,3.0,8,22,2,Not explicitly provided in the information.,3.5,3.0,2.5,3.0
+3157,https://github.com/vitest-dev/vitest,https://github.com/browserslist/browserslist,13.6k,1.2k,53,554,4.5,4.8,4.7,4.3,13.1k,721,140,179,4.5,4.0,4.0,3.5
+3163,https://github.com/vitest-dev/vitest,https://github.com/vercel/swr,13.6k,1.2k,53,554,4.5,4.8,4.7,4.3,30.9k,1.2k,209,183,4.5,4.8,4.2,4.0
+3164,https://github.com/vitest-dev/vitest,https://github.com/import-js/eslint-plugin-import,13.6k,1.2k,53,554,4.5,4.8,4.7,4.3,5.6k,1.6k,37,363,4.5,4.0,4.2,4.0
+3166,https://github.com/vitest-dev/vitest,https://github.com/pnpm/cmd-shim,13.6k,1.2k,53,554,4.5,4.8,4.7,4.3,14,11,5,Not provided,3.5,3.0,2.5,3.0
+3168,https://github.com/vitest-dev/vitest,https://github.com/electron/electron,13.6k,1.2k,53,554,4.5,4.8,4.7,4.3,115k,15.7k,2.8k,"1,291",4.5,4.8,4.7,4.6
+3173,https://github.com/vitest-dev/vitest,https://github.com/mattn/go-isatty,13.6k,1.2k,53,554,4.5,4.8,4.7,4.3,845,108,12,29,4.0,3.5,3.0,3.5
+3180,https://github.com/vitest-dev/vitest,https://github.com/facebook/react,13.6k,1.2k,53,554,4.5,4.8,4.7,4.3,231k,47.4k,6.6k,"1,681",4.5,5,4.8,4.7
+3181,https://github.com/vitest-dev/vitest,https://github.com/salesforce/tough-cookie,13.6k,1.2k,53,554,4.5,4.8,4.7,4.3,980,227,50,38,4.5,4.0,3.5,4.0
+3201,https://github.com/vitest-dev/vitest,https://github.com/brooooooklyn/snappy,13.6k,1.2k,53,554,4.5,4.8,4.7,4.3,168,10,4,6,4.0,4.5,3.5,3.0
+3202,https://github.com/vitest-dev/vitest,https://github.com/lukeed/polka,13.6k,1.2k,53,554,4.5,4.8,4.7,4.3,5.4k,173,69,13,4.5,4.0,3.5,4.0
+3204,https://github.com/vitest-dev/vitest,https://github.com/biomejs/biome,13.6k,1.2k,53,554,4.5,4.8,4.7,4.3,16.5k,512,52,478,4.5,4.8,4.2,4.0
+3208,https://github.com/google/flatbuffers,https://github.com/browserslist/browserslist,23.6k,3.3k,644,650,4.5,4.8,4.2,4.0,13.1k,721,140,179,4.5,4.0,4.0,3.5
+3211,https://github.com/google/flatbuffers,https://github.com/debug-js/debug,23.6k,3.3k,644,650,4.5,4.8,4.2,4.0,11.2k,945,139,116,4.5,4.0,4.0,4.0
+3213,https://github.com/google/flatbuffers,https://github.com/electron/electron,23.6k,3.3k,644,650,4.5,4.8,4.2,4.0,115k,15.7k,2.8k,"1,291",4.5,4.8,4.7,4.6
+3214,https://github.com/google/flatbuffers,https://github.com/ethers-io/ethers.js,23.6k,3.3k,644,650,4.5,4.8,4.2,4.0,8.1k,1.9k,104,Not explicitly provided in the information.,4.5,4.8,4.2,4.0
+3216,https://github.com/google/flatbuffers,https://github.com/boa-dev/boa,23.6k,3.3k,644,650,4.5,4.8,4.2,4.0,5.4k,411,47,177,4.5,4.8,4.2,4.0
+3225,https://github.com/biomejs/biome,https://github.com/babel/babel,16.5k,512,52,478,4.5,4.8,4.2,4.0,43.4k,5.7k,804,"1,091",4.5,4.8,4.7,4.3
+3229,https://github.com/fastify/fastify,https://github.com/boa-dev/boa,32.8k,2.3k,299,772,4.5,4.8,4.7,4.3,5.4k,411,47,177,4.5,4.8,4.2,4.0
+3232,https://github.com/fastify/fastify,https://github.com/facebook/react,32.8k,2.3k,299,772,4.5,4.8,4.7,4.3,231k,47.4k,6.6k,"1,681",4.5,5,4.8,4.7
+3235,https://github.com/fastify/fastify,https://github.com/axios/axios,32.8k,2.3k,299,772,4.5,4.8,4.7,4.3,106k,11k,1.2k,454,4.5,4.8,4.7,4.3
+3237,https://github.com/fastify/fastify,https://github.com/electron/electron,32.8k,2.3k,299,772,4.5,4.8,4.7,4.3,115k,15.7k,2.8k,"1,291",4.5,4.8,4.7,4.6
+3238,https://github.com/fastify/fastify,https://github.com/eslint/eslint,32.8k,2.3k,299,772,4.5,4.8,4.7,4.3,25.4k,4.6k,315,"1,035",4.5,4.8,4.7,4.3
+3239,https://github.com/fastify/fastify,https://github.com/clap-rs/clap,32.8k,2.3k,299,772,4.5,4.8,4.7,4.3,14.6k,1.1k,69,517,4.5,4.8,4.2,4.0
+3240,https://github.com/fastify/fastify,https://github.com/alexeyraspopov/picocolors,32.8k,2.3k,299,772,4.5,4.8,4.7,4.3,1.4k,45,10,13,4.5,4.0,3.5,4.0
+3245,https://github.com/servo/rust-smallvec,https://github.com/floating-ui/floating-ui,1.4k,146,27,80,4.0,4.5,3.5,3.0,30.5k,1.6k,257,112,4.5,4.7,4.2,4.0
+3246,https://github.com/servo/rust-smallvec,https://github.com/level/levelup,1.4k,146,27,80,4.0,4.5,3.5,3.0,4.1k,267,91,42,4.5,4.0,3.5,3.0
+3247,https://github.com/servo/rust-smallvec,https://github.com/babel/babel,1.4k,146,27,80,4.0,4.5,3.5,3.0,43.4k,5.7k,804,"1,091",4.5,4.8,4.7,4.3
+3249,https://github.com/servo/rust-smallvec,https://github.com/mattn/go-isatty,1.4k,146,27,80,4.0,4.5,3.5,3.0,845,108,12,29,4.0,3.5,3.0,3.5
+3250,https://github.com/servo/rust-smallvec,https://github.com/prettier/prettier,1.4k,146,27,80,4.0,4.5,3.5,3.0,49.8k,4.4k,419,715,4.5,4.8,4.7,4.3
+3254,https://github.com/servo/rust-smallvec,https://github.com/fastify/fastify,1.4k,146,27,80,4.0,4.5,3.5,3.0,32.8k,2.3k,299,772,4.5,4.8,4.7,4.3
+3255,https://github.com/servo/rust-smallvec,https://github.com/boa-dev/boa,1.4k,146,27,80,4.0,4.5,3.5,3.0,5.4k,411,47,177,4.5,4.8,4.2,4.0
+3256,https://github.com/servo/rust-smallvec,https://github.com/ajv-validator/ajv,1.4k,146,27,80,4.0,4.5,3.5,3.0,14k,886,112,207,4.5,4.8,4.2,4.0
+3257,https://github.com/servo/rust-smallvec,https://github.com/biomejs/biome,1.4k,146,27,80,4.0,4.5,3.5,3.0,16.5k,512,52,478,4.5,4.8,4.2,4.0
+3264,https://github.com/servo/rust-smallvec,https://github.com/mochajs/mocha,1.4k,146,27,80,4.0,4.5,3.5,3.0,22.7k,3k,398,503,4.5,4.0,4.5,4.0
+3266,https://github.com/servo/rust-smallvec,https://github.com/humanwhocodes/object-schema,1.4k,146,27,80,4.0,4.5,3.5,3.0,32,7,2,3,4.0,3.5,2.5,3.0
+3268,https://github.com/servo/rust-smallvec,https://github.com/node-fetch/node-fetch,1.4k,146,27,80,4.0,4.5,3.5,3.0,8.8k,1k,89,119,4.5,4.0,4.0,4.0
+3270,https://github.com/servo/rust-smallvec,https://github.com/go-task/slim-sprig,1.4k,146,27,80,4.0,4.5,3.5,3.0,63,15,4,Not provided,3.5,3.0,2.5,3.0
+3273,https://github.com/servo/rust-smallvec,https://github.com/debug-js/debug,1.4k,146,27,80,4.0,4.5,3.5,3.0,11.2k,945,139,116,4.5,4.0,4.0,4.0
+3277,https://github.com/servo/rust-smallvec,https://github.com/gulpjs/gulp,1.4k,146,27,80,4.0,4.5,3.5,3.0,33.1k,4.2k,1k,246,4.5,4.0,4.5,4.0
+3279,https://github.com/servo/rust-smallvec,https://github.com/ljharb/qs,1.4k,146,27,80,4.0,4.5,3.5,3.0,8.6k,735,67,64,4.5,4.0,3.5,4.0
+3281,https://github.com/supranational/blst,https://github.com/status-im/nimbus-eth2,485,182,18,22,4.5,4.8,3.5,3.8,558,251,37,93,4.5,4.0,3.5,3.0
+3283,https://github.com/supranational/blst,https://github.com/eth-infinitism/account-abstraction,485,182,18,22,4.5,4.8,3.5,3.8,1.6k,675,39,25,3.5,4.0,3.0,3.5
+3284,https://github.com/supranational/blst,https://github.com/sigp/lighthouse,485,182,18,22,4.5,4.8,3.5,3.8,3k,784,70,192,4.5,4.8,4.2,4.0
+3288,https://github.com/supranational/blst,https://github.com/consensys/teku,485,182,18,22,4.5,4.8,3.5,3.8,692,304,34,109,4.5,4.0,4.0,3.5
+3291,https://github.com/supranational/blst,https://github.com/crate-crypto/go-ipa,485,182,18,22,4.5,4.8,3.5,3.8,33,14,3,3,4.0,4.5,3.0,3.5
+3292,https://github.com/supranational/blst,https://github.com/ethereum/remix-project,485,182,18,22,4.5,4.8,3.5,3.8,2.5k,1k,68,181,4.5,4.8,4.2,4.0
+3294,https://github.com/supranational/blst,https://github.com/chainsafe/lodestar,485,182,18,22,4.5,4.8,3.5,3.8,1.2k,317,35,111,4.5,4.8,4.2,4.0
+3295,https://github.com/supranational/blst,https://github.com/nomicfoundation/hardhat,485,182,18,22,4.5,4.8,3.5,3.8,7.4k,1.5k,77,373,4.5,4.8,4.7,4.3
+3298,https://github.com/supranational/blst,https://github.com/alloy-rs/core,485,182,18,22,4.5,4.8,3.5,3.8,818,167,22,66,4.5,4.8,4.2,4.0
+3299,https://github.com/supranational/blst,https://github.com/bluealloy/revm,485,182,18,22,4.5,4.8,3.5,3.8,1.7k,602,30,154,4.5,4.8,4.2,4.0
+3300,https://github.com/supranational/blst,https://github.com/ipfs/js-ipfs,485,182,18,22,4.5,4.8,3.5,3.8,7.4k,1.3k,223,221,4.0,4.5,3.5,3.0
+3305,https://github.com/status-im/nimbus-eth2,https://github.com/protofire/solhint,558,251,37,93,4.5,4.0,3.5,3.0,1.1k,169,21,52,4.5,4.0,3.5,4.0
+3308,https://github.com/status-im/nimbus-eth2,https://github.com/ethereum/solidity,558,251,37,93,4.5,4.0,3.5,3.0,23.7k,5.9k,732,636,4.5,4.8,4.7,4.2
+3316,https://github.com/status-im/nimbus-eth2,https://github.com/paradigmxyz/reth,558,251,37,93,4.5,4.0,3.5,3.0,4.3k,1.3k,60,446,4.5,4.8,4.2,4.0
+3319,https://github.com/status-im/nimbus-eth2,https://github.com/ipfs/js-ipfs,558,251,37,93,4.5,4.0,3.5,3.0,7.4k,1.3k,223,221,4.0,4.5,3.5,3.0
+3323,https://github.com/status-im/nimbus-eth2,https://github.com/grandinetech/grandine,558,251,37,93,4.5,4.0,3.5,3.0,183,33,7,8,4.5,4.0,3.5,3.0
+3326,https://github.com/safe-global/safe-smart-account,https://github.com/eth-infinitism/account-abstraction,1.9k,957,49,50,4.5,4.0,3.5,3.0,1.6k,675,39,25,3.5,4.0,3.0,3.5
+3327,https://github.com/safe-global/safe-smart-account,https://github.com/ethers-io/ethers.js,1.9k,957,49,50,4.5,4.0,3.5,3.0,8.1k,1.9k,104,Not explicitly provided in the information.,4.5,4.8,4.2,4.0
+3329,https://github.com/safe-global/safe-smart-account,https://github.com/consensys/teku,1.9k,957,49,50,4.5,4.0,3.5,3.0,692,304,34,109,4.5,4.0,4.0,3.5
+3334,https://github.com/safe-global/safe-smart-account,https://github.com/ethereum/go-ethereum,1.9k,957,49,50,4.5,4.0,3.5,3.0,48.1k,20.4k,2.2k,"1,111",4.5,4.8,4.7,4.2
+3339,https://github.com/eth-infinitism/account-abstraction,https://github.com/alloy-rs/core,1.6k,675,39,25,3.5,4.0,3.0,3.5,818,167,22,66,4.5,4.8,4.2,4.0
+3342,https://github.com/crate-crypto/go-ipa,https://github.com/consensys/teku,33,14,3,3,4.0,4.5,3.0,3.5,692,304,34,109,4.5,4.0,4.0,3.5
+3348,https://github.com/paradigmxyz/reth,https://github.com/libp2p/go-libp2p,4.3k,1.3k,60,446,4.5,4.8,4.2,4.0,6.2k,1.1k,181,214,4.5,4.8,4.2,4.0
+3351,https://github.com/paradigmxyz/reth,https://github.com/chainsafe/lodestar,4.3k,1.3k,60,446,4.5,4.8,4.2,4.0,1.2k,317,35,111,4.5,4.8,4.2,4.0
+3360,https://github.com/paradigmxyz/reth,https://github.com/erigontech/erigon,4.3k,1.3k,60,446,4.5,4.8,4.2,4.0,3.2k,1.2k,65,833,4.5,4.8,4.2,3.8
+3361,https://github.com/paradigmxyz/reth,https://github.com/grandinetech/grandine,4.3k,1.3k,60,446,4.5,4.8,4.2,4.0,183,33,7,8,4.5,4.0,3.5,3.0
+3363,https://github.com/libp2p/go-libp2p,https://github.com/ethers-io/ethers.js,6.2k,1.1k,181,214,4.5,4.8,4.2,4.0,8.1k,1.9k,104,Not explicitly provided in the information.,4.5,4.8,4.2,4.0
+3365,https://github.com/libp2p/go-libp2p,https://github.com/crate-crypto/go-ipa,6.2k,1.1k,181,214,4.5,4.8,4.2,4.0,33,14,3,3,4.0,4.5,3.0,3.5
+3369,https://github.com/libp2p/go-libp2p,https://github.com/bluealloy/revm,6.2k,1.1k,181,214,4.5,4.8,4.2,4.0,1.7k,602,30,154,4.5,4.8,4.2,4.0
+3372,https://github.com/libp2p/go-libp2p,https://github.com/ipfs/js-ipfs,6.2k,1.1k,181,214,4.5,4.8,4.2,4.0,7.4k,1.3k,223,221,4.0,4.5,3.5,3.0
+3373,https://github.com/libp2p/go-libp2p,https://github.com/ethereumjs/ethereumjs-monorepo,6.2k,1.1k,181,214,4.5,4.8,4.2,4.0,2.6k,775,64,206,4.5,4.8,4.2,4.0
+3376,https://github.com/libp2p/go-libp2p,https://github.com/ethereum/solc-js,6.2k,1.1k,181,214,4.5,4.8,4.2,4.0,1.5k,479,46,42,4.5,4.0,3.5,4.0
+3388,https://github.com/quic-go/quic-go,https://github.com/chainsafe/lodestar,10.3k,1.3k,218,113,4.5,4.8,4.2,4.0,1.2k,317,35,111,4.5,4.8,4.2,4.0
+3390,https://github.com/quic-go/quic-go,https://github.com/grandinetech/grandine,10.3k,1.3k,218,113,4.5,4.8,4.2,4.0,183,33,7,8,4.5,4.0,3.5,3.0
+3391,https://github.com/quic-go/quic-go,https://github.com/ethereum/solidity,10.3k,1.3k,218,113,4.5,4.8,4.2,4.0,23.7k,5.9k,732,636,4.5,4.8,4.7,4.2
+3394,https://github.com/quic-go/quic-go,https://github.com/bluealloy/revm,10.3k,1.3k,218,113,4.5,4.8,4.2,4.0,1.7k,602,30,154,4.5,4.8,4.2,4.0
+3398,https://github.com/grandinetech/grandine,https://github.com/chainsafe/lodestar,183,33,7,8,4.5,4.0,3.5,3.0,1.2k,317,35,111,4.5,4.8,4.2,4.0
+3400,https://github.com/grandinetech/grandine,https://github.com/ethereum/solidity,183,33,7,8,4.5,4.0,3.5,3.0,23.7k,5.9k,732,636,4.5,4.8,4.7,4.2
+3403,https://github.com/grandinetech/grandine,https://github.com/ethereum/solc-js,183,33,7,8,4.5,4.0,3.5,3.0,1.5k,479,46,42,4.5,4.0,3.5,4.0
+3405,https://github.com/ethereum/solc-js,https://github.com/chainsafe/lodestar,1.5k,479,46,42,4.5,4.0,3.5,4.0,1.2k,317,35,111,4.5,4.8,4.2,4.0
+3406,https://github.com/ethereum/solc-js,https://github.com/erigontech/erigon,1.5k,479,46,42,4.5,4.0,3.5,4.0,3.2k,1.2k,65,833,4.5,4.8,4.2,3.8
+3409,https://github.com/erigontech/erigon,https://github.com/chainsafe/lodestar,3.2k,1.2k,65,833,4.5,4.8,4.2,3.8,1.2k,317,35,111,4.5,4.8,4.2,4.0

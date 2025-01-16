@@ -86,7 +86,7 @@ class OpenAIModel:
                 temperature=self.temperature,
                 model=self.model, 
                 max_tokens=11000,
-                #response_format={ "type": "json_object" }
+                response_format={ "type": "json_object" }
             )
             
             response = chat_completion.choices[0].message.content
