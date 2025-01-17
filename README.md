@@ -7,6 +7,11 @@ install dependencies
 pip install -r requirements.txt
 ```
 
+# Current thought
+Since using SVM and linear Regression get poorer result. It is obvious that it is not a linear problem.
+Try using tree based model like Xgboost.
+
+
 
 # Reference 
 ### paper
