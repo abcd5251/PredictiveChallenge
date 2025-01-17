@@ -45,7 +45,11 @@ def preprocess_data(df):
         'project_a_repo_license_spdx_id', 'project_b_repo_license_spdx_id',
         'project_a_repo_created_at', 'project_a_repo_updated_at',
         'project_a_repo_first_commit_time', 'project_b_repo_created_at',
-        'project_b_repo_updated_at', 'project_b_repo_first_commit_time'
+        'project_b_repo_updated_at', 'project_b_repo_first_commit_time',
+        'project_b_community_engagement', 'project_b_accessibility',
+        'project_b_Readme_score', 'project_b_technical_innovation',
+        'project_a_community_engagement', 'project_a_accessibility',
+        'project_a_Readme_score', 'project_a_technical_innovation'
     ]
     df.drop(columns=columns_to_drop, inplace=True)
 
@@ -64,14 +68,15 @@ def train_xgboost(df):
     Y = df['weight_a']
 
     # Split data into train and test sets
-    X_train, X_test, Y_train, Y_test = train_test_split(X, Y, test_size=0.00001, random_state=42)
-
+    X_train, X_test, Y_train, Y_test = train_test_split(X, Y, test_size=0.0001, random_state=42)
+    print("length of test", len(X_test))
     # Create and train the XGBoost model
-    model = xgb.XGBRegressor(objective='reg:squarederror', n_estimators=200, learning_rate=0.1, max_depth=4, random_state=42)
+    model = xgb.XGBRegressor(objective='reg:squarederror', n_estimators=250, learning_rate=0.1, max_depth=6, random_state=42)
     model.fit(X_train, Y_train)
 
     # Make predictions and evaluate the model
     predictions = model.predict(X_test)
+    predictions = np.where(predictions >= 1, 0.98, np.where(predictions <= 0, 0.02, predictions))
     rmse = np.sqrt(mean_squared_error(Y_test, predictions))
     print(f"RMSE: {rmse}")
 
@@ -100,7 +105,7 @@ def predict_with_model(model_path, test_csv_path, output_csv_path):
     predictions = model.predict(X_test)
 
     # Adjust predictions based on the conditions
-    predictions = np.where(predictions >= 1, 0.93, np.where(predictions <= 0, 0.07, predictions))
+    predictions = np.where(predictions >= 1, 0.98, np.where(predictions <= 0, 0.02, predictions))
 
     # Save results to CSV
     result = pd.DataFrame({"id": test_data["id"], "pred": predictions})
