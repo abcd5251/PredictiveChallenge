@@ -92,7 +92,7 @@ def predict_with_model(model_path, test_csv_path, output_csv_path):
     predictions = np.where(predictions >= 1, 0.98, np.where(predictions <= 0, 0.02, predictions))
 
     # Save results to CSV
-    result = pd.DataFrame({"id": test_data.index, "pred": predictions})
+    result = pd.DataFrame({"id": list(test_data["id"]), "pred": predictions})
     result.to_csv(output_csv_path, index=False)
     print(f"Predictions saved to {output_csv_path}")
 

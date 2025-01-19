@@ -68,17 +68,17 @@ def train_xgboost(df):
     Y = df['weight_a']
 
     # Split data into train and test sets
-    X_train, X_test, Y_train, Y_test = train_test_split(X, Y, test_size=0.0001, random_state=42)
+    X_train, X_test, Y_train, Y_test = train_test_split(X, Y, test_size=0.00001, random_state=42)
     print("length of test", len(X_test))
     # Create and train the XGBoost model
-    model = xgb.XGBRegressor(objective='reg:squarederror', n_estimators=250, learning_rate=0.1, max_depth=6, random_state=42)
+    model = xgb.XGBRegressor(objective='reg:squarederror', n_estimators=300, learning_rate=0.12, max_depth=4, random_state=888)
     model.fit(X_train, Y_train)
 
     # Make predictions and evaluate the model
     predictions = model.predict(X_test)
-    predictions = np.where(predictions >= 1, 0.98, np.where(predictions <= 0, 0.02, predictions))
-    rmse = np.sqrt(mean_squared_error(Y_test, predictions))
-    print(f"RMSE: {rmse}")
+    predictions = np.where(predictions >= 1, 0.99, np.where(predictions <= 0, 0.01, predictions))
+    mse = mean_squared_error(Y_test, predictions)
+    print(f"MSE: {mse}")
 
     return model
 
@@ -105,7 +105,7 @@ def predict_with_model(model_path, test_csv_path, output_csv_path):
     predictions = model.predict(X_test)
 
     # Adjust predictions based on the conditions
-    predictions = np.where(predictions >= 1, 0.98, np.where(predictions <= 0, 0.02, predictions))
+    predictions = np.where(predictions >= 1, 0.99, np.where(predictions <= 0, 0.01, predictions))
 
     # Save results to CSV
     result = pd.DataFrame({"id": test_data["id"], "pred": predictions})
@@ -118,7 +118,7 @@ if __name__ == "__main__":
     train_csv_path = "train_data.csv"
     test_csv_path = "test_data.csv"
     model_save_path = "xgboost_model.pkl"
-    result_csv_path = "new_result.csv"
+    result_csv_path = "tune_result.csv"
 
     # Load and preprocess the training data
     data = load_data(train_csv_path)
