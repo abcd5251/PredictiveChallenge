@@ -74,7 +74,7 @@ if __name__ == '__main__':
     
     all_repo_info = {}
 
-    with open("past_repo_info.json", "r") as file:
+    with open("merged_data.json", "r") as file:
         data_past_repo = json.load(file)
     
     for repo_url in repo_urls:
