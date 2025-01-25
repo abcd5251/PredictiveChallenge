@@ -2,6 +2,7 @@ import pandas as pd
 import numpy as np
 import xgboost as xgb
 import pickle
+import matplotlib.pyplot as plt
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import mean_squared_error
 
@@ -9,7 +10,7 @@ from sklearn.metrics import mean_squared_error
 def load_data(file_path):
     return pd.read_csv(file_path)
 
-# Preprocess the dataset by dropping unnecessary columns and handling missing values
+# Preprocess the dataset by converting string numbers and handling missing values
 def preprocess_data(df):
     def convert_to_int(value):
         if isinstance(value, str):
@@ -33,26 +34,6 @@ def preprocess_data(df):
     df['project_a_contributors_count'] = df[['project_a_contributors_count', 'project_a_repo_contributors_to_repo_count']].max(axis=1)
     df['project_b_contributors_count'] = df[['project_b_contributors_count', 'project_b_repo_contributors_to_repo_count']].max(axis=1)
 
-    # Drop unnecessary columns
-    columns_to_drop = [
-        'project_a_star_count', 'project_a_fork_count', 'project_a_watcher_count',
-        'project_b_star_count', 'project_b_fork_count', 'project_b_watcher_count',
-        'project_a_repo_contributors_to_repo_count', 'project_b_repo_contributors_to_repo_count',
-        'project_a_repo_image_path', 'project_b_repo_image_path',
-        'project_a_repo_description', 'project_b_repo_description',
-        'project_a_repo_last_commit_time', 'project_b_repo_last_commit_time',
-        'project_a_repo_language', 'project_b_repo_language',
-        'project_a_repo_license_spdx_id', 'project_b_repo_license_spdx_id',
-        'project_a_repo_created_at', 'project_a_repo_updated_at',
-        'project_a_repo_first_commit_time', 'project_b_repo_created_at',
-        'project_b_repo_updated_at', 'project_b_repo_first_commit_time',
-        'project_b_community_engagement', 'project_b_accessibility',
-        'project_b_Readme_score', 'project_b_technical_innovation',
-        'project_a_community_engagement', 'project_a_accessibility',
-        'project_a_Readme_score', 'project_a_technical_innovation'
-    ]
-    df.drop(columns=columns_to_drop, inplace=True)
-
     # Fill missing values with the mean of each column
     for col in df.columns:
         if df[col].isnull().sum() > 0:
@@ -60,7 +41,7 @@ def preprocess_data(df):
 
     return df
 
-# Train XGBoost regressor
+# Train XGBoost regressor and visualize feature importance
 def train_xgboost(df):
     # Define features (X) and label (Y)
     feature_columns = [col for col in df.columns if col not in ['id', 'project_a', 'project_b', 'weight_a', 'weight_b']]
@@ -68,10 +49,11 @@ def train_xgboost(df):
     Y = df['weight_a']
 
     # Split data into train and test sets
-    X_train, X_test, Y_train, Y_test = train_test_split(X, Y, test_size=0.00001, random_state=42)
+    X_train, X_test, Y_train, Y_test = train_test_split(X, Y, test_size=0.2, random_state=42)
     print("length of test", len(X_test))
+
     # Create and train the XGBoost model
-    model = xgb.XGBRegressor(objective='reg:squarederror', n_estimators=300, learning_rate=0.12, max_depth=4, random_state=888)
+    model = xgb.XGBRegressor(objective='reg:squarederror', n_estimators=400, learning_rate=0.12, max_depth=5, random_state=888)
     model.fit(X_train, Y_train)
 
     # Make predictions and evaluate the model
@@ -79,6 +61,19 @@ def train_xgboost(df):
     predictions = np.where(predictions >= 1, 0.99, np.where(predictions <= 0, 0.01, predictions))
     mse = mean_squared_error(Y_test, predictions)
     print(f"MSE: {mse}")
+
+    # Visualize feature importance
+    feature_importances = model.feature_importances_
+    sorted_idx = np.argsort(feature_importances)[::-1]
+    plt.figure(figsize=(12, 8))
+    plt.bar(range(len(feature_importances)), feature_importances[sorted_idx], align="center")
+    plt.xticks(range(len(feature_importances)), [feature_columns[i] for i in sorted_idx], rotation=90)
+    plt.title("Feature Importance")
+    plt.xlabel("Features")
+    plt.ylabel("Importance")
+    plt.tight_layout()
+    plt.savefig("feature_importance.png")
+    plt.show()
 
     return model
 

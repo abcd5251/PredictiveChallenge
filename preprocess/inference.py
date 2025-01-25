@@ -46,10 +46,6 @@ def preprocess_data(df):
         'project_a_repo_created_at', 'project_a_repo_updated_at',
         'project_a_repo_first_commit_time', 'project_b_repo_created_at',
         'project_b_repo_updated_at', 'project_b_repo_first_commit_time',
-        'project_b_community_engagement', 'project_b_accessibility',
-        'project_b_Readme_score', 'project_b_technical_innovation',
-        'project_a_community_engagement', 'project_a_accessibility',
-        'project_a_Readme_score', 'project_a_technical_innovation'
     ]
     df.drop(columns=columns_to_drop, inplace=True)
 
@@ -68,10 +64,10 @@ def train_xgboost(df):
     Y = df['weight_a']
 
     # Split data into train and test sets
-    X_train, X_test, Y_train, Y_test = train_test_split(X, Y, test_size=0.00001, random_state=42)
+    X_train, X_test, Y_train, Y_test = train_test_split(X, Y, test_size=0.000001, random_state=42)
     print("length of test", len(X_test))
     # Create and train the XGBoost model
-    model = xgb.XGBRegressor(objective='reg:squarederror', n_estimators=300, learning_rate=0.12, max_depth=4, random_state=888)
+    model = xgb.XGBRegressor(objective='reg:squarederror', n_estimators=400, learning_rate=0.12, max_depth=5, random_state=888)
     model.fit(X_train, Y_train)
 
     # Make predictions and evaluate the model
